@@ -3,7 +3,7 @@ import sunSvg from '@/assets/icons/sun.svg';
 
 export const Topbar = () => {
 
-    return <header className="sticky top-0 z-50 bg-white/95">
+    return <header className="sticky top-0 z-50 bg-white/80">
         <nav className="p-6 flex justify-between items-center">
             <div>
                 <h3 className="text-xl font-bold">Amazing Cheatsheet</h3>
