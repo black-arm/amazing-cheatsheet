@@ -1,5 +1,14 @@
 import { createLazyFileRoute } from '@tanstack/react-router'
 
 export const Route = createLazyFileRoute('/cheatsheet/$tech')({
-  component: () => <div>Hello /cheatsheet/$tech!</div>,
+  component: CheatsheetPage,
 })
+
+
+function CheatsheetPage() {
+  const {tech} = Route.useParams();
+
+  return <div>
+    {tech}  
+  </div>
+}

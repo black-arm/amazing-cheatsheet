@@ -5,11 +5,14 @@ export const Sidebar = (props: {links: {tag: string; href: string}[] }) => {
     
     return <ScrollArea className="w-full h-[38rem]" >
         {props.links.map((link) => (
-            <div key={link.href} className="text-sm">
-                <Link to="/cheatsheet/$tech"
-                    params={{ tech: link.href,}} 
-                >{link.tag}</Link>
-            </div>
+            <Link key={link.href} to="/cheatsheet/$tech" 
+                activeProps={{ className: `font-bold` }}
+                params={{ tech: link.href,}} >
+                <div className="text-sm p-2 hover:bg-gray-50/90">
+                    {link.tag}
+                </div>
+            </Link>
+                
         ))}
     </ScrollArea>
 }
