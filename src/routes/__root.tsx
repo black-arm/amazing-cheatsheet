@@ -1,20 +1,29 @@
-import { createRootRoute, Link, Outlet } from '@tanstack/react-router'
+import { createRootRoute, Outlet } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
 import '../App.css';
+import { Topbar } from '@/components/topbar';
+import { Sidebar } from '@/components/sidebar';
+import { useQuery } from '@tanstack/react-query';
+import { fetchSidebarMenuItem } from '@/domains/fetch';
 
 export const Route = createRootRoute({
-  component: () => (
-    <>
-      <div className="p-2 flex gap-2">
-        <Link to="/" className="[&.active]:font-bold">
-          Home
-        </Link>{' '}
-        <Link to="/about" className="[&.active]:font-bold">
-          About
-        </Link>
-      </div>
-      <Outlet />
-      <TanStackRouterDevtools />
-    </>
-  ),
+  component: Main,
 })
+
+function Main() {
+
+  const { data } = useQuery({ queryKey: ['menu'], queryFn: fetchSidebarMenuItem });
+
+  return <div className='relative min-h-full'>
+    <Topbar />
+    <main className='relative grid grid-cols-5'>
+      <div className='col-span-1'>
+        <Sidebar links={data ?? []} />
+      </div>
+      <div className='col-span-4'>
+        <Outlet />
+      </div>
+    </main>
+    <TanStackRouterDevtools />
+  </div>
+}
