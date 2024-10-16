@@ -1,16 +1,25 @@
 import { Link } from "@tanstack/react-router";
 import { ScrollArea } from "./ui/scroll-area";
 
-export const Sidebar = (props: {links: {tag: string; href: string}[] }) => {
+export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
     
-    return <ScrollArea className="w-full h-[38rem]" >
-        {props.links.map((link) => (
+    return <ScrollArea className="w-full h-[38rem] pl-2" >
+        {links.map((link) => (
             <Link key={link.href} to="/cheatsheet/$tech" 
-                activeProps={{ className: `font-bold` }}
-                params={{ tech: link.href,}} >
-                <div className="text-sm p-2 hover:bg-gray-50/90">
-                    {link.tag}
-                </div>
+                className="text-sm"
+                params={{ tech: link.href }} >
+                    {(props) => {                        
+                        const classActiveText = props.isActive  ? 
+                            `font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-600`: 
+                            '';
+                        const classActiveBox = props.isActive ?
+                            'bg-slate-100/40':
+                            '';
+
+                        return <div className={"py-1 px-2 rounded-sm hover:bg-slate-200/80 " + classActiveBox}>
+                            <span className={classActiveText}>{link.tag}</span>
+                        </div>
+                    }}
             </Link>
                 
         ))}
