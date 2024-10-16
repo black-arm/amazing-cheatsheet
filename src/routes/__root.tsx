@@ -1,6 +1,5 @@
 import { createRootRoute, Outlet } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
-import '../App.css';
 import { Topbar } from '@/components/topbar';
 import { Sidebar } from '@/components/sidebar';
 import { useQuery } from '@tanstack/react-query';

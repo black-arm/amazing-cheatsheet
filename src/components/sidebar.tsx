@@ -3,7 +3,7 @@ import { ScrollArea } from "./ui/scroll-area";
 
 export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
     
-    return <ScrollArea className="w-full h-[38rem] pl-2" >
+    return <ScrollArea className="w-full h-[38rem] pl-2 mt-3" >
         {links.map((link) => (
             <Link key={link.href} to="/cheatsheet/$tech" 
                 className="text-sm"
@@ -16,7 +16,7 @@ export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
                             'bg-slate-100/40':
                             '';
 
-                        return <div className={"py-1 px-2 rounded-sm hover:bg-slate-200/80 " + classActiveBox}>
+                        return <div className={"mt-2 py-1 px-2 rounded-sm hover:bg-slate-200/80 " + classActiveBox}>
                             <span className={classActiveText}>{link.tag}</span>
                         </div>
                     }}
