@@ -67,3 +67,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .title-color {
+    @apply  text-transparent font-bold bg-clip-text bg-gradient-to-br from-cyan-500 to-blue-600
+  }
+}
