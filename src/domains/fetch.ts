@@ -10,3 +10,15 @@ export async function fetchSidebarMenuItem(){
         console.log(error)
     }
 }
+
+export async function fetchTech(tech: string){
+    try {
+        const response = await fetch(`/src/assets/json/${tech}.json`, {
+            method: 'GET'
+        });
+
+        return await response.json() as { text: string; href: string }[];
+    } catch(error) {
+        console.log(error);
+    }
+}
