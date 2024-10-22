@@ -13,11 +13,11 @@ import { createFileRoute } from '@tanstack/react-router'
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
+import { Route as CheatsheetTechImport } from './routes/cheatsheet/$tech'
 
 // Create Virtual Routes
 
 const IndexLazyImport = createFileRoute('/')()
-const CheatsheetTechLazyImport = createFileRoute('/cheatsheet/$tech')()
 
 // Create/Update Routes
 
@@ -26,12 +26,10 @@ const IndexLazyRoute = IndexLazyImport.update({
   getParentRoute: () => rootRoute,
 } as any).lazy(() => import('./routes/index.lazy').then((d) => d.Route))
 
-const CheatsheetTechLazyRoute = CheatsheetTechLazyImport.update({
+const CheatsheetTechRoute = CheatsheetTechImport.update({
   path: '/cheatsheet/$tech',
   getParentRoute: () => rootRoute,
-} as any).lazy(() =>
-  import('./routes/cheatsheet/$tech.lazy').then((d) => d.Route),
-)
+} as any)
 
 // Populate the FileRoutesByPath interface
 
@@ -48,7 +46,7 @@ declare module '@tanstack/react-router' {
       id: '/cheatsheet/$tech'
       path: '/cheatsheet/$tech'
       fullPath: '/cheatsheet/$tech'
-      preLoaderRoute: typeof CheatsheetTechLazyImport
+      preLoaderRoute: typeof CheatsheetTechImport
       parentRoute: typeof rootRoute
     }
   }
@@ -58,18 +56,18 @@ declare module '@tanstack/react-router' {
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexLazyRoute
-  '/cheatsheet/$tech': typeof CheatsheetTechLazyRoute
+  '/cheatsheet/$tech': typeof CheatsheetTechRoute
 }
 
 export interface FileRoutesByTo {
   '/': typeof IndexLazyRoute
-  '/cheatsheet/$tech': typeof CheatsheetTechLazyRoute
+  '/cheatsheet/$tech': typeof CheatsheetTechRoute
 }
 
 export interface FileRoutesById {
   __root__: typeof rootRoute
   '/': typeof IndexLazyRoute
-  '/cheatsheet/$tech': typeof CheatsheetTechLazyRoute
+  '/cheatsheet/$tech': typeof CheatsheetTechRoute
 }
 
 export interface FileRouteTypes {
@@ -83,12 +81,12 @@ export interface FileRouteTypes {
 
 export interface RootRouteChildren {
   IndexLazyRoute: typeof IndexLazyRoute
-  CheatsheetTechLazyRoute: typeof CheatsheetTechLazyRoute
+  CheatsheetTechRoute: typeof CheatsheetTechRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexLazyRoute: IndexLazyRoute,
-  CheatsheetTechLazyRoute: CheatsheetTechLazyRoute,
+  CheatsheetTechRoute: CheatsheetTechRoute,
 }
 
 export const routeTree = rootRoute
@@ -111,7 +109,7 @@ export const routeTree = rootRoute
       "filePath": "index.lazy.tsx"
     },
     "/cheatsheet/$tech": {
-      "filePath": "cheatsheet/$tech.lazy.tsx"
+      "filePath": "cheatsheet/$tech.tsx"
     }
   }
 }
