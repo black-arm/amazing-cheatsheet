@@ -1,7 +1,7 @@
 
 export async function fetchSidebarMenuItem(){
     try {
-        const response = await fetch('/src/assets/json/menu.json', {
+        const response = await fetch('/json/menu.json', {
             method: 'GET'
         })
 
@@ -13,7 +13,7 @@ export async function fetchSidebarMenuItem(){
 
 export async function fetchTech(tech: string){
     try {
-        const response = await fetch(`/src/assets/json/${tech}.json`, {
+        const response = await fetch(`/json/${tech}.json`, {
             method: 'GET'
         });
 

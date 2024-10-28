@@ -28,7 +28,7 @@ async function extractAnchorsFromURL(url, filename) {
       anchors.push({ text, href });
     }
     // Write the data to a JSON file
-    const outputFileName = `${__dirname}/../src/assets/json/${filename}.json`;
+    const outputFileName = `${__dirname}/../public/json/${filename}.json`;
     fs.writeFileSync(outputFileName, JSON.stringify(anchors, null, 2));
 
     console.log(`Anchor data has been written to ${outputFileName}`);

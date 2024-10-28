@@ -3,7 +3,7 @@ import { ScrollArea } from "./ui/scroll-area";
 
 export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
     
-    return <ScrollArea className="w-full h-[38rem] px-2 mt-3 shadow-md" >
+    return <ScrollArea className="w-full h-full px-2 mt-3" >
         {links.map((link) => (
             <Link key={link.href} to="/cheatsheet/$tech" 
                 className="text-sm"
