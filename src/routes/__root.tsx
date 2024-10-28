@@ -12,17 +12,17 @@ export const Route = createRootRoute({
 function Main() {
 
   const { data } = useQuery({ queryKey: ['menu'], queryFn: fetchSidebarMenuItem });
-
+  console.log(import.meta.env)
   return <div className='relative min-h-full'>
     <Topbar />
     <main className='relative grid grid-cols-5'>
-      <div className='col-span-1'>
+      <div className='col-span-1 h-full'>
         <Sidebar links={data ?? []} />
       </div>
       <div className='col-span-4'>
         <Outlet />
       </div>
     </main>
-    <TanStackRouterDevtools />
+   { !import.meta.env.PROD ? <TanStackRouterDevtools /> : null }
   </div>
 }

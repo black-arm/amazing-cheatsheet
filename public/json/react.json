@@ -1,0 +1,371 @@
+[
+
+  {
+    "text": "Reference",
+    "href": "https://react.dev/reference/react"
+  },
+  {
+    "text": "Hooks",
+    "href": "https://react.dev/reference/react/hooks"
+  },
+  {
+    "text": "useActionState  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/useActionState"
+  },
+  {
+    "text": "useCallback",
+    "href": "https://react.dev/reference/react/useCallback"
+  },
+  {
+    "text": "useContext",
+    "href": "https://react.dev/reference/react/useContext"
+  },
+  {
+    "text": "useDebugValue",
+    "href": "https://react.dev/reference/react/useDebugValue"
+  },
+  {
+    "text": "useDeferredValue",
+    "href": "https://react.dev/reference/react/useDeferredValue"
+  },
+  {
+    "text": "useEffect",
+    "href": "https://react.dev/reference/react/useEffect"
+  },
+  {
+    "text": "useId",
+    "href": "https://react.dev/reference/react/useId"
+  },
+  {
+    "text": "useImperativeHandle",
+    "href": "https://react.dev/reference/react/useImperativeHandle"
+  },
+  {
+    "text": "useInsertionEffect",
+    "href": "https://react.dev/reference/react/useInsertionEffect"
+  },
+  {
+    "text": "useLayoutEffect",
+    "href": "https://react.dev/reference/react/useLayoutEffect"
+  },
+  {
+    "text": "useMemo",
+    "href": "https://react.dev/reference/react/useMemo"
+  },
+  {
+    "text": "useOptimistic  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/useOptimistic"
+  },
+  {
+    "text": "useReducer",
+    "href": "https://react.dev/reference/react/useReducer"
+  },
+  {
+    "text": "useRef",
+    "href": "https://react.dev/reference/react/useRef"
+  },
+  {
+    "text": "useState",
+    "href": "https://react.dev/reference/react/useState"
+  },
+  {
+    "text": "useSyncExternalStore",
+    "href": "https://react.dev/reference/react/useSyncExternalStore"
+  },
+  {
+    "text": "useTransition",
+    "href": "https://react.dev/reference/react/useTransition"
+  },
+  {
+    "text": "Components",
+    "href": "https://react.dev/reference/react/components"
+  },
+  {
+    "text": "&lt;Fragment&gt; (&lt;&gt;)",
+    "href": "https://react.dev/reference/react/Fragment"
+  },
+  {
+    "text": "&lt;Profiler&gt;",
+    "href": "https://react.dev/reference/react/Profiler"
+  },
+  {
+    "text": "&lt;StrictMode&gt;",
+    "href": "https://react.dev/reference/react/StrictMode"
+  },
+  {
+    "text": "&lt;Suspense&gt;",
+    "href": "https://react.dev/reference/react/Suspense"
+  },
+  {
+    "text": "APIs",
+    "href": "https://react.dev/reference/react/apis"
+  },
+  {
+    "text": "act",
+    "href": "https://react.dev/reference/react/act"
+  },
+  {
+    "text": "cache  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/cache"
+  },
+  {
+    "text": "createContext",
+    "href": "https://react.dev/reference/react/createContext"
+  },
+  {
+    "text": "forwardRef",
+    "href": "https://react.dev/reference/react/forwardRef"
+  },
+  {
+    "text": "lazy",
+    "href": "https://react.dev/reference/react/lazy"
+  },
+  {
+    "text": "memo",
+    "href": "https://react.dev/reference/react/memo"
+  },
+  {
+    "text": "startTransition",
+    "href": "https://react.dev/reference/react/startTransition"
+  },
+  {
+    "text": "use  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/use"
+  },
+  {
+    "text": "experimental_taintObjectReference  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/experimental_taintObjectReference"
+  },
+  {
+    "text": "experimental_taintUniqueValue  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react/experimental_taintUniqueValue"
+  },
+  {
+    "text": "Hooks",
+    "href": "https://react.dev/reference/react-dom/hooks"
+  },
+  {
+    "text": "useFormStatus  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/hooks/useFormStatus"
+  },
+  {
+    "text": "Components",
+    "href": "https://react.dev/reference/react-dom/components"
+  },
+  {
+    "text": "Common (e.g. &lt;div&gt;)",
+    "href": "https://react.dev/reference/react-dom/components/common"
+  },
+  {
+    "text": "&lt;form&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/form"
+  },
+  {
+    "text": "&lt;input&gt;",
+    "href": "https://react.dev/reference/react-dom/components/input"
+  },
+  {
+    "text": "&lt;option&gt;",
+    "href": "https://react.dev/reference/react-dom/components/option"
+  },
+  {
+    "text": "&lt;progress&gt;",
+    "href": "https://react.dev/reference/react-dom/components/progress"
+  },
+  {
+    "text": "&lt;select&gt;",
+    "href": "https://react.dev/reference/react-dom/components/select"
+  },
+  {
+    "text": "&lt;textarea&gt;",
+    "href": "https://react.dev/reference/react-dom/components/textarea"
+  },
+  {
+    "text": "&lt;link&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/link"
+  },
+  {
+    "text": "&lt;meta&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/meta"
+  },
+  {
+    "text": "&lt;script&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/script"
+  },
+  {
+    "text": "&lt;style&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/style"
+  },
+  {
+    "text": "&lt;title&gt;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/components/title"
+  },
+  {
+    "text": "APIs",
+    "href": "https://react.dev/reference/react-dom"
+  },
+  {
+    "text": "createPortal",
+    "href": "https://react.dev/reference/react-dom/createPortal"
+  },
+  {
+    "text": "flushSync",
+    "href": "https://react.dev/reference/react-dom/flushSync"
+  },
+  {
+    "text": "findDOMNode",
+    "href": "https://react.dev/reference/react-dom/findDOMNode"
+  },
+  {
+    "text": "hydrate",
+    "href": "https://react.dev/reference/react-dom/hydrate"
+  },
+  {
+    "text": "preconnect  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/preconnect"
+  },
+  {
+    "text": "prefetchDNS  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/prefetchDNS"
+  },
+  {
+    "text": "preinit  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/preinit"
+  },
+  {
+    "text": "preinitModule  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/preinitModule"
+  },
+  {
+    "text": "preload  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/preload"
+  },
+  {
+    "text": "preloadModule  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/react-dom/preloadModule"
+  },
+  {
+    "text": "render",
+    "href": "https://react.dev/reference/react-dom/render"
+  },
+  {
+    "text": "unmountComponentAtNode",
+    "href": "https://react.dev/reference/react-dom/unmountComponentAtNode"
+  },
+  {
+    "text": "Client APIs",
+    "href": "https://react.dev/reference/react-dom/client"
+  },
+  {
+    "text": "createRoot",
+    "href": "https://react.dev/reference/react-dom/client/createRoot"
+  },
+  {
+    "text": "hydrateRoot",
+    "href": "https://react.dev/reference/react-dom/client/hydrateRoot"
+  },
+  {
+    "text": "Server APIs",
+    "href": "https://react.dev/reference/react-dom/server"
+  },
+  {
+    "text": "renderToNodeStream",
+    "href": "https://react.dev/reference/react-dom/server/renderToNodeStream"
+  },
+  {
+    "text": "renderToPipeableStream",
+    "href": "https://react.dev/reference/react-dom/server/renderToPipeableStream"
+  },
+  {
+    "text": "renderToReadableStream",
+    "href": "https://react.dev/reference/react-dom/server/renderToReadableStream"
+  },
+  {
+    "text": "renderToStaticMarkup",
+    "href": "https://react.dev/reference/react-dom/server/renderToStaticMarkup"
+  },
+  {
+    "text": "renderToStaticNodeStream",
+    "href": "https://react.dev/reference/react-dom/server/renderToStaticNodeStream"
+  },
+  {
+    "text": "renderToString",
+    "href": "https://react.dev/reference/react-dom/server/renderToString"
+  },
+  {
+    "text": "Overview",
+    "href": "https://react.dev/reference/rules"
+  },
+  {
+    "text": "Components and Hooks must be pure",
+    "href": "https://react.dev/reference/rules/components-and-hooks-must-be-pure"
+  },
+  {
+    "text": "React calls Components and Hooks",
+    "href": "https://react.dev/reference/rules/react-calls-components-and-hooks"
+  },
+  {
+    "text": "Rules of Hooks",
+    "href": "https://react.dev/reference/rules/rules-of-hooks"
+  },
+  {
+    "text": "Server Components  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/rsc/server-components"
+  },
+  {
+    "text": "Server Actions  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/rsc/server-actions"
+  },
+  {
+    "text": "Directives  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/rsc/directives"
+  },
+  {
+    "text": "&#x27;use client&#x27;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/rsc/use-client"
+  },
+  {
+    "text": "&#x27;use server&#x27;  - This feature is available in the latest Canary",
+    "href": "https://react.dev/reference/rsc/use-server"
+  },
+  {
+    "text": "Legacy React APIs",
+    "href": "https://react.dev/reference/react/legacy"
+  },
+  {
+    "text": "Children",
+    "href": "https://react.dev/reference/react/Children"
+  },
+  {
+    "text": "cloneElement",
+    "href": "https://react.dev/reference/react/cloneElement"
+  },
+  {
+    "text": "Component",
+    "href": "https://react.dev/reference/react/Component"
+  },
+  {
+    "text": "createElement",
+    "href": "https://react.dev/reference/react/createElement"
+  },
+  {
+    "text": "createFactory",
+    "href": "https://react.dev/reference/react/createFactory"
+  },
+  {
+    "text": "createRef",
+    "href": "https://react.dev/reference/react/createRef"
+  },
+  {
+    "text": "isValidElement",
+    "href": "https://react.dev/reference/react/isValidElement"
+  },
+  {
+    "text": "PureComponent",
+    "href": "https://react.dev/reference/react/PureComponent"
+  },
+  {
+    "text": "API Reference",
+    "href": "https://react.dev/reference/react"
+  }
+]

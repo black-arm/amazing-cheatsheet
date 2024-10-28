@@ -27,7 +27,9 @@ export const Topbar = () => {
                 </h3>
             </Link>
             <div className='flex gap-2'>
-                <img src={theme === 'light' ? githubSvg : githubMoonSvg} alt='github logo' className='w-5 h-5' />
+                <a role='link' href="https://github.com/black-arm/amazing-cheatsheet" target='_blank'>
+                    <img  src={theme === 'light' ? githubSvg : githubMoonSvg} alt='github logo' className='w-5 h-5'/>
+                </a>
                 <img src={theme === 'light' ? sunSvg : moonSvg} 
                     alt="sun logo" 
                     className='w-5 h-5 cursor-pointer' 

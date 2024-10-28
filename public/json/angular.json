@@ -1,0 +1,3850 @@
+[
+  {
+    "text": "",
+    "href": "/"
+  },
+  {
+    "text": "Docs",
+    "href": "/docs"
+  },
+  {
+    "text": "Tutorials",
+    "href": "/tutorials"
+  },
+  {
+    "text": "Playground",
+    "href": "/playground"
+  },
+  {
+    "text": "Reference",
+    "href": "/reference"
+  },
+  {
+    "text": "Roadmap",
+    "href": "/roadmap"
+  },
+  {
+    "text": "Overview",
+    "href": "/api"
+  },
+  {
+    "text": "animate",
+    "href": "https://angular.dev/api/animations/animate"
+  },
+  {
+    "text": "animateChild",
+    "href": "https://angular.dev/api/animations/animateChild"
+  },
+  {
+    "text": "AnimateChildOptions",
+    "href": "https://angular.dev/api/animations/AnimateChildOptions"
+  },
+  {
+    "text": "AnimateTimings",
+    "href": "https://angular.dev/api/animations/AnimateTimings"
+  },
+  {
+    "text": "animation",
+    "href": "https://angular.dev/api/animations/animation"
+  },
+  {
+    "text": "AnimationAnimateChildMetadata",
+    "href": "https://angular.dev/api/animations/AnimationAnimateChildMetadata"
+  },
+  {
+    "text": "AnimationAnimateMetadata",
+    "href": "https://angular.dev/api/animations/AnimationAnimateMetadata"
+  },
+  {
+    "text": "AnimationAnimateRefMetadata",
+    "href": "https://angular.dev/api/animations/AnimationAnimateRefMetadata"
+  },
+  {
+    "text": "AnimationBuilder",
+    "href": "https://angular.dev/api/animations/AnimationBuilder"
+  },
+  {
+    "text": "AnimationEvent",
+    "href": "https://angular.dev/api/animations/AnimationEvent"
+  },
+  {
+    "text": "AnimationFactory",
+    "href": "https://angular.dev/api/animations/AnimationFactory"
+  },
+  {
+    "text": "AnimationGroupMetadata",
+    "href": "https://angular.dev/api/animations/AnimationGroupMetadata"
+  },
+  {
+    "text": "AnimationKeyframesSequenceMetadata",
+    "href": "https://angular.dev/api/animations/AnimationKeyframesSequenceMetadata"
+  },
+  {
+    "text": "AnimationMetadata",
+    "href": "https://angular.dev/api/animations/AnimationMetadata"
+  },
+  {
+    "text": "AnimationMetadataType",
+    "href": "https://angular.dev/api/animations/AnimationMetadataType"
+  },
+  {
+    "text": "AnimationOptions",
+    "href": "https://angular.dev/api/animations/AnimationOptions"
+  },
+  {
+    "text": "AnimationPlayer",
+    "href": "https://angular.dev/api/animations/AnimationPlayer"
+  },
+  {
+    "text": "AnimationQueryMetadata",
+    "href": "https://angular.dev/api/animations/AnimationQueryMetadata"
+  },
+  {
+    "text": "AnimationQueryOptions",
+    "href": "https://angular.dev/api/animations/AnimationQueryOptions"
+  },
+  {
+    "text": "AnimationReferenceMetadata",
+    "href": "https://angular.dev/api/animations/AnimationReferenceMetadata"
+  },
+  {
+    "text": "AnimationSequenceMetadata",
+    "href": "https://angular.dev/api/animations/AnimationSequenceMetadata"
+  },
+  {
+    "text": "AnimationStaggerMetadata",
+    "href": "https://angular.dev/api/animations/AnimationStaggerMetadata"
+  },
+  {
+    "text": "AnimationStateMetadata",
+    "href": "https://angular.dev/api/animations/AnimationStateMetadata"
+  },
+  {
+    "text": "AnimationStyleMetadata",
+    "href": "https://angular.dev/api/animations/AnimationStyleMetadata"
+  },
+  {
+    "text": "AnimationTransitionMetadata",
+    "href": "https://angular.dev/api/animations/AnimationTransitionMetadata"
+  },
+  {
+    "text": "AnimationTriggerMetadata",
+    "href": "https://angular.dev/api/animations/AnimationTriggerMetadata"
+  },
+  {
+    "text": "AUTO_STYLE",
+    "href": "https://angular.dev/api/animations/AUTO_STYLE"
+  },
+  {
+    "text": "group",
+    "href": "https://angular.dev/api/animations/group"
+  },
+  {
+    "text": "keyframes",
+    "href": "https://angular.dev/api/animations/keyframes"
+  },
+  {
+    "text": "NoopAnimationPlayer",
+    "href": "https://angular.dev/api/animations/NoopAnimationPlayer"
+  },
+  {
+    "text": "query",
+    "href": "https://angular.dev/api/animations/query"
+  },
+  {
+    "text": "sequence",
+    "href": "https://angular.dev/api/animations/sequence"
+  },
+  {
+    "text": "stagger",
+    "href": "https://angular.dev/api/animations/stagger"
+  },
+  {
+    "text": "state",
+    "href": "https://angular.dev/api/animations/state"
+  },
+  {
+    "text": "style",
+    "href": "https://angular.dev/api/animations/style"
+  },
+  {
+    "text": "transition",
+    "href": "https://angular.dev/api/animations/transition"
+  },
+  {
+    "text": "trigger",
+    "href": "https://angular.dev/api/animations/trigger"
+  },
+  {
+    "text": "useAnimation",
+    "href": "https://angular.dev/api/animations/useAnimation"
+  },
+  {
+    "text": "AnimationDriver",
+    "href": "https://angular.dev/api/animations/browser/AnimationDriver"
+  },
+  {
+    "text": "NoopAnimationDriver",
+    "href": "https://angular.dev/api/animations/browser/NoopAnimationDriver"
+  },
+  {
+    "text": "MockAnimationDriver",
+    "href": "https://angular.dev/api/animations/browser/testing/MockAnimationDriver"
+  },
+  {
+    "text": "MockAnimationPlayer",
+    "href": "https://angular.dev/api/animations/browser/testing/MockAnimationPlayer"
+  },
+  {
+    "text": "APP_BASE_HREF",
+    "href": "https://angular.dev/api/common/APP_BASE_HREF"
+  },
+  {
+    "text": "AsyncPipe",
+    "href": "https://angular.dev/api/common/AsyncPipe"
+  },
+  {
+    "text": "BrowserPlatformLocation",
+    "href": "https://angular.dev/api/common/BrowserPlatformLocation"
+  },
+  {
+    "text": "CommonModule",
+    "href": "https://angular.dev/api/common/CommonModule"
+  },
+  {
+    "text": "CurrencyPipe",
+    "href": "https://angular.dev/api/common/CurrencyPipe"
+  },
+  {
+    "text": "DATE_PIPE_DEFAULT_OPTIONS",
+    "href": "https://angular.dev/api/common/DATE_PIPE_DEFAULT_OPTIONS"
+  },
+  {
+    "text": "DATE_PIPE_DEFAULT_TIMEZONE",
+    "href": "https://angular.dev/api/common/DATE_PIPE_DEFAULT_TIMEZONE"
+  },
+  {
+    "text": "DatePipe",
+    "href": "https://angular.dev/api/common/DatePipe"
+  },
+  {
+    "text": "DatePipeConfig",
+    "href": "https://angular.dev/api/common/DatePipeConfig"
+  },
+  {
+    "text": "DecimalPipe",
+    "href": "https://angular.dev/api/common/DecimalPipe"
+  },
+  {
+    "text": "DOCUMENT",
+    "href": "https://angular.dev/api/common/DOCUMENT"
+  },
+  {
+    "text": "formatCurrency",
+    "href": "https://angular.dev/api/common/formatCurrency"
+  },
+  {
+    "text": "formatDate",
+    "href": "https://angular.dev/api/common/formatDate"
+  },
+  {
+    "text": "formatNumber",
+    "href": "https://angular.dev/api/common/formatNumber"
+  },
+  {
+    "text": "formatPercent",
+    "href": "https://angular.dev/api/common/formatPercent"
+  },
+  {
+    "text": "FormatWidth",
+    "href": "https://angular.dev/api/common/FormatWidth"
+  },
+  {
+    "text": "FormStyle",
+    "href": "https://angular.dev/api/common/FormStyle"
+  },
+  {
+    "text": "getCurrencySymbol",
+    "href": "https://angular.dev/api/common/getCurrencySymbol"
+  },
+  {
+    "text": "getLocaleCurrencyCode",
+    "href": "https://angular.dev/api/common/getLocaleCurrencyCode"
+  },
+  {
+    "text": "getLocaleCurrencyName",
+    "href": "https://angular.dev/api/common/getLocaleCurrencyName"
+  },
+  {
+    "text": "getLocaleCurrencySymbol",
+    "href": "https://angular.dev/api/common/getLocaleCurrencySymbol"
+  },
+  {
+    "text": "getLocaleDateFormat",
+    "href": "https://angular.dev/api/common/getLocaleDateFormat"
+  },
+  {
+    "text": "getLocaleDateTimeFormat",
+    "href": "https://angular.dev/api/common/getLocaleDateTimeFormat"
+  },
+  {
+    "text": "getLocaleDayNames",
+    "href": "https://angular.dev/api/common/getLocaleDayNames"
+  },
+  {
+    "text": "getLocaleDayPeriods",
+    "href": "https://angular.dev/api/common/getLocaleDayPeriods"
+  },
+  {
+    "text": "getLocaleDirection",
+    "href": "https://angular.dev/api/common/getLocaleDirection"
+  },
+  {
+    "text": "getLocaleEraNames",
+    "href": "https://angular.dev/api/common/getLocaleEraNames"
+  },
+  {
+    "text": "getLocaleExtraDayPeriodRules",
+    "href": "https://angular.dev/api/common/getLocaleExtraDayPeriodRules"
+  },
+  {
+    "text": "getLocaleExtraDayPeriods",
+    "href": "https://angular.dev/api/common/getLocaleExtraDayPeriods"
+  },
+  {
+    "text": "getLocaleFirstDayOfWeek",
+    "href": "https://angular.dev/api/common/getLocaleFirstDayOfWeek"
+  },
+  {
+    "text": "getLocaleId",
+    "href": "https://angular.dev/api/common/getLocaleId"
+  },
+  {
+    "text": "getLocaleMonthNames",
+    "href": "https://angular.dev/api/common/getLocaleMonthNames"
+  },
+  {
+    "text": "getLocaleNumberFormat",
+    "href": "https://angular.dev/api/common/getLocaleNumberFormat"
+  },
+  {
+    "text": "getLocaleNumberSymbol",
+    "href": "https://angular.dev/api/common/getLocaleNumberSymbol"
+  },
+  {
+    "text": "getLocalePluralCase",
+    "href": "https://angular.dev/api/common/getLocalePluralCase"
+  },
+  {
+    "text": "getLocaleTimeFormat",
+    "href": "https://angular.dev/api/common/getLocaleTimeFormat"
+  },
+  {
+    "text": "getLocaleWeekEndRange",
+    "href": "https://angular.dev/api/common/getLocaleWeekEndRange"
+  },
+  {
+    "text": "getNumberOfCurrencyDigits",
+    "href": "https://angular.dev/api/common/getNumberOfCurrencyDigits"
+  },
+  {
+    "text": "HashLocationStrategy",
+    "href": "https://angular.dev/api/common/HashLocationStrategy"
+  },
+  {
+    "text": "I18nPluralPipe",
+    "href": "https://angular.dev/api/common/I18nPluralPipe"
+  },
+  {
+    "text": "I18nSelectPipe",
+    "href": "https://angular.dev/api/common/I18nSelectPipe"
+  },
+  {
+    "text": "IMAGE_CONFIG",
+    "href": "https://angular.dev/api/common/IMAGE_CONFIG"
+  },
+  {
+    "text": "IMAGE_LOADER",
+    "href": "https://angular.dev/api/common/IMAGE_LOADER"
+  },
+  {
+    "text": "ImageConfig",
+    "href": "https://angular.dev/api/common/ImageConfig"
+  },
+  {
+    "text": "ImageLoader",
+    "href": "https://angular.dev/api/common/ImageLoader"
+  },
+  {
+    "text": "ImageLoaderConfig",
+    "href": "https://angular.dev/api/common/ImageLoaderConfig"
+  },
+  {
+    "text": "ImagePlaceholderConfig",
+    "href": "https://angular.dev/api/common/ImagePlaceholderConfig"
+  },
+  {
+    "text": "isPlatformBrowser",
+    "href": "https://angular.dev/api/common/isPlatformBrowser"
+  },
+  {
+    "text": "isPlatformServer",
+    "href": "https://angular.dev/api/common/isPlatformServer"
+  },
+  {
+    "text": "JsonPipe",
+    "href": "https://angular.dev/api/common/JsonPipe"
+  },
+  {
+    "text": "KeyValue",
+    "href": "https://angular.dev/api/common/KeyValue"
+  },
+  {
+    "text": "KeyValuePipe",
+    "href": "https://angular.dev/api/common/KeyValuePipe"
+  },
+  {
+    "text": "Location",
+    "href": "https://angular.dev/api/common/Location"
+  },
+  {
+    "text": "LOCATION_INITIALIZED",
+    "href": "https://angular.dev/api/common/LOCATION_INITIALIZED"
+  },
+  {
+    "text": "LocationChangeEvent",
+    "href": "https://angular.dev/api/common/LocationChangeEvent"
+  },
+  {
+    "text": "LocationChangeListener",
+    "href": "https://angular.dev/api/common/LocationChangeListener"
+  },
+  {
+    "text": "LocationStrategy",
+    "href": "https://angular.dev/api/common/LocationStrategy"
+  },
+  {
+    "text": "LowerCasePipe",
+    "href": "https://angular.dev/api/common/LowerCasePipe"
+  },
+  {
+    "text": "NgClass",
+    "href": "https://angular.dev/api/common/NgClass"
+  },
+  {
+    "text": "NgComponentOutlet",
+    "href": "https://angular.dev/api/common/NgComponentOutlet"
+  },
+  {
+    "text": "NgFor",
+    "href": "https://angular.dev/api/common/NgFor"
+  },
+  {
+    "text": "NgForOf",
+    "href": "https://angular.dev/api/common/NgForOf"
+  },
+  {
+    "text": "NgForOfContext",
+    "href": "https://angular.dev/api/common/NgForOfContext"
+  },
+  {
+    "text": "NgIf",
+    "href": "https://angular.dev/api/common/NgIf"
+  },
+  {
+    "text": "NgIfContext",
+    "href": "https://angular.dev/api/common/NgIfContext"
+  },
+  {
+    "text": "NgLocaleLocalization",
+    "href": "https://angular.dev/api/common/NgLocaleLocalization"
+  },
+  {
+    "text": "NgLocalization",
+    "href": "https://angular.dev/api/common/NgLocalization"
+  },
+  {
+    "text": "NgOptimizedImage",
+    "href": "https://angular.dev/api/common/NgOptimizedImage"
+  },
+  {
+    "text": "NgPlural",
+    "href": "https://angular.dev/api/common/NgPlural"
+  },
+  {
+    "text": "NgPluralCase",
+    "href": "https://angular.dev/api/common/NgPluralCase"
+  },
+  {
+    "text": "NgStyle",
+    "href": "https://angular.dev/api/common/NgStyle"
+  },
+  {
+    "text": "NgSwitch",
+    "href": "https://angular.dev/api/common/NgSwitch"
+  },
+  {
+    "text": "NgSwitchCase",
+    "href": "https://angular.dev/api/common/NgSwitchCase"
+  },
+  {
+    "text": "NgSwitchDefault",
+    "href": "https://angular.dev/api/common/NgSwitchDefault"
+  },
+  {
+    "text": "NgTemplateOutlet",
+    "href": "https://angular.dev/api/common/NgTemplateOutlet"
+  },
+  {
+    "text": "NumberFormatStyle",
+    "href": "https://angular.dev/api/common/NumberFormatStyle"
+  },
+  {
+    "text": "NumberSymbol",
+    "href": "https://angular.dev/api/common/NumberSymbol"
+  },
+  {
+    "text": "PathLocationStrategy",
+    "href": "https://angular.dev/api/common/PathLocationStrategy"
+  },
+  {
+    "text": "PercentPipe",
+    "href": "https://angular.dev/api/common/PercentPipe"
+  },
+  {
+    "text": "PlatformLocation",
+    "href": "https://angular.dev/api/common/PlatformLocation"
+  },
+  {
+    "text": "Plural",
+    "href": "https://angular.dev/api/common/Plural"
+  },
+  {
+    "text": "PopStateEvent",
+    "href": "https://angular.dev/api/common/PopStateEvent"
+  },
+  {
+    "text": "PRECONNECT_CHECK_BLOCKLIST",
+    "href": "https://angular.dev/api/common/PRECONNECT_CHECK_BLOCKLIST"
+  },
+  {
+    "text": "provideCloudflareLoader",
+    "href": "https://angular.dev/api/common/provideCloudflareLoader"
+  },
+  {
+    "text": "provideCloudinaryLoader",
+    "href": "https://angular.dev/api/common/provideCloudinaryLoader"
+  },
+  {
+    "text": "provideImageKitLoader",
+    "href": "https://angular.dev/api/common/provideImageKitLoader"
+  },
+  {
+    "text": "provideImgixLoader",
+    "href": "https://angular.dev/api/common/provideImgixLoader"
+  },
+  {
+    "text": "provideNetlifyLoader",
+    "href": "https://angular.dev/api/common/provideNetlifyLoader"
+  },
+  {
+    "text": "registerLocaleData",
+    "href": "https://angular.dev/api/common/registerLocaleData"
+  },
+  {
+    "text": "SlicePipe",
+    "href": "https://angular.dev/api/common/SlicePipe"
+  },
+  {
+    "text": "Time",
+    "href": "https://angular.dev/api/common/Time"
+  },
+  {
+    "text": "TitleCasePipe",
+    "href": "https://angular.dev/api/common/TitleCasePipe"
+  },
+  {
+    "text": "TranslationWidth",
+    "href": "https://angular.dev/api/common/TranslationWidth"
+  },
+  {
+    "text": "UpperCasePipe",
+    "href": "https://angular.dev/api/common/UpperCasePipe"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/common/VERSION"
+  },
+  {
+    "text": "ViewportScroller",
+    "href": "https://angular.dev/api/common/ViewportScroller"
+  },
+  {
+    "text": "WeekDay",
+    "href": "https://angular.dev/api/common/WeekDay"
+  },
+  {
+    "text": "XhrFactory",
+    "href": "https://angular.dev/api/common/XhrFactory"
+  },
+  {
+    "text": "FetchBackend",
+    "href": "https://angular.dev/api/common/http/FetchBackend"
+  },
+  {
+    "text": "HTTP_INTERCEPTORS",
+    "href": "https://angular.dev/api/common/http/HTTP_INTERCEPTORS"
+  },
+  {
+    "text": "HTTP_TRANSFER_CACHE_ORIGIN_MAP",
+    "href": "https://angular.dev/api/common/http/HTTP_TRANSFER_CACHE_ORIGIN_MAP"
+  },
+  {
+    "text": "HttpBackend",
+    "href": "https://angular.dev/api/common/http/HttpBackend"
+  },
+  {
+    "text": "HttpClient",
+    "href": "https://angular.dev/api/common/http/HttpClient"
+  },
+  {
+    "text": "HttpClientJsonpModule",
+    "href": "https://angular.dev/api/common/http/HttpClientJsonpModule"
+  },
+  {
+    "text": "HttpClientModule",
+    "href": "https://angular.dev/api/common/http/HttpClientModule"
+  },
+  {
+    "text": "HttpClientXsrfModule",
+    "href": "https://angular.dev/api/common/http/HttpClientXsrfModule"
+  },
+  {
+    "text": "HttpContext",
+    "href": "https://angular.dev/api/common/http/HttpContext"
+  },
+  {
+    "text": "HttpContextToken",
+    "href": "https://angular.dev/api/common/http/HttpContextToken"
+  },
+  {
+    "text": "HttpDownloadProgressEvent",
+    "href": "https://angular.dev/api/common/http/HttpDownloadProgressEvent"
+  },
+  {
+    "text": "HttpErrorResponse",
+    "href": "https://angular.dev/api/common/http/HttpErrorResponse"
+  },
+  {
+    "text": "HttpEvent",
+    "href": "https://angular.dev/api/common/http/HttpEvent"
+  },
+  {
+    "text": "HttpEventType",
+    "href": "https://angular.dev/api/common/http/HttpEventType"
+  },
+  {
+    "text": "HttpFeature",
+    "href": "https://angular.dev/api/common/http/HttpFeature"
+  },
+  {
+    "text": "HttpFeatureKind",
+    "href": "https://angular.dev/api/common/http/HttpFeatureKind"
+  },
+  {
+    "text": "HttpHandler",
+    "href": "https://angular.dev/api/common/http/HttpHandler"
+  },
+  {
+    "text": "HttpHandlerFn",
+    "href": "https://angular.dev/api/common/http/HttpHandlerFn"
+  },
+  {
+    "text": "HttpHeaderResponse",
+    "href": "https://angular.dev/api/common/http/HttpHeaderResponse"
+  },
+  {
+    "text": "HttpHeaders",
+    "href": "https://angular.dev/api/common/http/HttpHeaders"
+  },
+  {
+    "text": "HttpInterceptor",
+    "href": "https://angular.dev/api/common/http/HttpInterceptor"
+  },
+  {
+    "text": "HttpInterceptorFn",
+    "href": "https://angular.dev/api/common/http/HttpInterceptorFn"
+  },
+  {
+    "text": "HttpParameterCodec",
+    "href": "https://angular.dev/api/common/http/HttpParameterCodec"
+  },
+  {
+    "text": "HttpParams",
+    "href": "https://angular.dev/api/common/http/HttpParams"
+  },
+  {
+    "text": "HttpParamsOptions",
+    "href": "https://angular.dev/api/common/http/HttpParamsOptions"
+  },
+  {
+    "text": "HttpProgressEvent",
+    "href": "https://angular.dev/api/common/http/HttpProgressEvent"
+  },
+  {
+    "text": "HttpRequest",
+    "href": "https://angular.dev/api/common/http/HttpRequest"
+  },
+  {
+    "text": "HttpResponse",
+    "href": "https://angular.dev/api/common/http/HttpResponse"
+  },
+  {
+    "text": "HttpResponseBase",
+    "href": "https://angular.dev/api/common/http/HttpResponseBase"
+  },
+  {
+    "text": "HttpSentEvent",
+    "href": "https://angular.dev/api/common/http/HttpSentEvent"
+  },
+  {
+    "text": "HttpStatusCode",
+    "href": "https://angular.dev/api/common/http/HttpStatusCode"
+  },
+  {
+    "text": "HttpTransferCacheOptions",
+    "href": "https://angular.dev/api/common/http/HttpTransferCacheOptions"
+  },
+  {
+    "text": "HttpUploadProgressEvent",
+    "href": "https://angular.dev/api/common/http/HttpUploadProgressEvent"
+  },
+  {
+    "text": "HttpUrlEncodingCodec",
+    "href": "https://angular.dev/api/common/http/HttpUrlEncodingCodec"
+  },
+  {
+    "text": "HttpUserEvent",
+    "href": "https://angular.dev/api/common/http/HttpUserEvent"
+  },
+  {
+    "text": "HttpXhrBackend",
+    "href": "https://angular.dev/api/common/http/HttpXhrBackend"
+  },
+  {
+    "text": "HttpXsrfTokenExtractor",
+    "href": "https://angular.dev/api/common/http/HttpXsrfTokenExtractor"
+  },
+  {
+    "text": "JsonpClientBackend",
+    "href": "https://angular.dev/api/common/http/JsonpClientBackend"
+  },
+  {
+    "text": "JsonpInterceptor",
+    "href": "https://angular.dev/api/common/http/JsonpInterceptor"
+  },
+  {
+    "text": "provideHttpClient",
+    "href": "https://angular.dev/api/common/http/provideHttpClient"
+  },
+  {
+    "text": "withFetch",
+    "href": "https://angular.dev/api/common/http/withFetch"
+  },
+  {
+    "text": "withInterceptors",
+    "href": "https://angular.dev/api/common/http/withInterceptors"
+  },
+  {
+    "text": "withInterceptorsFromDi",
+    "href": "https://angular.dev/api/common/http/withInterceptorsFromDi"
+  },
+  {
+    "text": "withJsonpSupport",
+    "href": "https://angular.dev/api/common/http/withJsonpSupport"
+  },
+  {
+    "text": "withNoXsrfProtection",
+    "href": "https://angular.dev/api/common/http/withNoXsrfProtection"
+  },
+  {
+    "text": "withRequestsMadeViaParent",
+    "href": "https://angular.dev/api/common/http/withRequestsMadeViaParent"
+  },
+  {
+    "text": "withXsrfConfiguration",
+    "href": "https://angular.dev/api/common/http/withXsrfConfiguration"
+  },
+  {
+    "text": "HttpClientTestingModule",
+    "href": "https://angular.dev/api/common/http/testing/HttpClientTestingModule"
+  },
+  {
+    "text": "HttpTestingController",
+    "href": "https://angular.dev/api/common/http/testing/HttpTestingController"
+  },
+  {
+    "text": "provideHttpClientTesting",
+    "href": "https://angular.dev/api/common/http/testing/provideHttpClientTesting"
+  },
+  {
+    "text": "RequestMatch",
+    "href": "https://angular.dev/api/common/http/testing/RequestMatch"
+  },
+  {
+    "text": "TestRequest",
+    "href": "https://angular.dev/api/common/http/testing/TestRequest"
+  },
+  {
+    "text": "MOCK_PLATFORM_LOCATION_CONFIG",
+    "href": "https://angular.dev/api/common/testing/MOCK_PLATFORM_LOCATION_CONFIG"
+  },
+  {
+    "text": "MockLocationStrategy",
+    "href": "https://angular.dev/api/common/testing/MockLocationStrategy"
+  },
+  {
+    "text": "MockPlatformLocation",
+    "href": "https://angular.dev/api/common/testing/MockPlatformLocation"
+  },
+  {
+    "text": "MockPlatformLocationConfig",
+    "href": "https://angular.dev/api/common/testing/MockPlatformLocationConfig"
+  },
+  {
+    "text": "provideLocationMocks",
+    "href": "https://angular.dev/api/common/testing/provideLocationMocks"
+  },
+  {
+    "text": "SpyLocation",
+    "href": "https://angular.dev/api/common/testing/SpyLocation"
+  },
+  {
+    "text": "$locationShim",
+    "href": "https://angular.dev/api/common/upgrade/$locationShim"
+  },
+  {
+    "text": "$locationShimProvider",
+    "href": "https://angular.dev/api/common/upgrade/$locationShimProvider"
+  },
+  {
+    "text": "AngularJSUrlCodec",
+    "href": "https://angular.dev/api/common/upgrade/AngularJSUrlCodec"
+  },
+  {
+    "text": "LOCATION_UPGRADE_CONFIGURATION",
+    "href": "https://angular.dev/api/common/upgrade/LOCATION_UPGRADE_CONFIGURATION"
+  },
+  {
+    "text": "LocationUpgradeConfig",
+    "href": "https://angular.dev/api/common/upgrade/LocationUpgradeConfig"
+  },
+  {
+    "text": "LocationUpgradeModule",
+    "href": "https://angular.dev/api/common/upgrade/LocationUpgradeModule"
+  },
+  {
+    "text": "UrlCodec",
+    "href": "https://angular.dev/api/common/upgrade/UrlCodec"
+  },
+  {
+    "text": "@defer",
+    "href": "https://angular.dev/api/core/@defer"
+  },
+  {
+    "text": "@for",
+    "href": "https://angular.dev/api/core/@for"
+  },
+  {
+    "text": "@if",
+    "href": "https://angular.dev/api/core/@if"
+  },
+  {
+    "text": "@let",
+    "href": "https://angular.dev/api/core/@let"
+  },
+  {
+    "text": "@switch",
+    "href": "https://angular.dev/api/core/@switch"
+  },
+  {
+    "text": "AbstractType",
+    "href": "https://angular.dev/api/core/AbstractType"
+  },
+  {
+    "text": "AfterContentChecked",
+    "href": "https://angular.dev/api/core/AfterContentChecked"
+  },
+  {
+    "text": "AfterContentInit",
+    "href": "https://angular.dev/api/core/AfterContentInit"
+  },
+  {
+    "text": "afterNextRender",
+    "href": "https://angular.dev/api/core/afterNextRender"
+  },
+  {
+    "text": "afterRender",
+    "href": "https://angular.dev/api/core/afterRender"
+  },
+  {
+    "text": "AfterRenderOptions",
+    "href": "https://angular.dev/api/core/AfterRenderOptions"
+  },
+  {
+    "text": "AfterRenderPhase",
+    "href": "https://angular.dev/api/core/AfterRenderPhase"
+  },
+  {
+    "text": "AfterRenderRef",
+    "href": "https://angular.dev/api/core/AfterRenderRef"
+  },
+  {
+    "text": "AfterViewChecked",
+    "href": "https://angular.dev/api/core/AfterViewChecked"
+  },
+  {
+    "text": "AfterViewInit",
+    "href": "https://angular.dev/api/core/AfterViewInit"
+  },
+  {
+    "text": "ANIMATION_MODULE_TYPE",
+    "href": "https://angular.dev/api/core/ANIMATION_MODULE_TYPE"
+  },
+  {
+    "text": "APP_BOOTSTRAP_LISTENER",
+    "href": "https://angular.dev/api/core/APP_BOOTSTRAP_LISTENER"
+  },
+  {
+    "text": "APP_ID",
+    "href": "https://angular.dev/api/core/APP_ID"
+  },
+  {
+    "text": "APP_INITIALIZER",
+    "href": "https://angular.dev/api/core/APP_INITIALIZER"
+  },
+  {
+    "text": "ApplicationConfig",
+    "href": "https://angular.dev/api/core/ApplicationConfig"
+  },
+  {
+    "text": "ApplicationInitStatus",
+    "href": "https://angular.dev/api/core/ApplicationInitStatus"
+  },
+  {
+    "text": "ApplicationModule",
+    "href": "https://angular.dev/api/core/ApplicationModule"
+  },
+  {
+    "text": "ApplicationRef",
+    "href": "https://angular.dev/api/core/ApplicationRef"
+  },
+  {
+    "text": "asNativeElements",
+    "href": "https://angular.dev/api/core/asNativeElements"
+  },
+  {
+    "text": "assertInInjectionContext",
+    "href": "https://angular.dev/api/core/assertInInjectionContext"
+  },
+  {
+    "text": "assertNotInReactiveContext",
+    "href": "https://angular.dev/api/core/assertNotInReactiveContext"
+  },
+  {
+    "text": "assertPlatform",
+    "href": "https://angular.dev/api/core/assertPlatform"
+  },
+  {
+    "text": "Attribute",
+    "href": "https://angular.dev/api/core/Attribute"
+  },
+  {
+    "text": "booleanAttribute",
+    "href": "https://angular.dev/api/core/booleanAttribute"
+  },
+  {
+    "text": "BootstrapOptions",
+    "href": "https://angular.dev/api/core/BootstrapOptions"
+  },
+  {
+    "text": "ChangeDetectionStrategy",
+    "href": "https://angular.dev/api/core/ChangeDetectionStrategy"
+  },
+  {
+    "text": "ChangeDetectorRef",
+    "href": "https://angular.dev/api/core/ChangeDetectorRef"
+  },
+  {
+    "text": "ClassProvider",
+    "href": "https://angular.dev/api/core/ClassProvider"
+  },
+  {
+    "text": "ClassSansProvider",
+    "href": "https://angular.dev/api/core/ClassSansProvider"
+  },
+  {
+    "text": "Compiler",
+    "href": "https://angular.dev/api/core/Compiler"
+  },
+  {
+    "text": "COMPILER_OPTIONS",
+    "href": "https://angular.dev/api/core/COMPILER_OPTIONS"
+  },
+  {
+    "text": "CompilerFactory",
+    "href": "https://angular.dev/api/core/CompilerFactory"
+  },
+  {
+    "text": "CompilerOptions",
+    "href": "https://angular.dev/api/core/CompilerOptions"
+  },
+  {
+    "text": "Component",
+    "href": "https://angular.dev/api/core/Component"
+  },
+  {
+    "text": "ComponentFactory",
+    "href": "https://angular.dev/api/core/ComponentFactory"
+  },
+  {
+    "text": "ComponentFactoryResolver",
+    "href": "https://angular.dev/api/core/ComponentFactoryResolver"
+  },
+  {
+    "text": "ComponentMirror",
+    "href": "https://angular.dev/api/core/ComponentMirror"
+  },
+  {
+    "text": "ComponentRef",
+    "href": "https://angular.dev/api/core/ComponentRef"
+  },
+  {
+    "text": "computed",
+    "href": "https://angular.dev/api/core/computed"
+  },
+  {
+    "text": "ConstructorProvider",
+    "href": "https://angular.dev/api/core/ConstructorProvider"
+  },
+  {
+    "text": "ConstructorSansProvider",
+    "href": "https://angular.dev/api/core/ConstructorSansProvider"
+  },
+  {
+    "text": "contentChild",
+    "href": "https://angular.dev/api/core/contentChild"
+  },
+  {
+    "text": "ContentChild",
+    "href": "https://angular.dev/api/core/ContentChild"
+  },
+  {
+    "text": "contentChildren",
+    "href": "https://angular.dev/api/core/contentChildren"
+  },
+  {
+    "text": "ContentChildren",
+    "href": "https://angular.dev/api/core/ContentChildren"
+  },
+  {
+    "text": "createComponent",
+    "href": "https://angular.dev/api/core/createComponent"
+  },
+  {
+    "text": "CreateComputedOptions",
+    "href": "https://angular.dev/api/core/CreateComputedOptions"
+  },
+  {
+    "text": "CreateEffectOptions",
+    "href": "https://angular.dev/api/core/CreateEffectOptions"
+  },
+  {
+    "text": "createEnvironmentInjector",
+    "href": "https://angular.dev/api/core/createEnvironmentInjector"
+  },
+  {
+    "text": "createNgModule",
+    "href": "https://angular.dev/api/core/createNgModule"
+  },
+  {
+    "text": "createNgModuleRef",
+    "href": "https://angular.dev/api/core/createNgModuleRef"
+  },
+  {
+    "text": "createPlatform",
+    "href": "https://angular.dev/api/core/createPlatform"
+  },
+  {
+    "text": "createPlatformFactory",
+    "href": "https://angular.dev/api/core/createPlatformFactory"
+  },
+  {
+    "text": "CreateSignalOptions",
+    "href": "https://angular.dev/api/core/CreateSignalOptions"
+  },
+  {
+    "text": "CSP_NONCE",
+    "href": "https://angular.dev/api/core/CSP_NONCE"
+  },
+  {
+    "text": "CUSTOM_ELEMENTS_SCHEMA",
+    "href": "https://angular.dev/api/core/CUSTOM_ELEMENTS_SCHEMA"
+  },
+  {
+    "text": "DebugElement",
+    "href": "https://angular.dev/api/core/DebugElement"
+  },
+  {
+    "text": "DebugEventListener",
+    "href": "https://angular.dev/api/core/DebugEventListener"
+  },
+  {
+    "text": "DebugNode",
+    "href": "https://angular.dev/api/core/DebugNode"
+  },
+  {
+    "text": "DEFAULT_CURRENCY_CODE",
+    "href": "https://angular.dev/api/core/DEFAULT_CURRENCY_CODE"
+  },
+  {
+    "text": "DefaultIterableDiffer",
+    "href": "https://angular.dev/api/core/DefaultIterableDiffer"
+  },
+  {
+    "text": "defineInjectable",
+    "href": "https://angular.dev/api/core/defineInjectable"
+  },
+  {
+    "text": "destroyPlatform",
+    "href": "https://angular.dev/api/core/destroyPlatform"
+  },
+  {
+    "text": "DestroyRef",
+    "href": "https://angular.dev/api/core/DestroyRef"
+  },
+  {
+    "text": "Directive",
+    "href": "https://angular.dev/api/core/Directive"
+  },
+  {
+    "text": "DoBootstrap",
+    "href": "https://angular.dev/api/core/DoBootstrap"
+  },
+  {
+    "text": "DoCheck",
+    "href": "https://angular.dev/api/core/DoCheck"
+  },
+  {
+    "text": "effect",
+    "href": "https://angular.dev/api/core/effect"
+  },
+  {
+    "text": "EffectCleanupFn",
+    "href": "https://angular.dev/api/core/EffectCleanupFn"
+  },
+  {
+    "text": "EffectCleanupRegisterFn",
+    "href": "https://angular.dev/api/core/EffectCleanupRegisterFn"
+  },
+  {
+    "text": "EffectRef",
+    "href": "https://angular.dev/api/core/EffectRef"
+  },
+  {
+    "text": "ElementRef",
+    "href": "https://angular.dev/api/core/ElementRef"
+  },
+  {
+    "text": "EmbeddedViewRef",
+    "href": "https://angular.dev/api/core/EmbeddedViewRef"
+  },
+  {
+    "text": "enableProdMode",
+    "href": "https://angular.dev/api/core/enableProdMode"
+  },
+  {
+    "text": "ENVIRONMENT_INITIALIZER",
+    "href": "https://angular.dev/api/core/ENVIRONMENT_INITIALIZER"
+  },
+  {
+    "text": "EnvironmentInjector",
+    "href": "https://angular.dev/api/core/EnvironmentInjector"
+  },
+  {
+    "text": "EnvironmentProviders",
+    "href": "https://angular.dev/api/core/EnvironmentProviders"
+  },
+  {
+    "text": "ErrorHandler",
+    "href": "https://angular.dev/api/core/ErrorHandler"
+  },
+  {
+    "text": "EventEmitter",
+    "href": "https://angular.dev/api/core/EventEmitter"
+  },
+  {
+    "text": "ExistingProvider",
+    "href": "https://angular.dev/api/core/ExistingProvider"
+  },
+  {
+    "text": "ExistingSansProvider",
+    "href": "https://angular.dev/api/core/ExistingSansProvider"
+  },
+  {
+    "text": "ExperimentalPendingTasks",
+    "href": "https://angular.dev/api/core/ExperimentalPendingTasks"
+  },
+  {
+    "text": "FactoryProvider",
+    "href": "https://angular.dev/api/core/FactoryProvider"
+  },
+  {
+    "text": "FactorySansProvider",
+    "href": "https://angular.dev/api/core/FactorySansProvider"
+  },
+  {
+    "text": "forwardRef",
+    "href": "https://angular.dev/api/core/forwardRef"
+  },
+  {
+    "text": "ForwardRefFn",
+    "href": "https://angular.dev/api/core/ForwardRefFn"
+  },
+  {
+    "text": "getDebugNode",
+    "href": "https://angular.dev/api/core/getDebugNode"
+  },
+  {
+    "text": "getModuleFactory",
+    "href": "https://angular.dev/api/core/getModuleFactory"
+  },
+  {
+    "text": "getNgModuleById",
+    "href": "https://angular.dev/api/core/getNgModuleById"
+  },
+  {
+    "text": "getPlatform",
+    "href": "https://angular.dev/api/core/getPlatform"
+  },
+  {
+    "text": "GetTestability",
+    "href": "https://angular.dev/api/core/GetTestability"
+  },
+  {
+    "text": "Host",
+    "href": "https://angular.dev/api/core/Host"
+  },
+  {
+    "text": "HOST_TAG_NAME",
+    "href": "https://angular.dev/api/core/HOST_TAG_NAME"
+  },
+  {
+    "text": "HostAttributeToken",
+    "href": "https://angular.dev/api/core/HostAttributeToken"
+  },
+  {
+    "text": "HostBinding",
+    "href": "https://angular.dev/api/core/HostBinding"
+  },
+  {
+    "text": "HostListener",
+    "href": "https://angular.dev/api/core/HostListener"
+  },
+  {
+    "text": "ImportedNgModuleProviders",
+    "href": "https://angular.dev/api/core/ImportedNgModuleProviders"
+  },
+  {
+    "text": "importProvidersFrom",
+    "href": "https://angular.dev/api/core/importProvidersFrom"
+  },
+  {
+    "text": "ImportProvidersSource",
+    "href": "https://angular.dev/api/core/ImportProvidersSource"
+  },
+  {
+    "text": "inject",
+    "href": "https://angular.dev/api/core/inject"
+  },
+  {
+    "text": "Inject",
+    "href": "https://angular.dev/api/core/Inject"
+  },
+  {
+    "text": "Injectable",
+    "href": "https://angular.dev/api/core/Injectable"
+  },
+  {
+    "text": "InjectableProvider",
+    "href": "https://angular.dev/api/core/InjectableProvider"
+  },
+  {
+    "text": "InjectableType",
+    "href": "https://angular.dev/api/core/InjectableType"
+  },
+  {
+    "text": "InjectFlags",
+    "href": "https://angular.dev/api/core/InjectFlags"
+  },
+  {
+    "text": "InjectionToken",
+    "href": "https://angular.dev/api/core/InjectionToken"
+  },
+  {
+    "text": "InjectOptions",
+    "href": "https://angular.dev/api/core/InjectOptions"
+  },
+  {
+    "text": "Injector",
+    "href": "https://angular.dev/api/core/Injector"
+  },
+  {
+    "text": "INJECTOR",
+    "href": "https://angular.dev/api/core/INJECTOR"
+  },
+  {
+    "text": "InjectorType",
+    "href": "https://angular.dev/api/core/InjectorType"
+  },
+  {
+    "text": "input",
+    "href": "https://angular.dev/api/core/input"
+  },
+  {
+    "text": "Input",
+    "href": "https://angular.dev/api/core/Input"
+  },
+  {
+    "text": "InputOptions",
+    "href": "https://angular.dev/api/core/InputOptions"
+  },
+  {
+    "text": "InputOptionsWithoutTransform",
+    "href": "https://angular.dev/api/core/InputOptionsWithoutTransform"
+  },
+  {
+    "text": "InputOptionsWithTransform",
+    "href": "https://angular.dev/api/core/InputOptionsWithTransform"
+  },
+  {
+    "text": "InputSignal",
+    "href": "https://angular.dev/api/core/InputSignal"
+  },
+  {
+    "text": "InputSignalWithTransform",
+    "href": "https://angular.dev/api/core/InputSignalWithTransform"
+  },
+  {
+    "text": "isDevMode",
+    "href": "https://angular.dev/api/core/isDevMode"
+  },
+  {
+    "text": "isSignal",
+    "href": "https://angular.dev/api/core/isSignal"
+  },
+  {
+    "text": "isStandalone",
+    "href": "https://angular.dev/api/core/isStandalone"
+  },
+  {
+    "text": "IterableChangeRecord",
+    "href": "https://angular.dev/api/core/IterableChangeRecord"
+  },
+  {
+    "text": "IterableChanges",
+    "href": "https://angular.dev/api/core/IterableChanges"
+  },
+  {
+    "text": "IterableDiffer",
+    "href": "https://angular.dev/api/core/IterableDiffer"
+  },
+  {
+    "text": "IterableDifferFactory",
+    "href": "https://angular.dev/api/core/IterableDifferFactory"
+  },
+  {
+    "text": "IterableDiffers",
+    "href": "https://angular.dev/api/core/IterableDiffers"
+  },
+  {
+    "text": "KeyValueChangeRecord",
+    "href": "https://angular.dev/api/core/KeyValueChangeRecord"
+  },
+  {
+    "text": "KeyValueChanges",
+    "href": "https://angular.dev/api/core/KeyValueChanges"
+  },
+  {
+    "text": "KeyValueDiffer",
+    "href": "https://angular.dev/api/core/KeyValueDiffer"
+  },
+  {
+    "text": "KeyValueDifferFactory",
+    "href": "https://angular.dev/api/core/KeyValueDifferFactory"
+  },
+  {
+    "text": "KeyValueDiffers",
+    "href": "https://angular.dev/api/core/KeyValueDiffers"
+  },
+  {
+    "text": "LOCALE_ID",
+    "href": "https://angular.dev/api/core/LOCALE_ID"
+  },
+  {
+    "text": "makeEnvironmentProviders",
+    "href": "https://angular.dev/api/core/makeEnvironmentProviders"
+  },
+  {
+    "text": "makeStateKey",
+    "href": "https://angular.dev/api/core/makeStateKey"
+  },
+  {
+    "text": "mergeApplicationConfig",
+    "href": "https://angular.dev/api/core/mergeApplicationConfig"
+  },
+  {
+    "text": "MissingTranslationStrategy",
+    "href": "https://angular.dev/api/core/MissingTranslationStrategy"
+  },
+  {
+    "text": "model",
+    "href": "https://angular.dev/api/core/model"
+  },
+  {
+    "text": "ModelOptions",
+    "href": "https://angular.dev/api/core/ModelOptions"
+  },
+  {
+    "text": "ModelSignal",
+    "href": "https://angular.dev/api/core/ModelSignal"
+  },
+  {
+    "text": "ModuleWithComponentFactories",
+    "href": "https://angular.dev/api/core/ModuleWithComponentFactories"
+  },
+  {
+    "text": "ModuleWithProviders",
+    "href": "https://angular.dev/api/core/ModuleWithProviders"
+  },
+  {
+    "text": "ng-container",
+    "href": "https://angular.dev/api/core/ng-container"
+  },
+  {
+    "text": "ng-content",
+    "href": "https://angular.dev/api/core/ng-content"
+  },
+  {
+    "text": "ng-template",
+    "href": "https://angular.dev/api/core/ng-template"
+  },
+  {
+    "text": "NgIterable",
+    "href": "https://angular.dev/api/core/NgIterable"
+  },
+  {
+    "text": "NgModule",
+    "href": "https://angular.dev/api/core/NgModule"
+  },
+  {
+    "text": "NgModuleFactory",
+    "href": "https://angular.dev/api/core/NgModuleFactory"
+  },
+  {
+    "text": "NgModuleRef",
+    "href": "https://angular.dev/api/core/NgModuleRef"
+  },
+  {
+    "text": "NgProbeToken",
+    "href": "https://angular.dev/api/core/NgProbeToken"
+  },
+  {
+    "text": "NgZone",
+    "href": "https://angular.dev/api/core/NgZone"
+  },
+  {
+    "text": "NgZoneOptions",
+    "href": "https://angular.dev/api/core/NgZoneOptions"
+  },
+  {
+    "text": "NO_ERRORS_SCHEMA",
+    "href": "https://angular.dev/api/core/NO_ERRORS_SCHEMA"
+  },
+  {
+    "text": "numberAttribute",
+    "href": "https://angular.dev/api/core/numberAttribute"
+  },
+  {
+    "text": "OnChanges",
+    "href": "https://angular.dev/api/core/OnChanges"
+  },
+  {
+    "text": "OnDestroy",
+    "href": "https://angular.dev/api/core/OnDestroy"
+  },
+  {
+    "text": "OnInit",
+    "href": "https://angular.dev/api/core/OnInit"
+  },
+  {
+    "text": "Optional",
+    "href": "https://angular.dev/api/core/Optional"
+  },
+  {
+    "text": "output",
+    "href": "https://angular.dev/api/core/output"
+  },
+  {
+    "text": "Output",
+    "href": "https://angular.dev/api/core/Output"
+  },
+  {
+    "text": "OutputEmitterRef",
+    "href": "https://angular.dev/api/core/OutputEmitterRef"
+  },
+  {
+    "text": "OutputOptions",
+    "href": "https://angular.dev/api/core/OutputOptions"
+  },
+  {
+    "text": "OutputRef",
+    "href": "https://angular.dev/api/core/OutputRef"
+  },
+  {
+    "text": "OutputRefSubscription",
+    "href": "https://angular.dev/api/core/OutputRefSubscription"
+  },
+  {
+    "text": "PACKAGE_ROOT_URL",
+    "href": "https://angular.dev/api/core/PACKAGE_ROOT_URL"
+  },
+  {
+    "text": "Pipe",
+    "href": "https://angular.dev/api/core/Pipe"
+  },
+  {
+    "text": "PipeTransform",
+    "href": "https://angular.dev/api/core/PipeTransform"
+  },
+  {
+    "text": "PLATFORM_ID",
+    "href": "https://angular.dev/api/core/PLATFORM_ID"
+  },
+  {
+    "text": "PLATFORM_INITIALIZER",
+    "href": "https://angular.dev/api/core/PLATFORM_INITIALIZER"
+  },
+  {
+    "text": "platformCore",
+    "href": "https://angular.dev/api/core/platformCore"
+  },
+  {
+    "text": "PlatformRef",
+    "href": "https://angular.dev/api/core/PlatformRef"
+  },
+  {
+    "text": "Predicate",
+    "href": "https://angular.dev/api/core/Predicate"
+  },
+  {
+    "text": "provideExperimentalCheckNoChangesForDebug",
+    "href": "https://angular.dev/api/core/provideExperimentalCheckNoChangesForDebug"
+  },
+  {
+    "text": "provideExperimentalZonelessChangeDetection",
+    "href": "https://angular.dev/api/core/provideExperimentalZonelessChangeDetection"
+  },
+  {
+    "text": "Provider",
+    "href": "https://angular.dev/api/core/Provider"
+  },
+  {
+    "text": "ProviderToken",
+    "href": "https://angular.dev/api/core/ProviderToken"
+  },
+  {
+    "text": "provideZoneChangeDetection",
+    "href": "https://angular.dev/api/core/provideZoneChangeDetection"
+  },
+  {
+    "text": "Query",
+    "href": "https://angular.dev/api/core/Query"
+  },
+  {
+    "text": "QueryList",
+    "href": "https://angular.dev/api/core/QueryList"
+  },
+  {
+    "text": "reflectComponentType",
+    "href": "https://angular.dev/api/core/reflectComponentType"
+  },
+  {
+    "text": "Renderer2",
+    "href": "https://angular.dev/api/core/Renderer2"
+  },
+  {
+    "text": "RendererFactory2",
+    "href": "https://angular.dev/api/core/RendererFactory2"
+  },
+  {
+    "text": "RendererStyleFlags2",
+    "href": "https://angular.dev/api/core/RendererStyleFlags2"
+  },
+  {
+    "text": "RendererType2",
+    "href": "https://angular.dev/api/core/RendererType2"
+  },
+  {
+    "text": "resolveForwardRef",
+    "href": "https://angular.dev/api/core/resolveForwardRef"
+  },
+  {
+    "text": "runInInjectionContext",
+    "href": "https://angular.dev/api/core/runInInjectionContext"
+  },
+  {
+    "text": "Sanitizer",
+    "href": "https://angular.dev/api/core/Sanitizer"
+  },
+  {
+    "text": "SchemaMetadata",
+    "href": "https://angular.dev/api/core/SchemaMetadata"
+  },
+  {
+    "text": "SecurityContext",
+    "href": "https://angular.dev/api/core/SecurityContext"
+  },
+  {
+    "text": "Self",
+    "href": "https://angular.dev/api/core/Self"
+  },
+  {
+    "text": "setTestabilityGetter",
+    "href": "https://angular.dev/api/core/setTestabilityGetter"
+  },
+  {
+    "text": "signal",
+    "href": "https://angular.dev/api/core/signal"
+  },
+  {
+    "text": "Signal",
+    "href": "https://angular.dev/api/core/Signal"
+  },
+  {
+    "text": "SimpleChange",
+    "href": "https://angular.dev/api/core/SimpleChange"
+  },
+  {
+    "text": "SimpleChanges",
+    "href": "https://angular.dev/api/core/SimpleChanges"
+  },
+  {
+    "text": "SkipSelf",
+    "href": "https://angular.dev/api/core/SkipSelf"
+  },
+  {
+    "text": "StateKey",
+    "href": "https://angular.dev/api/core/StateKey"
+  },
+  {
+    "text": "StaticClassProvider",
+    "href": "https://angular.dev/api/core/StaticClassProvider"
+  },
+  {
+    "text": "StaticClassSansProvider",
+    "href": "https://angular.dev/api/core/StaticClassSansProvider"
+  },
+  {
+    "text": "StaticProvider",
+    "href": "https://angular.dev/api/core/StaticProvider"
+  },
+  {
+    "text": "TemplateRef",
+    "href": "https://angular.dev/api/core/TemplateRef"
+  },
+  {
+    "text": "Testability",
+    "href": "https://angular.dev/api/core/Testability"
+  },
+  {
+    "text": "TestabilityRegistry",
+    "href": "https://angular.dev/api/core/TestabilityRegistry"
+  },
+  {
+    "text": "TrackByFunction",
+    "href": "https://angular.dev/api/core/TrackByFunction"
+  },
+  {
+    "text": "TransferState",
+    "href": "https://angular.dev/api/core/TransferState"
+  },
+  {
+    "text": "TRANSLATIONS",
+    "href": "https://angular.dev/api/core/TRANSLATIONS"
+  },
+  {
+    "text": "TRANSLATIONS_FORMAT",
+    "href": "https://angular.dev/api/core/TRANSLATIONS_FORMAT"
+  },
+  {
+    "text": "Type",
+    "href": "https://angular.dev/api/core/Type"
+  },
+  {
+    "text": "TypeProvider",
+    "href": "https://angular.dev/api/core/TypeProvider"
+  },
+  {
+    "text": "untracked",
+    "href": "https://angular.dev/api/core/untracked"
+  },
+  {
+    "text": "ValueEqualityFn",
+    "href": "https://angular.dev/api/core/ValueEqualityFn"
+  },
+  {
+    "text": "ValueProvider",
+    "href": "https://angular.dev/api/core/ValueProvider"
+  },
+  {
+    "text": "ValueSansProvider",
+    "href": "https://angular.dev/api/core/ValueSansProvider"
+  },
+  {
+    "text": "Version",
+    "href": "https://angular.dev/api/core/Version"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/core/VERSION"
+  },
+  {
+    "text": "viewChild",
+    "href": "https://angular.dev/api/core/viewChild"
+  },
+  {
+    "text": "ViewChild",
+    "href": "https://angular.dev/api/core/ViewChild"
+  },
+  {
+    "text": "viewChildren",
+    "href": "https://angular.dev/api/core/viewChildren"
+  },
+  {
+    "text": "ViewChildren",
+    "href": "https://angular.dev/api/core/ViewChildren"
+  },
+  {
+    "text": "ViewContainerRef",
+    "href": "https://angular.dev/api/core/ViewContainerRef"
+  },
+  {
+    "text": "ViewEncapsulation",
+    "href": "https://angular.dev/api/core/ViewEncapsulation"
+  },
+  {
+    "text": "ViewRef",
+    "href": "https://angular.dev/api/core/ViewRef"
+  },
+  {
+    "text": "WritableSignal",
+    "href": "https://angular.dev/api/core/WritableSignal"
+  },
+  {
+    "text": "outputFromObservable",
+    "href": "https://angular.dev/api/core/rxjs-interop/outputFromObservable"
+  },
+  {
+    "text": "outputToObservable",
+    "href": "https://angular.dev/api/core/rxjs-interop/outputToObservable"
+  },
+  {
+    "text": "takeUntilDestroyed",
+    "href": "https://angular.dev/api/core/rxjs-interop/takeUntilDestroyed"
+  },
+  {
+    "text": "toObservable",
+    "href": "https://angular.dev/api/core/rxjs-interop/toObservable"
+  },
+  {
+    "text": "ToObservableOptions",
+    "href": "https://angular.dev/api/core/rxjs-interop/ToObservableOptions"
+  },
+  {
+    "text": "toSignal",
+    "href": "https://angular.dev/api/core/rxjs-interop/toSignal"
+  },
+  {
+    "text": "ToSignalOptions",
+    "href": "https://angular.dev/api/core/rxjs-interop/ToSignalOptions"
+  },
+  {
+    "text": "ComponentFixture",
+    "href": "https://angular.dev/api/core/testing/ComponentFixture"
+  },
+  {
+    "text": "ComponentFixtureAutoDetect",
+    "href": "https://angular.dev/api/core/testing/ComponentFixtureAutoDetect"
+  },
+  {
+    "text": "ComponentFixtureNoNgZone",
+    "href": "https://angular.dev/api/core/testing/ComponentFixtureNoNgZone"
+  },
+  {
+    "text": "DeferBlockBehavior",
+    "href": "https://angular.dev/api/core/testing/DeferBlockBehavior"
+  },
+  {
+    "text": "DeferBlockFixture",
+    "href": "https://angular.dev/api/core/testing/DeferBlockFixture"
+  },
+  {
+    "text": "DeferBlockState",
+    "href": "https://angular.dev/api/core/testing/DeferBlockState"
+  },
+  {
+    "text": "discardPeriodicTasks",
+    "href": "https://angular.dev/api/core/testing/discardPeriodicTasks"
+  },
+  {
+    "text": "fakeAsync",
+    "href": "https://angular.dev/api/core/testing/fakeAsync"
+  },
+  {
+    "text": "flush",
+    "href": "https://angular.dev/api/core/testing/flush"
+  },
+  {
+    "text": "flushMicrotasks",
+    "href": "https://angular.dev/api/core/testing/flushMicrotasks"
+  },
+  {
+    "text": "getTestBed",
+    "href": "https://angular.dev/api/core/testing/getTestBed"
+  },
+  {
+    "text": "inject",
+    "href": "https://angular.dev/api/core/testing/inject"
+  },
+  {
+    "text": "InjectSetupWrapper",
+    "href": "https://angular.dev/api/core/testing/InjectSetupWrapper"
+  },
+  {
+    "text": "MetadataOverride",
+    "href": "https://angular.dev/api/core/testing/MetadataOverride"
+  },
+  {
+    "text": "ModuleTeardownOptions",
+    "href": "https://angular.dev/api/core/testing/ModuleTeardownOptions"
+  },
+  {
+    "text": "resetFakeAsyncZone",
+    "href": "https://angular.dev/api/core/testing/resetFakeAsyncZone"
+  },
+  {
+    "text": "TestBed",
+    "href": "https://angular.dev/api/core/testing/TestBed"
+  },
+  {
+    "text": "TestBedStatic",
+    "href": "https://angular.dev/api/core/testing/TestBedStatic"
+  },
+  {
+    "text": "TestComponentRenderer",
+    "href": "https://angular.dev/api/core/testing/TestComponentRenderer"
+  },
+  {
+    "text": "TestEnvironmentOptions",
+    "href": "https://angular.dev/api/core/testing/TestEnvironmentOptions"
+  },
+  {
+    "text": "TestModuleMetadata",
+    "href": "https://angular.dev/api/core/testing/TestModuleMetadata"
+  },
+  {
+    "text": "tick",
+    "href": "https://angular.dev/api/core/testing/tick"
+  },
+  {
+    "text": "waitForAsync",
+    "href": "https://angular.dev/api/core/testing/waitForAsync"
+  },
+  {
+    "text": "withModule",
+    "href": "https://angular.dev/api/core/testing/withModule"
+  },
+  {
+    "text": "createCustomElement",
+    "href": "https://angular.dev/api/elements/createCustomElement"
+  },
+  {
+    "text": "NgElement",
+    "href": "https://angular.dev/api/elements/NgElement"
+  },
+  {
+    "text": "NgElementConfig",
+    "href": "https://angular.dev/api/elements/NgElementConfig"
+  },
+  {
+    "text": "NgElementConstructor",
+    "href": "https://angular.dev/api/elements/NgElementConstructor"
+  },
+  {
+    "text": "NgElementStrategy",
+    "href": "https://angular.dev/api/elements/NgElementStrategy"
+  },
+  {
+    "text": "NgElementStrategyEvent",
+    "href": "https://angular.dev/api/elements/NgElementStrategyEvent"
+  },
+  {
+    "text": "NgElementStrategyFactory",
+    "href": "https://angular.dev/api/elements/NgElementStrategyFactory"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/elements/VERSION"
+  },
+  {
+    "text": "WithProperties",
+    "href": "https://angular.dev/api/elements/WithProperties"
+  },
+  {
+    "text": "AbstractControl",
+    "href": "https://angular.dev/api/forms/AbstractControl"
+  },
+  {
+    "text": "AbstractControlDirective",
+    "href": "https://angular.dev/api/forms/AbstractControlDirective"
+  },
+  {
+    "text": "AbstractControlOptions",
+    "href": "https://angular.dev/api/forms/AbstractControlOptions"
+  },
+  {
+    "text": "AbstractFormGroupDirective",
+    "href": "https://angular.dev/api/forms/AbstractFormGroupDirective"
+  },
+  {
+    "text": "AsyncValidator",
+    "href": "https://angular.dev/api/forms/AsyncValidator"
+  },
+  {
+    "text": "AsyncValidatorFn",
+    "href": "https://angular.dev/api/forms/AsyncValidatorFn"
+  },
+  {
+    "text": "CheckboxControlValueAccessor",
+    "href": "https://angular.dev/api/forms/CheckboxControlValueAccessor"
+  },
+  {
+    "text": "CheckboxRequiredValidator",
+    "href": "https://angular.dev/api/forms/CheckboxRequiredValidator"
+  },
+  {
+    "text": "COMPOSITION_BUFFER_MODE",
+    "href": "https://angular.dev/api/forms/COMPOSITION_BUFFER_MODE"
+  },
+  {
+    "text": "ControlConfig",
+    "href": "https://angular.dev/api/forms/ControlConfig"
+  },
+  {
+    "text": "ControlContainer",
+    "href": "https://angular.dev/api/forms/ControlContainer"
+  },
+  {
+    "text": "ControlEvent",
+    "href": "https://angular.dev/api/forms/ControlEvent"
+  },
+  {
+    "text": "ControlValueAccessor",
+    "href": "https://angular.dev/api/forms/ControlValueAccessor"
+  },
+  {
+    "text": "DefaultValueAccessor",
+    "href": "https://angular.dev/api/forms/DefaultValueAccessor"
+  },
+  {
+    "text": "EmailValidator",
+    "href": "https://angular.dev/api/forms/EmailValidator"
+  },
+  {
+    "text": "Form",
+    "href": "https://angular.dev/api/forms/Form"
+  },
+  {
+    "text": "FormArray",
+    "href": "https://angular.dev/api/forms/FormArray"
+  },
+  {
+    "text": "FormArrayName",
+    "href": "https://angular.dev/api/forms/FormArrayName"
+  },
+  {
+    "text": "FormBuilder",
+    "href": "https://angular.dev/api/forms/FormBuilder"
+  },
+  {
+    "text": "FormControl",
+    "href": "https://angular.dev/api/forms/FormControl"
+  },
+  {
+    "text": "FormControlDirective",
+    "href": "https://angular.dev/api/forms/FormControlDirective"
+  },
+  {
+    "text": "FormControlName",
+    "href": "https://angular.dev/api/forms/FormControlName"
+  },
+  {
+    "text": "FormControlOptions",
+    "href": "https://angular.dev/api/forms/FormControlOptions"
+  },
+  {
+    "text": "FormControlState",
+    "href": "https://angular.dev/api/forms/FormControlState"
+  },
+  {
+    "text": "FormControlStatus",
+    "href": "https://angular.dev/api/forms/FormControlStatus"
+  },
+  {
+    "text": "FormGroup",
+    "href": "https://angular.dev/api/forms/FormGroup"
+  },
+  {
+    "text": "FormGroupDirective",
+    "href": "https://angular.dev/api/forms/FormGroupDirective"
+  },
+  {
+    "text": "FormGroupName",
+    "href": "https://angular.dev/api/forms/FormGroupName"
+  },
+  {
+    "text": "FormRecord",
+    "href": "https://angular.dev/api/forms/FormRecord"
+  },
+  {
+    "text": "FormResetEvent",
+    "href": "https://angular.dev/api/forms/FormResetEvent"
+  },
+  {
+    "text": "FormsModule",
+    "href": "https://angular.dev/api/forms/FormsModule"
+  },
+  {
+    "text": "FormSubmittedEvent",
+    "href": "https://angular.dev/api/forms/FormSubmittedEvent"
+  },
+  {
+    "text": "isFormArray",
+    "href": "https://angular.dev/api/forms/isFormArray"
+  },
+  {
+    "text": "isFormControl",
+    "href": "https://angular.dev/api/forms/isFormControl"
+  },
+  {
+    "text": "isFormGroup",
+    "href": "https://angular.dev/api/forms/isFormGroup"
+  },
+  {
+    "text": "isFormRecord",
+    "href": "https://angular.dev/api/forms/isFormRecord"
+  },
+  {
+    "text": "MaxLengthValidator",
+    "href": "https://angular.dev/api/forms/MaxLengthValidator"
+  },
+  {
+    "text": "MaxValidator",
+    "href": "https://angular.dev/api/forms/MaxValidator"
+  },
+  {
+    "text": "MinLengthValidator",
+    "href": "https://angular.dev/api/forms/MinLengthValidator"
+  },
+  {
+    "text": "MinValidator",
+    "href": "https://angular.dev/api/forms/MinValidator"
+  },
+  {
+    "text": "NG_ASYNC_VALIDATORS",
+    "href": "https://angular.dev/api/forms/NG_ASYNC_VALIDATORS"
+  },
+  {
+    "text": "NG_VALIDATORS",
+    "href": "https://angular.dev/api/forms/NG_VALIDATORS"
+  },
+  {
+    "text": "NG_VALUE_ACCESSOR",
+    "href": "https://angular.dev/api/forms/NG_VALUE_ACCESSOR"
+  },
+  {
+    "text": "NgControl",
+    "href": "https://angular.dev/api/forms/NgControl"
+  },
+  {
+    "text": "NgControlStatus",
+    "href": "https://angular.dev/api/forms/NgControlStatus"
+  },
+  {
+    "text": "NgControlStatusGroup",
+    "href": "https://angular.dev/api/forms/NgControlStatusGroup"
+  },
+  {
+    "text": "NgForm",
+    "href": "https://angular.dev/api/forms/NgForm"
+  },
+  {
+    "text": "NgModel",
+    "href": "https://angular.dev/api/forms/NgModel"
+  },
+  {
+    "text": "NgModelGroup",
+    "href": "https://angular.dev/api/forms/NgModelGroup"
+  },
+  {
+    "text": "NgSelectOption",
+    "href": "https://angular.dev/api/forms/NgSelectOption"
+  },
+  {
+    "text": "NonNullableFormBuilder",
+    "href": "https://angular.dev/api/forms/NonNullableFormBuilder"
+  },
+  {
+    "text": "NumberValueAccessor",
+    "href": "https://angular.dev/api/forms/NumberValueAccessor"
+  },
+  {
+    "text": "PatternValidator",
+    "href": "https://angular.dev/api/forms/PatternValidator"
+  },
+  {
+    "text": "PristineChangeEvent",
+    "href": "https://angular.dev/api/forms/PristineChangeEvent"
+  },
+  {
+    "text": "RadioControlValueAccessor",
+    "href": "https://angular.dev/api/forms/RadioControlValueAccessor"
+  },
+  {
+    "text": "RangeValueAccessor",
+    "href": "https://angular.dev/api/forms/RangeValueAccessor"
+  },
+  {
+    "text": "ReactiveFormsModule",
+    "href": "https://angular.dev/api/forms/ReactiveFormsModule"
+  },
+  {
+    "text": "RequiredValidator",
+    "href": "https://angular.dev/api/forms/RequiredValidator"
+  },
+  {
+    "text": "SelectControlValueAccessor",
+    "href": "https://angular.dev/api/forms/SelectControlValueAccessor"
+  },
+  {
+    "text": "SelectMultipleControlValueAccessor",
+    "href": "https://angular.dev/api/forms/SelectMultipleControlValueAccessor"
+  },
+  {
+    "text": "SetDisabledStateOption",
+    "href": "https://angular.dev/api/forms/SetDisabledStateOption"
+  },
+  {
+    "text": "StatusChangeEvent",
+    "href": "https://angular.dev/api/forms/StatusChangeEvent"
+  },
+  {
+    "text": "TouchedChangeEvent",
+    "href": "https://angular.dev/api/forms/TouchedChangeEvent"
+  },
+  {
+    "text": "UntypedFormArray",
+    "href": "https://angular.dev/api/forms/UntypedFormArray"
+  },
+  {
+    "text": "UntypedFormBuilder",
+    "href": "https://angular.dev/api/forms/UntypedFormBuilder"
+  },
+  {
+    "text": "UntypedFormControl",
+    "href": "https://angular.dev/api/forms/UntypedFormControl"
+  },
+  {
+    "text": "UntypedFormGroup",
+    "href": "https://angular.dev/api/forms/UntypedFormGroup"
+  },
+  {
+    "text": "ValidationErrors",
+    "href": "https://angular.dev/api/forms/ValidationErrors"
+  },
+  {
+    "text": "Validator",
+    "href": "https://angular.dev/api/forms/Validator"
+  },
+  {
+    "text": "ValidatorFn",
+    "href": "https://angular.dev/api/forms/ValidatorFn"
+  },
+  {
+    "text": "Validators",
+    "href": "https://angular.dev/api/forms/Validators"
+  },
+  {
+    "text": "ValueChangeEvent",
+    "href": "https://angular.dev/api/forms/ValueChangeEvent"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/forms/VERSION"
+  },
+  {
+    "text": "clearTranslations",
+    "href": "https://angular.dev/api/localize/clearTranslations"
+  },
+  {
+    "text": "loadTranslations",
+    "href": "https://angular.dev/api/localize/loadTranslations"
+  },
+  {
+    "text": "MessageId",
+    "href": "https://angular.dev/api/localize/MessageId"
+  },
+  {
+    "text": "TargetMessage",
+    "href": "https://angular.dev/api/localize/TargetMessage"
+  },
+  {
+    "text": "$localize",
+    "href": "https://angular.dev/api/localize/init/$localize"
+  },
+  {
+    "text": "ApplicationConfig",
+    "href": "https://angular.dev/api/platform-browser/ApplicationConfig"
+  },
+  {
+    "text": "bootstrapApplication",
+    "href": "https://angular.dev/api/platform-browser/bootstrapApplication"
+  },
+  {
+    "text": "BrowserModule",
+    "href": "https://angular.dev/api/platform-browser/BrowserModule"
+  },
+  {
+    "text": "By",
+    "href": "https://angular.dev/api/platform-browser/By"
+  },
+  {
+    "text": "createApplication",
+    "href": "https://angular.dev/api/platform-browser/createApplication"
+  },
+  {
+    "text": "disableDebugTools",
+    "href": "https://angular.dev/api/platform-browser/disableDebugTools"
+  },
+  {
+    "text": "DomSanitizer",
+    "href": "https://angular.dev/api/platform-browser/DomSanitizer"
+  },
+  {
+    "text": "enableDebugTools",
+    "href": "https://angular.dev/api/platform-browser/enableDebugTools"
+  },
+  {
+    "text": "EVENT_MANAGER_PLUGINS",
+    "href": "https://angular.dev/api/platform-browser/EVENT_MANAGER_PLUGINS"
+  },
+  {
+    "text": "EventManager",
+    "href": "https://angular.dev/api/platform-browser/EventManager"
+  },
+  {
+    "text": "EventManagerPlugin",
+    "href": "https://angular.dev/api/platform-browser/EventManagerPlugin"
+  },
+  {
+    "text": "HAMMER_GESTURE_CONFIG",
+    "href": "https://angular.dev/api/platform-browser/HAMMER_GESTURE_CONFIG"
+  },
+  {
+    "text": "HAMMER_LOADER",
+    "href": "https://angular.dev/api/platform-browser/HAMMER_LOADER"
+  },
+  {
+    "text": "HammerGestureConfig",
+    "href": "https://angular.dev/api/platform-browser/HammerGestureConfig"
+  },
+  {
+    "text": "HammerLoader",
+    "href": "https://angular.dev/api/platform-browser/HammerLoader"
+  },
+  {
+    "text": "HammerModule",
+    "href": "https://angular.dev/api/platform-browser/HammerModule"
+  },
+  {
+    "text": "HydrationFeature",
+    "href": "https://angular.dev/api/platform-browser/HydrationFeature"
+  },
+  {
+    "text": "HydrationFeatureKind",
+    "href": "https://angular.dev/api/platform-browser/HydrationFeatureKind"
+  },
+  {
+    "text": "Meta",
+    "href": "https://angular.dev/api/platform-browser/Meta"
+  },
+  {
+    "text": "MetaDefinition",
+    "href": "https://angular.dev/api/platform-browser/MetaDefinition"
+  },
+  {
+    "text": "platformBrowser",
+    "href": "https://angular.dev/api/platform-browser/platformBrowser"
+  },
+  {
+    "text": "provideClientHydration",
+    "href": "https://angular.dev/api/platform-browser/provideClientHydration"
+  },
+  {
+    "text": "provideProtractorTestingSupport",
+    "href": "https://angular.dev/api/platform-browser/provideProtractorTestingSupport"
+  },
+  {
+    "text": "REMOVE_STYLES_ON_COMPONENT_DESTROY",
+    "href": "https://angular.dev/api/platform-browser/REMOVE_STYLES_ON_COMPONENT_DESTROY"
+  },
+  {
+    "text": "SafeHtml",
+    "href": "https://angular.dev/api/platform-browser/SafeHtml"
+  },
+  {
+    "text": "SafeResourceUrl",
+    "href": "https://angular.dev/api/platform-browser/SafeResourceUrl"
+  },
+  {
+    "text": "SafeScript",
+    "href": "https://angular.dev/api/platform-browser/SafeScript"
+  },
+  {
+    "text": "SafeStyle",
+    "href": "https://angular.dev/api/platform-browser/SafeStyle"
+  },
+  {
+    "text": "SafeUrl",
+    "href": "https://angular.dev/api/platform-browser/SafeUrl"
+  },
+  {
+    "text": "SafeValue",
+    "href": "https://angular.dev/api/platform-browser/SafeValue"
+  },
+  {
+    "text": "Title",
+    "href": "https://angular.dev/api/platform-browser/Title"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/platform-browser/VERSION"
+  },
+  {
+    "text": "withEventReplay",
+    "href": "https://angular.dev/api/platform-browser/withEventReplay"
+  },
+  {
+    "text": "withHttpTransferCacheOptions",
+    "href": "https://angular.dev/api/platform-browser/withHttpTransferCacheOptions"
+  },
+  {
+    "text": "withI18nSupport",
+    "href": "https://angular.dev/api/platform-browser/withI18nSupport"
+  },
+  {
+    "text": "withNoHttpTransferCache",
+    "href": "https://angular.dev/api/platform-browser/withNoHttpTransferCache"
+  },
+  {
+    "text": "JitCompilerFactory",
+    "href": "https://angular.dev/api/platform-browser-dynamic/JitCompilerFactory"
+  },
+  {
+    "text": "platformBrowserDynamic",
+    "href": "https://angular.dev/api/platform-browser-dynamic/platformBrowserDynamic"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/platform-browser-dynamic/VERSION"
+  },
+  {
+    "text": "BrowserDynamicTestingModule",
+    "href": "https://angular.dev/api/platform-browser-dynamic/testing/BrowserDynamicTestingModule"
+  },
+  {
+    "text": "platformBrowserDynamicTesting",
+    "href": "https://angular.dev/api/platform-browser-dynamic/testing/platformBrowserDynamicTesting"
+  },
+  {
+    "text": "ANIMATION_MODULE_TYPE",
+    "href": "https://angular.dev/api/platform-browser/animations/ANIMATION_MODULE_TYPE"
+  },
+  {
+    "text": "BrowserAnimationsModule",
+    "href": "https://angular.dev/api/platform-browser/animations/BrowserAnimationsModule"
+  },
+  {
+    "text": "BrowserAnimationsModuleConfig",
+    "href": "https://angular.dev/api/platform-browser/animations/BrowserAnimationsModuleConfig"
+  },
+  {
+    "text": "NoopAnimationsModule",
+    "href": "https://angular.dev/api/platform-browser/animations/NoopAnimationsModule"
+  },
+  {
+    "text": "provideAnimations",
+    "href": "https://angular.dev/api/platform-browser/animations/provideAnimations"
+  },
+  {
+    "text": "provideNoopAnimations",
+    "href": "https://angular.dev/api/platform-browser/animations/provideNoopAnimations"
+  },
+  {
+    "text": "provideAnimationsAsync",
+    "href": "https://angular.dev/api/platform-browser/animations/async/provideAnimationsAsync"
+  },
+  {
+    "text": "BrowserTestingModule",
+    "href": "https://angular.dev/api/platform-browser/testing/BrowserTestingModule"
+  },
+  {
+    "text": "platformBrowserTesting",
+    "href": "https://angular.dev/api/platform-browser/testing/platformBrowserTesting"
+  },
+  {
+    "text": "BEFORE_APP_SERIALIZED",
+    "href": "https://angular.dev/api/platform-server/BEFORE_APP_SERIALIZED"
+  },
+  {
+    "text": "INITIAL_CONFIG",
+    "href": "https://angular.dev/api/platform-server/INITIAL_CONFIG"
+  },
+  {
+    "text": "PlatformConfig",
+    "href": "https://angular.dev/api/platform-server/PlatformConfig"
+  },
+  {
+    "text": "platformServer",
+    "href": "https://angular.dev/api/platform-server/platformServer"
+  },
+  {
+    "text": "PlatformState",
+    "href": "https://angular.dev/api/platform-server/PlatformState"
+  },
+  {
+    "text": "provideServerRendering",
+    "href": "https://angular.dev/api/platform-server/provideServerRendering"
+  },
+  {
+    "text": "renderApplication",
+    "href": "https://angular.dev/api/platform-server/renderApplication"
+  },
+  {
+    "text": "renderModule",
+    "href": "https://angular.dev/api/platform-server/renderModule"
+  },
+  {
+    "text": "ServerModule",
+    "href": "https://angular.dev/api/platform-server/ServerModule"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/platform-server/VERSION"
+  },
+  {
+    "text": "platformServerTesting",
+    "href": "https://angular.dev/api/platform-server/testing/platformServerTesting"
+  },
+  {
+    "text": "ServerTestingModule",
+    "href": "https://angular.dev/api/platform-server/testing/ServerTestingModule"
+  },
+  {
+    "text": "ActivatedRoute",
+    "href": "https://angular.dev/api/router/ActivatedRoute"
+  },
+  {
+    "text": "ActivatedRouteSnapshot",
+    "href": "https://angular.dev/api/router/ActivatedRouteSnapshot"
+  },
+  {
+    "text": "ActivationEnd",
+    "href": "https://angular.dev/api/router/ActivationEnd"
+  },
+  {
+    "text": "ActivationStart",
+    "href": "https://angular.dev/api/router/ActivationStart"
+  },
+  {
+    "text": "BaseRouteReuseStrategy",
+    "href": "https://angular.dev/api/router/BaseRouteReuseStrategy"
+  },
+  {
+    "text": "CanActivate",
+    "href": "https://angular.dev/api/router/CanActivate"
+  },
+  {
+    "text": "CanActivateChild",
+    "href": "https://angular.dev/api/router/CanActivateChild"
+  },
+  {
+    "text": "CanActivateChildFn",
+    "href": "https://angular.dev/api/router/CanActivateChildFn"
+  },
+  {
+    "text": "CanActivateFn",
+    "href": "https://angular.dev/api/router/CanActivateFn"
+  },
+  {
+    "text": "CanDeactivate",
+    "href": "https://angular.dev/api/router/CanDeactivate"
+  },
+  {
+    "text": "CanDeactivateFn",
+    "href": "https://angular.dev/api/router/CanDeactivateFn"
+  },
+  {
+    "text": "CanLoad",
+    "href": "https://angular.dev/api/router/CanLoad"
+  },
+  {
+    "text": "CanLoadFn",
+    "href": "https://angular.dev/api/router/CanLoadFn"
+  },
+  {
+    "text": "CanMatch",
+    "href": "https://angular.dev/api/router/CanMatch"
+  },
+  {
+    "text": "CanMatchFn",
+    "href": "https://angular.dev/api/router/CanMatchFn"
+  },
+  {
+    "text": "ChildActivationEnd",
+    "href": "https://angular.dev/api/router/ChildActivationEnd"
+  },
+  {
+    "text": "ChildActivationStart",
+    "href": "https://angular.dev/api/router/ChildActivationStart"
+  },
+  {
+    "text": "ChildrenOutletContexts",
+    "href": "https://angular.dev/api/router/ChildrenOutletContexts"
+  },
+  {
+    "text": "convertToParamMap",
+    "href": "https://angular.dev/api/router/convertToParamMap"
+  },
+  {
+    "text": "createUrlTreeFromSnapshot",
+    "href": "https://angular.dev/api/router/createUrlTreeFromSnapshot"
+  },
+  {
+    "text": "Data",
+    "href": "https://angular.dev/api/router/Data"
+  },
+  {
+    "text": "DebugTracingFeature",
+    "href": "https://angular.dev/api/router/DebugTracingFeature"
+  },
+  {
+    "text": "DefaultExport",
+    "href": "https://angular.dev/api/router/DefaultExport"
+  },
+  {
+    "text": "DefaultTitleStrategy",
+    "href": "https://angular.dev/api/router/DefaultTitleStrategy"
+  },
+  {
+    "text": "defaultUrlMatcher",
+    "href": "https://angular.dev/api/router/defaultUrlMatcher"
+  },
+  {
+    "text": "DefaultUrlSerializer",
+    "href": "https://angular.dev/api/router/DefaultUrlSerializer"
+  },
+  {
+    "text": "DeprecatedGuard",
+    "href": "https://angular.dev/api/router/DeprecatedGuard"
+  },
+  {
+    "text": "DetachedRouteHandle",
+    "href": "https://angular.dev/api/router/DetachedRouteHandle"
+  },
+  {
+    "text": "DisabledInitialNavigationFeature",
+    "href": "https://angular.dev/api/router/DisabledInitialNavigationFeature"
+  },
+  {
+    "text": "EnabledBlockingInitialNavigationFeature",
+    "href": "https://angular.dev/api/router/EnabledBlockingInitialNavigationFeature"
+  },
+  {
+    "text": "Event",
+    "href": "https://angular.dev/api/router/Event"
+  },
+  {
+    "text": "EventType",
+    "href": "https://angular.dev/api/router/EventType"
+  },
+  {
+    "text": "ExtraOptions",
+    "href": "https://angular.dev/api/router/ExtraOptions"
+  },
+  {
+    "text": "GuardResult",
+    "href": "https://angular.dev/api/router/GuardResult"
+  },
+  {
+    "text": "GuardsCheckEnd",
+    "href": "https://angular.dev/api/router/GuardsCheckEnd"
+  },
+  {
+    "text": "GuardsCheckStart",
+    "href": "https://angular.dev/api/router/GuardsCheckStart"
+  },
+  {
+    "text": "InitialNavigation",
+    "href": "https://angular.dev/api/router/InitialNavigation"
+  },
+  {
+    "text": "InitialNavigationFeature",
+    "href": "https://angular.dev/api/router/InitialNavigationFeature"
+  },
+  {
+    "text": "InMemoryScrollingFeature",
+    "href": "https://angular.dev/api/router/InMemoryScrollingFeature"
+  },
+  {
+    "text": "InMemoryScrollingOptions",
+    "href": "https://angular.dev/api/router/InMemoryScrollingOptions"
+  },
+  {
+    "text": "IsActiveMatchOptions",
+    "href": "https://angular.dev/api/router/IsActiveMatchOptions"
+  },
+  {
+    "text": "LoadChildren",
+    "href": "https://angular.dev/api/router/LoadChildren"
+  },
+  {
+    "text": "LoadChildrenCallback",
+    "href": "https://angular.dev/api/router/LoadChildrenCallback"
+  },
+  {
+    "text": "mapToCanActivate",
+    "href": "https://angular.dev/api/router/mapToCanActivate"
+  },
+  {
+    "text": "mapToCanActivateChild",
+    "href": "https://angular.dev/api/router/mapToCanActivateChild"
+  },
+  {
+    "text": "mapToCanDeactivate",
+    "href": "https://angular.dev/api/router/mapToCanDeactivate"
+  },
+  {
+    "text": "mapToCanMatch",
+    "href": "https://angular.dev/api/router/mapToCanMatch"
+  },
+  {
+    "text": "mapToResolve",
+    "href": "https://angular.dev/api/router/mapToResolve"
+  },
+  {
+    "text": "MaybeAsync",
+    "href": "https://angular.dev/api/router/MaybeAsync"
+  },
+  {
+    "text": "Navigation",
+    "href": "https://angular.dev/api/router/Navigation"
+  },
+  {
+    "text": "NavigationBehaviorOptions",
+    "href": "https://angular.dev/api/router/NavigationBehaviorOptions"
+  },
+  {
+    "text": "NavigationCancel",
+    "href": "https://angular.dev/api/router/NavigationCancel"
+  },
+  {
+    "text": "NavigationCancellationCode",
+    "href": "https://angular.dev/api/router/NavigationCancellationCode"
+  },
+  {
+    "text": "NavigationEnd",
+    "href": "https://angular.dev/api/router/NavigationEnd"
+  },
+  {
+    "text": "NavigationError",
+    "href": "https://angular.dev/api/router/NavigationError"
+  },
+  {
+    "text": "NavigationErrorHandlerFeature",
+    "href": "https://angular.dev/api/router/NavigationErrorHandlerFeature"
+  },
+  {
+    "text": "NavigationExtras",
+    "href": "https://angular.dev/api/router/NavigationExtras"
+  },
+  {
+    "text": "NavigationSkipped",
+    "href": "https://angular.dev/api/router/NavigationSkipped"
+  },
+  {
+    "text": "NavigationSkippedCode",
+    "href": "https://angular.dev/api/router/NavigationSkippedCode"
+  },
+  {
+    "text": "NavigationStart",
+    "href": "https://angular.dev/api/router/NavigationStart"
+  },
+  {
+    "text": "NoPreloading",
+    "href": "https://angular.dev/api/router/NoPreloading"
+  },
+  {
+    "text": "OnSameUrlNavigation",
+    "href": "https://angular.dev/api/router/OnSameUrlNavigation"
+  },
+  {
+    "text": "OutletContext",
+    "href": "https://angular.dev/api/router/OutletContext"
+  },
+  {
+    "text": "ParamMap",
+    "href": "https://angular.dev/api/router/ParamMap"
+  },
+  {
+    "text": "Params",
+    "href": "https://angular.dev/api/router/Params"
+  },
+  {
+    "text": "PreloadAllModules",
+    "href": "https://angular.dev/api/router/PreloadAllModules"
+  },
+  {
+    "text": "PreloadingFeature",
+    "href": "https://angular.dev/api/router/PreloadingFeature"
+  },
+  {
+    "text": "PreloadingStrategy",
+    "href": "https://angular.dev/api/router/PreloadingStrategy"
+  },
+  {
+    "text": "PRIMARY_OUTLET",
+    "href": "https://angular.dev/api/router/PRIMARY_OUTLET"
+  },
+  {
+    "text": "provideRouter",
+    "href": "https://angular.dev/api/router/provideRouter"
+  },
+  {
+    "text": "provideRoutes",
+    "href": "https://angular.dev/api/router/provideRoutes"
+  },
+  {
+    "text": "QueryParamsHandling",
+    "href": "https://angular.dev/api/router/QueryParamsHandling"
+  },
+  {
+    "text": "RedirectCommand",
+    "href": "https://angular.dev/api/router/RedirectCommand"
+  },
+  {
+    "text": "RedirectFunction",
+    "href": "https://angular.dev/api/router/RedirectFunction"
+  },
+  {
+    "text": "Resolve",
+    "href": "https://angular.dev/api/router/Resolve"
+  },
+  {
+    "text": "ResolveData",
+    "href": "https://angular.dev/api/router/ResolveData"
+  },
+  {
+    "text": "ResolveEnd",
+    "href": "https://angular.dev/api/router/ResolveEnd"
+  },
+  {
+    "text": "ResolveFn",
+    "href": "https://angular.dev/api/router/ResolveFn"
+  },
+  {
+    "text": "ResolveStart",
+    "href": "https://angular.dev/api/router/ResolveStart"
+  },
+  {
+    "text": "Route",
+    "href": "https://angular.dev/api/router/Route"
+  },
+  {
+    "text": "RouteConfigLoadEnd",
+    "href": "https://angular.dev/api/router/RouteConfigLoadEnd"
+  },
+  {
+    "text": "RouteConfigLoadStart",
+    "href": "https://angular.dev/api/router/RouteConfigLoadStart"
+  },
+  {
+    "text": "Router",
+    "href": "https://angular.dev/api/router/Router"
+  },
+  {
+    "text": "ROUTER_CONFIGURATION",
+    "href": "https://angular.dev/api/router/ROUTER_CONFIGURATION"
+  },
+  {
+    "text": "ROUTER_INITIALIZER",
+    "href": "https://angular.dev/api/router/ROUTER_INITIALIZER"
+  },
+  {
+    "text": "RouterConfigOptions",
+    "href": "https://angular.dev/api/router/RouterConfigOptions"
+  },
+  {
+    "text": "RouterConfigurationFeature",
+    "href": "https://angular.dev/api/router/RouterConfigurationFeature"
+  },
+  {
+    "text": "RouteReuseStrategy",
+    "href": "https://angular.dev/api/router/RouteReuseStrategy"
+  },
+  {
+    "text": "RouterEvent",
+    "href": "https://angular.dev/api/router/RouterEvent"
+  },
+  {
+    "text": "RouterFeature",
+    "href": "https://angular.dev/api/router/RouterFeature"
+  },
+  {
+    "text": "RouterFeatures",
+    "href": "https://angular.dev/api/router/RouterFeatures"
+  },
+  {
+    "text": "RouterHashLocationFeature",
+    "href": "https://angular.dev/api/router/RouterHashLocationFeature"
+  },
+  {
+    "text": "RouterLink",
+    "href": "https://angular.dev/api/router/RouterLink"
+  },
+  {
+    "text": "RouterLinkActive",
+    "href": "https://angular.dev/api/router/RouterLinkActive"
+  },
+  {
+    "text": "RouterLinkWithHref",
+    "href": "https://angular.dev/api/router/RouterLinkWithHref"
+  },
+  {
+    "text": "RouterModule",
+    "href": "https://angular.dev/api/router/RouterModule"
+  },
+  {
+    "text": "RouterOutlet",
+    "href": "https://angular.dev/api/router/RouterOutlet"
+  },
+  {
+    "text": "RouterOutletContract",
+    "href": "https://angular.dev/api/router/RouterOutletContract"
+  },
+  {
+    "text": "RouterPreloader",
+    "href": "https://angular.dev/api/router/RouterPreloader"
+  },
+  {
+    "text": "RouterState",
+    "href": "https://angular.dev/api/router/RouterState"
+  },
+  {
+    "text": "RouterStateSnapshot",
+    "href": "https://angular.dev/api/router/RouterStateSnapshot"
+  },
+  {
+    "text": "Routes",
+    "href": "https://angular.dev/api/router/Routes"
+  },
+  {
+    "text": "ROUTES",
+    "href": "https://angular.dev/api/router/ROUTES"
+  },
+  {
+    "text": "RoutesRecognized",
+    "href": "https://angular.dev/api/router/RoutesRecognized"
+  },
+  {
+    "text": "RunGuardsAndResolvers",
+    "href": "https://angular.dev/api/router/RunGuardsAndResolvers"
+  },
+  {
+    "text": "Scroll",
+    "href": "https://angular.dev/api/router/Scroll"
+  },
+  {
+    "text": "TitleStrategy",
+    "href": "https://angular.dev/api/router/TitleStrategy"
+  },
+  {
+    "text": "UrlCreationOptions",
+    "href": "https://angular.dev/api/router/UrlCreationOptions"
+  },
+  {
+    "text": "UrlHandlingStrategy",
+    "href": "https://angular.dev/api/router/UrlHandlingStrategy"
+  },
+  {
+    "text": "UrlMatcher",
+    "href": "https://angular.dev/api/router/UrlMatcher"
+  },
+  {
+    "text": "UrlMatchResult",
+    "href": "https://angular.dev/api/router/UrlMatchResult"
+  },
+  {
+    "text": "UrlSegment",
+    "href": "https://angular.dev/api/router/UrlSegment"
+  },
+  {
+    "text": "UrlSegmentGroup",
+    "href": "https://angular.dev/api/router/UrlSegmentGroup"
+  },
+  {
+    "text": "UrlSerializer",
+    "href": "https://angular.dev/api/router/UrlSerializer"
+  },
+  {
+    "text": "UrlTree",
+    "href": "https://angular.dev/api/router/UrlTree"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/router/VERSION"
+  },
+  {
+    "text": "ViewTransitionInfo",
+    "href": "https://angular.dev/api/router/ViewTransitionInfo"
+  },
+  {
+    "text": "ViewTransitionsFeature",
+    "href": "https://angular.dev/api/router/ViewTransitionsFeature"
+  },
+  {
+    "text": "ViewTransitionsFeatureOptions",
+    "href": "https://angular.dev/api/router/ViewTransitionsFeatureOptions"
+  },
+  {
+    "text": "withComponentInputBinding",
+    "href": "https://angular.dev/api/router/withComponentInputBinding"
+  },
+  {
+    "text": "withDebugTracing",
+    "href": "https://angular.dev/api/router/withDebugTracing"
+  },
+  {
+    "text": "withDisabledInitialNavigation",
+    "href": "https://angular.dev/api/router/withDisabledInitialNavigation"
+  },
+  {
+    "text": "withEnabledBlockingInitialNavigation",
+    "href": "https://angular.dev/api/router/withEnabledBlockingInitialNavigation"
+  },
+  {
+    "text": "withHashLocation",
+    "href": "https://angular.dev/api/router/withHashLocation"
+  },
+  {
+    "text": "withInMemoryScrolling",
+    "href": "https://angular.dev/api/router/withInMemoryScrolling"
+  },
+  {
+    "text": "withNavigationErrorHandler",
+    "href": "https://angular.dev/api/router/withNavigationErrorHandler"
+  },
+  {
+    "text": "withPreloading",
+    "href": "https://angular.dev/api/router/withPreloading"
+  },
+  {
+    "text": "withRouterConfig",
+    "href": "https://angular.dev/api/router/withRouterConfig"
+  },
+  {
+    "text": "withViewTransitions",
+    "href": "https://angular.dev/api/router/withViewTransitions"
+  },
+  {
+    "text": "RouterTestingHarness",
+    "href": "https://angular.dev/api/router/testing/RouterTestingHarness"
+  },
+  {
+    "text": "RouterTestingModule",
+    "href": "https://angular.dev/api/router/testing/RouterTestingModule"
+  },
+  {
+    "text": "locationSyncBootstrapListener",
+    "href": "https://angular.dev/api/router/upgrade/locationSyncBootstrapListener"
+  },
+  {
+    "text": "RouterUpgradeInitializer",
+    "href": "https://angular.dev/api/router/upgrade/RouterUpgradeInitializer"
+  },
+  {
+    "text": "setUpLocationSync",
+    "href": "https://angular.dev/api/router/upgrade/setUpLocationSync"
+  },
+  {
+    "text": "NoNewVersionDetectedEvent",
+    "href": "https://angular.dev/api/service-worker/NoNewVersionDetectedEvent"
+  },
+  {
+    "text": "provideServiceWorker",
+    "href": "https://angular.dev/api/service-worker/provideServiceWorker"
+  },
+  {
+    "text": "ServiceWorkerModule",
+    "href": "https://angular.dev/api/service-worker/ServiceWorkerModule"
+  },
+  {
+    "text": "SwPush",
+    "href": "https://angular.dev/api/service-worker/SwPush"
+  },
+  {
+    "text": "SwRegistrationOptions",
+    "href": "https://angular.dev/api/service-worker/SwRegistrationOptions"
+  },
+  {
+    "text": "SwUpdate",
+    "href": "https://angular.dev/api/service-worker/SwUpdate"
+  },
+  {
+    "text": "UnrecoverableStateEvent",
+    "href": "https://angular.dev/api/service-worker/UnrecoverableStateEvent"
+  },
+  {
+    "text": "VersionDetectedEvent",
+    "href": "https://angular.dev/api/service-worker/VersionDetectedEvent"
+  },
+  {
+    "text": "VersionEvent",
+    "href": "https://angular.dev/api/service-worker/VersionEvent"
+  },
+  {
+    "text": "VersionInstallationFailedEvent",
+    "href": "https://angular.dev/api/service-worker/VersionInstallationFailedEvent"
+  },
+  {
+    "text": "VersionReadyEvent",
+    "href": "https://angular.dev/api/service-worker/VersionReadyEvent"
+  },
+  {
+    "text": "UpgradeAdapter",
+    "href": "https://angular.dev/api/upgrade/UpgradeAdapter"
+  },
+  {
+    "text": "UpgradeAdapterRef",
+    "href": "https://angular.dev/api/upgrade/UpgradeAdapterRef"
+  },
+  {
+    "text": "downgradeComponent",
+    "href": "https://angular.dev/api/upgrade/static/downgradeComponent"
+  },
+  {
+    "text": "downgradeInjectable",
+    "href": "https://angular.dev/api/upgrade/static/downgradeInjectable"
+  },
+  {
+    "text": "downgradeModule",
+    "href": "https://angular.dev/api/upgrade/static/downgradeModule"
+  },
+  {
+    "text": "getAngularJSGlobal",
+    "href": "https://angular.dev/api/upgrade/static/getAngularJSGlobal"
+  },
+  {
+    "text": "getAngularLib",
+    "href": "https://angular.dev/api/upgrade/static/getAngularLib"
+  },
+  {
+    "text": "setAngularJSGlobal",
+    "href": "https://angular.dev/api/upgrade/static/setAngularJSGlobal"
+  },
+  {
+    "text": "setAngularLib",
+    "href": "https://angular.dev/api/upgrade/static/setAngularLib"
+  },
+  {
+    "text": "UpgradeComponent",
+    "href": "https://angular.dev/api/upgrade/static/UpgradeComponent"
+  },
+  {
+    "text": "UpgradeModule",
+    "href": "https://angular.dev/api/upgrade/static/UpgradeModule"
+  },
+  {
+    "text": "VERSION",
+    "href": "https://angular.dev/api/upgrade/static/VERSION"
+  },
+  {
+    "text": "createAngularJSTestingModule",
+    "href": "https://angular.dev/api/upgrade/static/testing/createAngularJSTestingModule"
+  },
+  {
+    "text": "createAngularTestingModule",
+    "href": "https://angular.dev/api/upgrade/static/testing/createAngularTestingModule"
+  },
+  {
+    "text": "applyChanges",
+    "href": "https://angular.dev/api/core/globals/applyChanges"
+  },
+  {
+    "text": "ComponentDebugMetadata",
+    "href": "https://angular.dev/api/core/globals/ComponentDebugMetadata"
+  },
+  {
+    "text": "DirectiveDebugMetadata",
+    "href": "https://angular.dev/api/core/globals/DirectiveDebugMetadata"
+  },
+  {
+    "text": "getComponent",
+    "href": "https://angular.dev/api/core/globals/getComponent"
+  },
+  {
+    "text": "getContext",
+    "href": "https://angular.dev/api/core/globals/getContext"
+  },
+  {
+    "text": "getDirectiveMetadata",
+    "href": "https://angular.dev/api/core/globals/getDirectiveMetadata"
+  },
+  {
+    "text": "getDirectives",
+    "href": "https://angular.dev/api/core/globals/getDirectives"
+  },
+  {
+    "text": "getHostElement",
+    "href": "https://angular.dev/api/core/globals/getHostElement"
+  },
+  {
+    "text": "getInjector",
+    "href": "https://angular.dev/api/core/globals/getInjector"
+  },
+  {
+    "text": "getListeners",
+    "href": "https://angular.dev/api/core/globals/getListeners"
+  },
+  {
+    "text": "getOwningComponent",
+    "href": "https://angular.dev/api/core/globals/getOwningComponent"
+  },
+  {
+    "text": "getRootComponents",
+    "href": "https://angular.dev/api/core/globals/getRootComponents"
+  },
+  {
+    "text": "Listener",
+    "href": "https://angular.dev/api/core/globals/Listener"
+  },
+  {
+    "text": "Overview",
+    "href": "/cli"
+  },
+  {
+    "text": "ng add",
+    "href": "/cli/add"
+  },
+  {
+    "text": "Overview",
+    "href": "/cli/analytics"
+  },
+  {
+    "text": "disable",
+    "href": "/cli/analytics/disable"
+  },
+  {
+    "text": "enable",
+    "href": "/cli/analytics/enable"
+  },
+  {
+    "text": "info",
+    "href": "/cli/analytics/info"
+  },
+  {
+    "text": "prompt",
+    "href": "/cli/analytics/prompt"
+  },
+  {
+    "text": "ng build",
+    "href": "/cli/build"
+  },
+  {
+    "text": "Overview",
+    "href": "/cli/cache"
+  },
+  {
+    "text": "clear",
+    "href": "/cli/cache/clean"
+  },
+  {
+    "text": "disable",
+    "href": "/cli/cache/disable"
+  },
+  {
+    "text": "enable",
+    "href": "/cli/cache/enable"
+  },
+  {
+    "text": "info",
+    "href": "/cli/cache/info"
+  },
+  {
+    "text": "Overview",
+    "href": "/cli/completion"
+  },
+  {
+    "text": "script",
+    "href": "/cli/completion/script"
+  },
+  {
+    "text": "ng config",
+    "href": "/cli/config"
+  },
+  {
+    "text": "ng deploy",
+    "href": "/cli/deploy"
+  },
+  {
+    "text": "ng e2e",
+    "href": "/cli/e2e"
+  },
+  {
+    "text": "ng extract-i18n",
+    "href": "/cli/extract-i18n"
+  },
+  {
+    "text": "Overview",
+    "href": "/cli/generate"
+  },
+  {
+    "text": "app-shell",
+    "href": "/cli/generate/app-shell"
+  },
+  {
+    "text": "application",
+    "href": "/cli/generate/application"
+  },
+  {
+    "text": "class",
+    "href": "/cli/generate/class"
+  },
+  {
+    "text": "component",
+    "href": "/cli/generate/component"
+  },
+  {
+    "text": "config",
+    "href": "/cli/generate/config"
+  },
+  {
+    "text": "directive",
+    "href": "/cli/generate/directive"
+  },
+  {
+    "text": "enum",
+    "href": "/cli/generate/enum"
+  },
+  {
+    "text": "environments",
+    "href": "/cli/generate/environments"
+  },
+  {
+    "text": "guard",
+    "href": "/cli/generate/guard"
+  },
+  {
+    "text": "interceptor",
+    "href": "/cli/generate/interceptor"
+  },
+  {
+    "text": "interface",
+    "href": "/cli/generate/interface"
+  },
+  {
+    "text": "library",
+    "href": "/cli/generate/library"
+  },
+  {
+    "text": "module",
+    "href": "/cli/generate/module"
+  },
+  {
+    "text": "pipe",
+    "href": "/cli/generate/pipe"
+  },
+  {
+    "text": "resolver",
+    "href": "/cli/generate/resolver"
+  },
+  {
+    "text": "service-worker",
+    "href": "/cli/generate/service-worker"
+  },
+  {
+    "text": "service",
+    "href": "/cli/generate/service"
+  },
+  {
+    "text": "web-worker",
+    "href": "/cli/generate/web-worker"
+  },
+  {
+    "text": "ng lint",
+    "href": "/cli/lint"
+  },
+  {
+    "text": "ng new",
+    "href": "/cli/new"
+  },
+  {
+    "text": "ng run",
+    "href": "/cli/run"
+  },
+  {
+    "text": "ng serve",
+    "href": "/cli/serve"
+  },
+  {
+    "text": "ng test",
+    "href": "/cli/test"
+  },
+  {
+    "text": "ng update",
+    "href": "/cli/update"
+  },
+  {
+    "text": "ng version",
+    "href": "/cli/version"
+  },
+  {
+    "text": "Overview",
+    "href": "/errors"
+  },
+  {
+    "text": "NG0100: Expression Changed After Checked",
+    "href": "/errors/NG0100"
+  },
+  {
+    "text": "NG01101: Wrong Async Validator Return Type",
+    "href": "/errors/NG01101"
+  },
+  {
+    "text": "NG01203: Missing value accessor",
+    "href": "/errors/NG01203"
+  },
+  {
+    "text": "NG0200: Circular Dependency in DI",
+    "href": "/errors/NG0200"
+  },
+  {
+    "text": "NG0201: No Provider Found",
+    "href": "/errors/NG0201"
+  },
+  {
+    "text": "NG0203: `inject()` must be called from an injection context",
+    "href": "/errors/NG0203"
+  },
+  {
+    "text": "NG0209: Invalid multi provider",
+    "href": "/errors/NG0209"
+  },
+  {
+    "text": "NG02200: Missing Iterable Differ",
+    "href": "/errors/NG02200"
+  },
+  {
+    "text": "NG02800: JSONP support in HttpClient configuration",
+    "href": "/errors/NG02800"
+  },
+  {
+    "text": "NG0300: Selector Collision",
+    "href": "/errors/NG0300"
+  },
+  {
+    "text": "NG0301: Export Not Found",
+    "href": "/errors/NG0301"
+  },
+  {
+    "text": "NG0302: Pipe Not Found",
+    "href": "/errors/NG0302"
+  },
+  {
+    "text": "NG0403: Bootstrapped NgModule doesn't specify which component to initialize",
+    "href": "/errors/NG0403"
+  },
+  {
+    "text": "NG0500: Hydration Node Mismatch",
+    "href": "/errors/NG0500"
+  },
+  {
+    "text": "NG0501: Hydration Missing Siblings",
+    "href": "/errors/NG0501"
+  },
+  {
+    "text": "NG0502: Hydration Missing Node",
+    "href": "/errors/NG0502"
+  },
+  {
+    "text": "NG0503: Hydration Unsupported Projection of DOM Nodes",
+    "href": "/errors/NG0503"
+  },
+  {
+    "text": "NG0504: Skip hydration flag is applied to an invalid node",
+    "href": "/errors/NG0504"
+  },
+  {
+    "text": "NG0505: No hydration info in server response",
+    "href": "/errors/NG0505"
+  },
+  {
+    "text": "NG0506: NgZone remains unstable",
+    "href": "/errors/NG0506"
+  },
+  {
+    "text": "NG0507: HTML content was altered after server-side rendering",
+    "href": "/errors/NG0507"
+  },
+  {
+    "text": "NG0602: Disallowed function call inside reactive context",
+    "href": "/errors/NG0602"
+  },
+  {
+    "text": "NG05104: Root element was not found",
+    "href": "/errors/NG05104"
+  },
+  {
+    "text": "NG0910: Unsafe bindings on an iframe element",
+    "href": "/errors/NG0910"
+  },
+  {
+    "text": "NG0912: Component ID generation collision",
+    "href": "/errors/NG0912"
+  },
+  {
+    "text": "NG0913: Runtime Performance Warnings",
+    "href": "/errors/NG0913"
+  },
+  {
+    "text": "NG0950: Required input is accessed before a value is set.",
+    "href": "/errors/NG0950"
+  },
+  {
+    "text": "NG0951: Child query result is required but no value is available.",
+    "href": "/errors/NG0951"
+  },
+  {
+    "text": "NG0955: Track expression resulted in duplicated keys for a given collection",
+    "href": "/errors/NG0955"
+  },
+  {
+    "text": "NG0956: Tracking expression caused re-creation of the DOM structure",
+    "href": "/errors/NG0956"
+  },
+  {
+    "text": "NG1001: Argument Not Literal",
+    "href": "/errors/NG1001"
+  },
+  {
+    "text": "NG2003: Missing Token",
+    "href": "/errors/NG2003"
+  },
+  {
+    "text": "NG2009: Invalid Shadow DOM selector",
+    "href": "/errors/NG2009"
+  },
+  {
+    "text": "NG3003: Import Cycle Detected",
+    "href": "/errors/NG3003"
+  },
+  {
+    "text": "NG05000: Hydration with unsupported Zone.js instance.",
+    "href": "/errors/NG05000"
+  },
+  {
+    "text": "NG6100: NgModule.id Set to module.id anti-pattern",
+    "href": "/errors/NG6100"
+  },
+  {
+    "text": "NG8001: Invalid Element",
+    "href": "/errors/NG8001"
+  },
+  {
+    "text": "NG8002: Invalid Attribute",
+    "href": "/errors/NG8002"
+  },
+  {
+    "text": "NG8003: Missing Reference Target",
+    "href": "/errors/NG8003"
+  },
+  {
+    "text": "Overview",
+    "href": "/extended-diagnostics"
+  },
+  {
+    "text": "NG8101: Invalid Banana-in-Box",
+    "href": "/extended-diagnostics/NG8101"
+  },
+  {
+    "text": "NG8102: Nullish coalescing not nullable",
+    "href": "/extended-diagnostics/NG8102"
+  },
+  {
+    "text": "NG8103: Missing control flow directive",
+    "href": "/extended-diagnostics/NG8103"
+  },
+  {
+    "text": "NG8104: Text attribute not binding",
+    "href": "/extended-diagnostics/NG8104"
+  },
+  {
+    "text": "NG8105: Missing `let` keyword in an *ngFor expression",
+    "href": "/extended-diagnostics/NG8105"
+  },
+  {
+    "text": "NG8106: Suffix not supported",
+    "href": "/extended-diagnostics/NG8106"
+  },
+  {
+    "text": "NG8107: Optional chain not nullable",
+    "href": "/extended-diagnostics/NG8107"
+  },
+  {
+    "text": "NG8108: ngSkipHydration should be a static attribute",
+    "href": "/extended-diagnostics/NG8108"
+  },
+  {
+    "text": "NG8109: Signals must be invoked in template interpolations",
+    "href": "/extended-diagnostics/NG8109"
+  },
+  {
+    "text": "NG8111: Functions must be invoked in event bindings",
+    "href": "/extended-diagnostics/NG8111"
+  },
+  {
+    "text": "Versioning and releases",
+    "href": "/reference/releases"
+  },
+  {
+    "text": "Version compatibility",
+    "href": "/reference/versions"
+  },
+  {
+    "text": "Update guide",
+    "href": "/update-guide"
+  },
+  {
+    "text": "File structure",
+    "href": "/reference/configs/file-structure"
+  },
+  {
+    "text": "Workspace configuration",
+    "href": "/reference/configs/workspace-config"
+  },
+  {
+    "text": "Angular compiler options",
+    "href": "/reference/configs/angular-compiler-options"
+  },
+  {
+    "text": "npm dependencies",
+    "href": "/reference/configs/npm-packages"
+  },
+  {
+    "text": "Overview",
+    "href": "/reference/migrations"
+  },
+  {
+    "text": "Standalone",
+    "href": "/reference/migrations/standalone"
+  },
+  {
+    "text": "Control Flow Syntax",
+    "href": "/reference/migrations/control-flow"
+  },
+  {
+    "text": "inject() Function",
+    "href": "/reference/migrations/inject-function"
+  },
+  {
+    "text": "Lazy-loaded routes",
+    "href": "/reference/migrations/route-lazy-loading"
+  },
+  {
+    "text": "Overview",
+    "href": "/reference/concepts"
+  },
+  {
+    "text": "Overview",
+    "href": "/guide/ngmodules"
+  },
+  {
+    "text": "JS Modules vs NgModules",
+    "href": "/guide/ngmodules/vs-jsmodule"
+  },
+  {
+    "text": "Launching your app with a root module",
+    "href": "/guide/ngmodules/bootstrapping"
+  },
+  {
+    "text": "Sharing NgModules",
+    "href": "/guide/ngmodules/sharing"
+  },
+  {
+    "text": "Frequently used NgModules",
+    "href": "/guide/ngmodules/frequent"
+  },
+  {
+    "text": "Feature modules",
+    "href": "/guide/ngmodules/feature-modules"
+  },
+  {
+    "text": "Types of feature modules",
+    "href": "/guide/ngmodules/module-types"
+  },
+  {
+    "text": "Providing dependencies",
+    "href": "/guide/ngmodules/providers"
+  },
+  {
+    "text": "Singleton services",
+    "href": "/guide/ngmodules/singleton-services"
+  },
+  {
+    "text": "Lazy-loading feature modules",
+    "href": "/guide/ngmodules/lazy-loading"
+  },
+  {
+    "text": "NgModule API",
+    "href": "/guide/ngmodules/api"
+  },
+  {
+    "text": "NgModule FAQs",
+    "href": "/guide/ngmodules/faq"
+  },
+  {
+    "text": "Most Common",
+    "href": "/api#featured"
+  },
+  {
+    "text": "animations",
+    "href": "/api#angular_animations"
+  },
+  {
+    "text": "animations/browser",
+    "href": "/api#angular_animations_browser"
+  },
+  {
+    "text": "animations/browser/testing",
+    "href": "/api#angular_animations_browser_testing"
+  },
+  {
+    "text": "common",
+    "href": "/api#angular_common"
+  },
+  {
+    "text": "common/http",
+    "href": "/api#angular_common_http"
+  },
+  {
+    "text": "common/http/testing",
+    "href": "/api#angular_common_http_testing"
+  },
+  {
+    "text": "common/testing",
+    "href": "/api#angular_common_testing"
+  },
+  {
+    "text": "common/upgrade",
+    "href": "/api#angular_common_upgrade"
+  },
+  {
+    "text": "core",
+    "href": "/api#angular_core"
+  },
+  {
+    "text": "core/rxjs-interop",
+    "href": "/api#angular_core_rxjs-interop"
+  },
+  {
+    "text": "core/testing",
+    "href": "/api#angular_core_testing"
+  },
+  {
+    "text": "elements",
+    "href": "/api#angular_elements"
+  },
+  {
+    "text": "forms",
+    "href": "/api#angular_forms"
+  },
+  {
+    "text": "localize",
+    "href": "/api#angular_localize"
+  },
+  {
+    "text": "localize/init",
+    "href": "/api#angular_localize_init"
+  },
+  {
+    "text": "platform-browser",
+    "href": "/api#angular_platform-browser"
+  },
+  {
+    "text": "platform-browser-dynamic",
+    "href": "/api#angular_platform-browser-dynamic"
+  },
+  {
+    "text": "platform-browser-dynamic/testing",
+    "href": "/api#angular_platform-browser-dynamic_testing"
+  },
+  {
+    "text": "platform-browser/animations",
+    "href": "/api#angular_platform-browser_animations"
+  },
+  {
+    "text": "platform-browser/animations/async",
+    "href": "/api#angular_platform-browser_animations_async"
+  },
+  {
+    "text": "platform-browser/testing",
+    "href": "/api#angular_platform-browser_testing"
+  },
+  {
+    "text": "platform-server",
+    "href": "/api#angular_platform-server"
+  },
+  {
+    "text": "platform-server/testing",
+    "href": "/api#angular_platform-server_testing"
+  },
+  {
+    "text": "router",
+    "href": "/api#angular_router"
+  },
+  {
+    "text": "router/testing",
+    "href": "/api#angular_router_testing"
+  },
+  {
+    "text": "router/upgrade",
+    "href": "/api#angular_router_upgrade"
+  },
+  {
+    "text": "service-worker",
+    "href": "/api#angular_service-worker"
+  },
+  {
+    "text": "upgrade/static",
+    "href": "/api#angular_upgrade_static"
+  },
+  {
+    "text": "upgrade/static/testing",
+    "href": "/api#angular_upgrade_static_testing"
+  },
+  {
+    "text": "window.ng globals",
+    "href": "/api#angular_core_globals"
+  },
+  {
+    "text": "Blog",
+    "href": "https://blog.angular.dev"
+  },
+  {
+    "text": "X (formerly Twitter)",
+    "href": "https://x.com/angular"
+  },
+  {
+    "text": "YouTube",
+    "href": "https://www.youtube.com/angular"
+  },
+  {
+    "text": "Discord",
+    "href": "https://discord.gg/angular"
+  },
+  {
+    "text": "GitHub",
+    "href": "https://github.com/angular/angular"
+  },
+  {
+    "text": "Stack Overflow",
+    "href": "https://stackoverflow.com/questions/tagged/angular"
+  },
+  {
+    "text": "Contribute",
+    "href": "https://github.com/angular/angular/blob/main/CONTRIBUTING.md"
+  },
+  {
+    "text": "Code of Conduct",
+    "href": "https://github.com/angular/code-of-conduct/blob/main/CODE_OF_CONDUCT.md"
+  },
+  {
+    "text": "Report Issues",
+    "href": "https://github.com/angular/angular/issues"
+  },
+  {
+    "text": "Google's DevLibrary",
+    "href": "https://devlibrary.withgoogle.com/products/angular?sort=updated"
+  },
+  {
+    "text": "Angular Google Developer Experts",
+    "href": "https://developers.google.com/community/experts/directory?specialization=angular"
+  },
+  {
+    "text": "Press Kit",
+    "href": "/press-kit"
+  },
+  {
+    "text": "Roadmap",
+    "href": "/roadmap"
+  },
+  {
+    "text": "简体中文版",
+    "href": "https://angular.cn/"
+  },
+  {
+    "text": "正體中文版",
+    "href": "https://angular.tw/"
+  },
+  {
+    "text": "日本語版",
+    "href": "https://angular.jp/"
+  },
+  {
+    "text": "한국어",
+    "href": "https://angular.kr/"
+  },
+  {
+    "text": "Ελληνικά",
+    "href": "https://angular-gr.web.app"
+  },
+  {
+    "text": "MIT-style License",
+    "href": "/license"
+  },
+  {
+    "text": "CC BY 4.0",
+    "href": "https://creativecommons.org/licenses/by/4.0/"
+  }
+]
