@@ -2,6 +2,6 @@
     { "tag": "Angular", "href": "angular"},
     { "tag": "React", "href": "react"},
     { "tag": "Vue", "href": "vue"},
-    { "tag": "Svelte", "href": "Svelte" },
+    { "tag": "Svelte", "href": "svelte" },
     { "tag": "Qwik", "href": "qwik" }
 ]
