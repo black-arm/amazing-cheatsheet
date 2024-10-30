@@ -16,8 +16,8 @@ async function extractAnchorsFromURL(url, filename) {
     // Fetch the webpage content
     const response = await fetch(url);
     const html = await response.text();
-
-    const anchorRegex = /<a\s+[^>]*href="([^"]+)"[^>]*>(.*?)<\/a>/gi;
+                        
+    const anchorRegex = /<a\s+[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
     let matches;
     const anchors = [];
     

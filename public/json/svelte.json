@@ -1,0 +1,303 @@
+[
+  {
+    "text": ".svelte files",
+    "href": "https://svelte.dev/docs/svelte/svelte-files"
+  },
+  {
+    "text": ".svelte.js and .svelte.ts files",
+    "href": "https://svelte.dev/docs/svelte/svelte-js-files"
+  },
+  {
+    "text": "What are runes?",
+    "href": "https://svelte.dev/docs/svelte/what-are-runes"
+  },
+  {
+    "text": "$state",
+    "href": "https://svelte.dev/docs/svelte/$state"
+  },
+  {
+    "text": "$derived",
+    "href": "https://svelte.dev/docs/svelte/$derived"
+  },
+  {
+    "text": "$effect",
+    "href": "https://svelte.dev/docs/svelte/$effect"
+  },
+  {
+    "text": "$props",
+    "href": "https://svelte.dev/docs/svelte/$props"
+  },
+  {
+    "text": "$bindable",
+    "href": "https://svelte.dev/docs/svelte/$bindable"
+  },
+  {
+    "text": "$inspect",
+    "href": "https://svelte.dev/docs/svelte/$inspect"
+  },
+  {
+    "text": "$host",
+    "href": "https://svelte.dev/docs/svelte/$host"
+  },
+  {
+    "text": "Basic markup",
+    "href": "https://svelte.dev/docs/svelte/basic-markup"
+  },
+  {
+    "text": "{#if ...}",
+    "href": "https://svelte.dev/docs/svelte/if"
+  },
+  {
+    "text": "{#each ...}",
+    "href": "https://svelte.dev/docs/svelte/each"
+  },
+  {
+    "text": "{#key ...}",
+    "href": "https://svelte.dev/docs/svelte/key"
+  },
+  {
+    "text": "{#await ...}",
+    "href": "https://svelte.dev/docs/svelte/await"
+  },
+  {
+    "text": "{#snippet ...}",
+    "href": "https://svelte.dev/docs/svelte/snippet"
+  },
+  {
+    "text": "{@render ...}",
+    "href": "https://svelte.dev/docs/svelte/@render"
+  },
+  {
+    "text": "{@html ...}",
+    "href": "https://svelte.dev/docs/svelte/@html"
+  },
+  {
+    "text": "{@const ...}",
+    "href": "https://svelte.dev/docs/svelte/@const"
+  },
+  {
+    "text": "{@debug ...}",
+    "href": "https://svelte.dev/docs/svelte/@debug"
+  },
+  {
+    "text": "bind:",
+    "href": "https://svelte.dev/docs/svelte/bind"
+  },
+  {
+    "text": "use:",
+    "href": "https://svelte.dev/docs/svelte/use"
+  },
+  {
+    "text": "transition:",
+    "href": "https://svelte.dev/docs/svelte/transition"
+  },
+  {
+    "text": "in: and out:",
+    "href": "https://svelte.dev/docs/svelte/in-and-out"
+  },
+  {
+    "text": "animate:",
+    "href": "https://svelte.dev/docs/svelte/animate"
+  },
+  {
+    "text": "class:",
+    "href": "https://svelte.dev/docs/svelte/class"
+  },
+  {
+    "text": "style:",
+    "href": "https://svelte.dev/docs/svelte/style"
+  },
+  {
+    "text": "Scoped styles",
+    "href": "https://svelte.dev/docs/svelte/scoped-styles"
+  },
+  {
+    "text": "Global styles",
+    "href": "https://svelte.dev/docs/svelte/global-styles"
+  },
+  {
+    "text": "Custom properties",
+    "href": "https://svelte.dev/docs/svelte/custom-properties"
+  },
+  {
+    "text": "Nested &lt;style> elements",
+    "href": "https://svelte.dev/docs/svelte/nested-style-elements"
+  },
+  {
+    "text": "&lt;svelte:window>",
+    "href": "https://svelte.dev/docs/svelte/svelte-window"
+  },
+  {
+    "text": "&lt;svelte:document>",
+    "href": "https://svelte.dev/docs/svelte/svelte-document"
+  },
+  {
+    "text": "&lt;svelte:body>",
+    "href": "https://svelte.dev/docs/svelte/svelte-body"
+  },
+  {
+    "text": "&lt;svelte:head>",
+    "href": "https://svelte.dev/docs/svelte/svelte-head"
+  },
+  {
+    "text": "&lt;svelte:element>",
+    "href": "https://svelte.dev/docs/svelte/svelte-element"
+  },
+  {
+    "text": "&lt;svelte:options>",
+    "href": "https://svelte.dev/docs/svelte/svelte-options"
+  },
+  {
+    "text": "Stores",
+    "href": "https://svelte.dev/docs/svelte/stores"
+  },
+  {
+    "text": "Context",
+    "href": "https://svelte.dev/docs/svelte/context"
+  },
+  {
+    "text": "Lifecycle hooks",
+    "href": "https://svelte.dev/docs/svelte/lifecycle-hooks"
+  },
+  {
+    "text": "Imperative component API",
+    "href": "https://svelte.dev/docs/svelte/imperative-component-api"
+  },
+  {
+    "text": "Testing",
+    "href": "https://svelte.dev/docs/svelte/testing"
+  },
+  {
+    "text": "TypeScript",
+    "href": "https://svelte.dev/docs/svelte/typescript"
+  },
+  {
+    "text": "Custom elements",
+    "href": "https://svelte.dev/docs/svelte/custom-elements"
+  },
+  {
+    "text": "Svelte 4 migration guide",
+    "href": "https://svelte.dev/docs/svelte/v4-migration-guide"
+  },
+  {
+    "text": "Svelte 5 migration guide",
+    "href": "https://svelte.dev/docs/svelte/v5-migration-guide"
+  },
+  {
+    "text": "Frequently asked questions",
+    "href": "https://svelte.dev/docs/svelte/faq"
+  },
+  {
+    "text": "svelte",
+    "href": "https://svelte.dev/docs/svelte/svelte"
+  },
+  {
+    "text": "svelte/action",
+    "href": "https://svelte.dev/docs/svelte/svelte-action"
+  },
+  {
+    "text": "svelte/animate",
+    "href": "https://svelte.dev/docs/svelte/svelte-animate"
+  },
+  {
+    "text": "svelte/compiler",
+    "href": "https://svelte.dev/docs/svelte/svelte-compiler"
+  },
+  {
+    "text": "svelte/easing",
+    "href": "https://svelte.dev/docs/svelte/svelte-easing"
+  },
+  {
+    "text": "svelte/events",
+    "href": "https://svelte.dev/docs/svelte/svelte-events"
+  },
+  {
+    "text": "svelte/legacy",
+    "href": "https://svelte.dev/docs/svelte/svelte-legacy"
+  },
+  {
+    "text": "svelte/motion",
+    "href": "https://svelte.dev/docs/svelte/svelte-motion"
+  },
+  {
+    "text": "svelte/reactivity",
+    "href": "https://svelte.dev/docs/svelte/svelte-reactivity"
+  },
+  {
+    "text": "svelte/server",
+    "href": "https://svelte.dev/docs/svelte/svelte-server"
+  },
+  {
+    "text": "svelte/store",
+    "href": "https://svelte.dev/docs/svelte/svelte-store"
+  },
+  {
+    "text": "svelte/transition",
+    "href": "https://svelte.dev/docs/svelte/svelte-transition"
+  },
+  {
+    "text": "Compiler errors",
+    "href": "https://svelte.dev/docs/svelte/compiler-errors"
+  },
+  {
+    "text": "Compiler warnings",
+    "href": "https://svelte.dev/docs/svelte/compiler-warnings"
+  },
+  {
+    "text": "Runtime errors",
+    "href": "https://svelte.dev/docs/svelte/runtime-errors"
+  },
+  {
+    "text": "Runtime warnings",
+    "href": "https://svelte.dev/docs/svelte/runtime-warnings"
+  },
+  {
+    "text": "Overview",
+    "href": "https://svelte.dev/docs/svelte/legacy-overview"
+  },
+  {
+    "text": "Reactive let/var declarations",
+    "href": "https://svelte.dev/docs/svelte/legacy-let"
+  },
+  {
+    "text": "Reactive $: statements",
+    "href": "https://svelte.dev/docs/svelte/legacy-reactive-assignments"
+  },
+  {
+    "text": "export let",
+    "href": "https://svelte.dev/docs/svelte/legacy-export-let"
+  },
+  {
+    "text": "$$props and $$restProps",
+    "href": "https://svelte.dev/docs/svelte/legacy-$$props-and-$$restProps"
+  },
+  {
+    "text": "on:",
+    "href": "https://svelte.dev/docs/svelte/legacy-on"
+  },
+  {
+    "text": "<slot>",
+    "href": "https://svelte.dev/docs/svelte/legacy-slots"
+  },
+  {
+    "text": "$$slots",
+    "href": "https://svelte.dev/docs/svelte/legacy-$$slots"
+  },
+  {
+    "text": "&lt;svelte:fragment>",
+    "href": "https://svelte.dev/docs/svelte/legacy-svelte-fragment"
+  },
+  {
+    "text": "&lt;svelte:component>",
+    "href": "https://svelte.dev/docs/svelte/legacy-svelte-component"
+  },
+  {
+    "text": "&lt;svelte:self>",
+    "href": "https://svelte.dev/docs/svelte/legacy-svelte-self"
+  },
+  {
+    "text": "Imperative component API",
+    "href": "https://svelte.dev/docs/svelte/legacy-component-api"
+  }
+  
+]

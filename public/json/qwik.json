@@ -1,0 +1,1970 @@
+[
+  {
+    "text": "_qrlSync",
+    "href": "https://qwik.dev/api/qwik#qrlsync"
+  },
+  {
+    "text": "&quot;q:slot&quot;",
+    "href": "https://qwik.dev/api/qwik#qslot"
+  },
+  {
+    "text": "&quot;xlink:actuate&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinkactuate"
+  },
+  {
+    "text": "&quot;xlink:arcrole&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinkarcrole"
+  },
+  {
+    "text": "&quot;xlink:href&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinkhref"
+  },
+  {
+    "text": "&quot;xlink:role&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinkrole"
+  },
+  {
+    "text": "&quot;xlink:show&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinkshow"
+  },
+  {
+    "text": "&quot;xlink:title&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinktitle"
+  },
+  {
+    "text": "&quot;xlink:type&quot;",
+    "href": "https://qwik.dev/api/qwik#xlinktype"
+  },
+  {
+    "text": "&quot;xml:base&quot;",
+    "href": "https://qwik.dev/api/qwik#xmlbase"
+  },
+  {
+    "text": "&quot;xml:lang&quot;",
+    "href": "https://qwik.dev/api/qwik#xmllang"
+  },
+  {
+    "text": "&quot;xml:space&quot;",
+    "href": "https://qwik.dev/api/qwik#xmlspace"
+  },
+  {
+    "text": "&quot;xmlns:xlink&quot;",
+    "href": "https://qwik.dev/api/qwik#xmlnsxlink"
+  },
+  {
+    "text": "$",
+    "href": "https://qwik.dev/api/qwik#"
+  },
+  {
+    "text": "AnchorHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#anchorhtmlattributes"
+  },
+  {
+    "text": "AreaHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#areahtmlattributes"
+  },
+  {
+    "text": "AriaAttributes",
+    "href": "https://qwik.dev/api/qwik#ariaattributes"
+  },
+  {
+    "text": "AriaRole",
+    "href": "https://qwik.dev/api/qwik#ariarole"
+  },
+  {
+    "text": "AudioHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#audiohtmlattributes"
+  },
+  {
+    "text": "BaseHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#basehtmlattributes"
+  },
+  {
+    "text": "BlockquoteHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#blockquotehtmlattributes"
+  },
+  {
+    "text": "Booleanish",
+    "href": "https://qwik.dev/api/qwik#booleanish"
+  },
+  {
+    "text": "ButtonHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#buttonhtmlattributes"
+  },
+  {
+    "text": "cache",
+    "href": "https://qwik.dev/api/qwik#cache"
+  },
+  {
+    "text": "CanvasHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#canvashtmlattributes"
+  },
+  {
+    "text": "ClassList",
+    "href": "https://qwik.dev/api/qwik#classlist"
+  },
+  {
+    "text": "cleanup",
+    "href": "https://qwik.dev/api/qwik#cleanup"
+  },
+  {
+    "text": "ColgroupHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#colgrouphtmlattributes"
+  },
+  {
+    "text": "ColHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#colhtmlattributes"
+  },
+  {
+    "text": "Component",
+    "href": "https://qwik.dev/api/qwik#component"
+  },
+  {
+    "text": "component$",
+    "href": "https://qwik.dev/api/qwik#component"
+  },
+  {
+    "text": "ComponentBaseProps",
+    "href": "https://qwik.dev/api/qwik#componentbaseprops"
+  },
+  {
+    "text": "componentQrl",
+    "href": "https://qwik.dev/api/qwik#componentqrl"
+  },
+  {
+    "text": "ComputedFn",
+    "href": "https://qwik.dev/api/qwik#computedfn"
+  },
+  {
+    "text": "ContextId",
+    "href": "https://qwik.dev/api/qwik#contextid"
+  },
+  {
+    "text": "CorePlatform",
+    "href": "https://qwik.dev/api/qwik#coreplatform"
+  },
+  {
+    "text": "CorrectedToggleEvent",
+    "href": "https://qwik.dev/api/qwik#correctedtoggleevent"
+  },
+  {
+    "text": "createComputed$",
+    "href": "https://qwik.dev/api/qwik#createcomputed"
+  },
+  {
+    "text": "createComputedQrl",
+    "href": "https://qwik.dev/api/qwik#createcomputedqrl"
+  },
+  {
+    "text": "createContextId",
+    "href": "https://qwik.dev/api/qwik#createcontextid"
+  },
+  {
+    "text": "createSignal",
+    "href": "https://qwik.dev/api/qwik#createsignal"
+  },
+  {
+    "text": "CSSProperties",
+    "href": "https://qwik.dev/api/qwik#cssproperties"
+  },
+  {
+    "text": "DataHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#datahtmlattributes"
+  },
+  {
+    "text": "DelHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#delhtmlattributes"
+  },
+  {
+    "text": "DetailsHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#detailshtmlattributes"
+  },
+  {
+    "text": "DevJSX",
+    "href": "https://qwik.dev/api/qwik#devjsx"
+  },
+  {
+    "text": "DialogHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#dialoghtmlattributes"
+  },
+  {
+    "text": "DOMAttributes",
+    "href": "https://qwik.dev/api/qwik#domattributes"
+  },
+  {
+    "text": "EagernessOptions",
+    "href": "https://qwik.dev/api/qwik#eagernessoptions"
+  },
+  {
+    "text": "Element",
+    "href": "https://qwik.dev/api/qwik#element"
+  },
+  {
+    "text": "ElementChildrenAttribute",
+    "href": "https://qwik.dev/api/qwik#elementchildrenattribute"
+  },
+  {
+    "text": "ElementType",
+    "href": "https://qwik.dev/api/qwik#elementtype"
+  },
+  {
+    "text": "EmbedHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#embedhtmlattributes"
+  },
+  {
+    "text": "ErrorBoundaryStore",
+    "href": "https://qwik.dev/api/qwik#errorboundarystore"
+  },
+  {
+    "text": "event$",
+    "href": "https://qwik.dev/api/qwik#event"
+  },
+  {
+    "text": "EventHandler",
+    "href": "https://qwik.dev/api/qwik#eventhandler"
+  },
+  {
+    "text": "eventQrl",
+    "href": "https://qwik.dev/api/qwik#eventqrl"
+  },
+  {
+    "text": "FieldsetHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#fieldsethtmlattributes"
+  },
+  {
+    "text": "FormHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#formhtmlattributes"
+  },
+  {
+    "text": "Fragment",
+    "href": "https://qwik.dev/api/qwik#fragment"
+  },
+  {
+    "text": "FunctionComponent",
+    "href": "https://qwik.dev/api/qwik#functioncomponent"
+  },
+  {
+    "text": "getPlatform",
+    "href": "https://qwik.dev/api/qwik#getplatform"
+  },
+  {
+    "text": "h",
+    "href": "https://qwik.dev/api/qwik#h"
+  },
+  {
+    "text": "h",
+    "href": "https://qwik.dev/api/qwik#h"
+  },
+  {
+    "text": "HrHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#hrhtmlattributes"
+  },
+  {
+    "text": "HTMLAttributeAnchorTarget",
+    "href": "https://qwik.dev/api/qwik#htmlattributeanchortarget"
+  },
+  {
+    "text": "HTMLAttributeReferrerPolicy",
+    "href": "https://qwik.dev/api/qwik#htmlattributereferrerpolicy"
+  },
+  {
+    "text": "HTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#htmlattributes"
+  },
+  {
+    "text": "HTMLCrossOriginAttribute",
+    "href": "https://qwik.dev/api/qwik#htmlcrossoriginattribute"
+  },
+  {
+    "text": "HTMLElementAttrs",
+    "href": "https://qwik.dev/api/qwik#htmlelementattrs"
+  },
+  {
+    "text": "HTMLFragment",
+    "href": "https://qwik.dev/api/qwik#htmlfragment"
+  },
+  {
+    "text": "HtmlHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#htmlhtmlattributes"
+  },
+  {
+    "text": "HTMLInputAutocompleteAttribute",
+    "href": "https://qwik.dev/api/qwik#htmlinputautocompleteattribute"
+  },
+  {
+    "text": "HTMLInputTypeAttribute",
+    "href": "https://qwik.dev/api/qwik#htmlinputtypeattribute"
+  },
+  {
+    "text": "IframeHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#iframehtmlattributes"
+  },
+  {
+    "text": "ImgHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#imghtmlattributes"
+  },
+  {
+    "text": "implicit$FirstArg",
+    "href": "https://qwik.dev/api/qwik#implicitfirstarg"
+  },
+  {
+    "text": "InputHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#inputhtmlattributes"
+  },
+  {
+    "text": "InsHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#inshtmlattributes"
+  },
+  {
+    "text": "IntrinsicAttributes",
+    "href": "https://qwik.dev/api/qwik#intrinsicattributes"
+  },
+  {
+    "text": "IntrinsicElements",
+    "href": "https://qwik.dev/api/qwik#intrinsicelements"
+  },
+  {
+    "text": "isSignal",
+    "href": "https://qwik.dev/api/qwik#issignal"
+  },
+  {
+    "text": "jsx",
+    "href": "https://qwik.dev/api/qwik#jsx"
+  },
+  {
+    "text": "JSXChildren",
+    "href": "https://qwik.dev/api/qwik#jsxchildren"
+  },
+  {
+    "text": "jsxDEV",
+    "href": "https://qwik.dev/api/qwik#jsxdev"
+  },
+  {
+    "text": "JSXNode",
+    "href": "https://qwik.dev/api/qwik#jsxnode"
+  },
+  {
+    "text": "JSXOutput",
+    "href": "https://qwik.dev/api/qwik#jsxoutput"
+  },
+  {
+    "text": "JSXTagName",
+    "href": "https://qwik.dev/api/qwik#jsxtagname"
+  },
+  {
+    "text": "KeygenHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#keygenhtmlattributes"
+  },
+  {
+    "text": "KnownEventNames",
+    "href": "https://qwik.dev/api/qwik#knowneventnames"
+  },
+  {
+    "text": "LabelHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#labelhtmlattributes"
+  },
+  {
+    "text": "LiHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#lihtmlattributes"
+  },
+  {
+    "text": "LinkHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#linkhtmlattributes"
+  },
+  {
+    "text": "MapHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#maphtmlattributes"
+  },
+  {
+    "text": "MediaHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#mediahtmlattributes"
+  },
+  {
+    "text": "MenuHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#menuhtmlattributes"
+  },
+  {
+    "text": "MetaHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#metahtmlattributes"
+  },
+  {
+    "text": "MeterHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#meterhtmlattributes"
+  },
+  {
+    "text": "NativeAnimationEvent",
+    "href": "https://qwik.dev/api/qwik#nativeanimationevent"
+  },
+  {
+    "text": "NativeClipboardEvent",
+    "href": "https://qwik.dev/api/qwik#nativeclipboardevent"
+  },
+  {
+    "text": "NativeCompositionEvent",
+    "href": "https://qwik.dev/api/qwik#nativecompositionevent"
+  },
+  {
+    "text": "NativeDragEvent",
+    "href": "https://qwik.dev/api/qwik#nativedragevent"
+  },
+  {
+    "text": "NativeFocusEvent",
+    "href": "https://qwik.dev/api/qwik#nativefocusevent"
+  },
+  {
+    "text": "NativeKeyboardEvent",
+    "href": "https://qwik.dev/api/qwik#nativekeyboardevent"
+  },
+  {
+    "text": "NativeMouseEvent",
+    "href": "https://qwik.dev/api/qwik#nativemouseevent"
+  },
+  {
+    "text": "NativePointerEvent",
+    "href": "https://qwik.dev/api/qwik#nativepointerevent"
+  },
+  {
+    "text": "NativeTouchEvent",
+    "href": "https://qwik.dev/api/qwik#nativetouchevent"
+  },
+  {
+    "text": "NativeTransitionEvent",
+    "href": "https://qwik.dev/api/qwik#nativetransitionevent"
+  },
+  {
+    "text": "NativeUIEvent",
+    "href": "https://qwik.dev/api/qwik#nativeuievent"
+  },
+  {
+    "text": "NativeWheelEvent",
+    "href": "https://qwik.dev/api/qwik#nativewheelevent"
+  },
+  {
+    "text": "noSerialize",
+    "href": "https://qwik.dev/api/qwik#noserialize"
+  },
+  {
+    "text": "NoSerialize",
+    "href": "https://qwik.dev/api/qwik#noserialize"
+  },
+  {
+    "text": "Numberish",
+    "href": "https://qwik.dev/api/qwik#numberish"
+  },
+  {
+    "text": "ObjectHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#objecthtmlattributes"
+  },
+  {
+    "text": "OlHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#olhtmlattributes"
+  },
+  {
+    "text": "OnRenderFn",
+    "href": "https://qwik.dev/api/qwik#onrenderfn"
+  },
+  {
+    "text": "OnVisibleTaskOptions",
+    "href": "https://qwik.dev/api/qwik#onvisibletaskoptions"
+  },
+  {
+    "text": "OptgroupHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#optgrouphtmlattributes"
+  },
+  {
+    "text": "OptionHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#optionhtmlattributes"
+  },
+  {
+    "text": "OutputHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#outputhtmlattributes"
+  },
+  {
+    "text": "ParamHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#paramhtmlattributes"
+  },
+  {
+    "text": "PrefetchGraph",
+    "href": "https://qwik.dev/api/qwik#prefetchgraph"
+  },
+  {
+    "text": "PrefetchServiceWorker",
+    "href": "https://qwik.dev/api/qwik#prefetchserviceworker"
+  },
+  {
+    "text": "ProgressHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#progresshtmlattributes"
+  },
+  {
+    "text": "PropFnInterface",
+    "href": "https://qwik.dev/api/qwik#propfninterface"
+  },
+  {
+    "text": "PropFunction",
+    "href": "https://qwik.dev/api/qwik#propfunction"
+  },
+  {
+    "text": "PropFunctionProps",
+    "href": "https://qwik.dev/api/qwik#propfunctionprops"
+  },
+  {
+    "text": "PropsOf",
+    "href": "https://qwik.dev/api/qwik#propsof"
+  },
+  {
+    "text": "PublicProps",
+    "href": "https://qwik.dev/api/qwik#publicprops"
+  },
+  {
+    "text": "qrl",
+    "href": "https://qwik.dev/api/qwik#qrl"
+  },
+  {
+    "text": "QRL",
+    "href": "https://qwik.dev/api/qwik#qrl"
+  },
+  {
+    "text": "QRLEventHandlerMulti",
+    "href": "https://qwik.dev/api/qwik#qrleventhandlermulti"
+  },
+  {
+    "text": "QuoteHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#quotehtmlattributes"
+  },
+  {
+    "text": "QwikAnimationEvent",
+    "href": "https://qwik.dev/api/qwik#qwikanimationevent"
+  },
+  {
+    "text": "QwikAttributes",
+    "href": "https://qwik.dev/api/qwik#qwikattributes"
+  },
+  {
+    "text": "QwikChangeEvent",
+    "href": "https://qwik.dev/api/qwik#qwikchangeevent"
+  },
+  {
+    "text": "QwikClipboardEvent",
+    "href": "https://qwik.dev/api/qwik#qwikclipboardevent"
+  },
+  {
+    "text": "QwikCompositionEvent",
+    "href": "https://qwik.dev/api/qwik#qwikcompositionevent"
+  },
+  {
+    "text": "QwikDOMAttributes",
+    "href": "https://qwik.dev/api/qwik#qwikdomattributes"
+  },
+  {
+    "text": "QwikDragEvent",
+    "href": "https://qwik.dev/api/qwik#qwikdragevent"
+  },
+  {
+    "text": "QwikFocusEvent",
+    "href": "https://qwik.dev/api/qwik#qwikfocusevent"
+  },
+  {
+    "text": "QwikHTMLElements",
+    "href": "https://qwik.dev/api/qwik#qwikhtmlelements"
+  },
+  {
+    "text": "QwikIdleEvent",
+    "href": "https://qwik.dev/api/qwik#qwikidleevent"
+  },
+  {
+    "text": "QwikInitEvent",
+    "href": "https://qwik.dev/api/qwik#qwikinitevent"
+  },
+  {
+    "text": "QwikIntrinsicElements",
+    "href": "https://qwik.dev/api/qwik#qwikintrinsicelements"
+  },
+  {
+    "text": "QwikInvalidEvent",
+    "href": "https://qwik.dev/api/qwik#qwikinvalidevent"
+  },
+  {
+    "text": "QwikJSX",
+    "href": "https://qwik.dev/api/qwik#qwikjsx"
+  },
+  {
+    "text": "QwikKeyboardEvent",
+    "href": "https://qwik.dev/api/qwik#qwikkeyboardevent"
+  },
+  {
+    "text": "QwikMouseEvent",
+    "href": "https://qwik.dev/api/qwik#qwikmouseevent"
+  },
+  {
+    "text": "QwikPointerEvent",
+    "href": "https://qwik.dev/api/qwik#qwikpointerevent"
+  },
+  {
+    "text": "QwikSubmitEvent",
+    "href": "https://qwik.dev/api/qwik#qwiksubmitevent"
+  },
+  {
+    "text": "QwikSVGElements",
+    "href": "https://qwik.dev/api/qwik#qwiksvgelements"
+  },
+  {
+    "text": "QwikSymbolEvent",
+    "href": "https://qwik.dev/api/qwik#qwiksymbolevent"
+  },
+  {
+    "text": "QwikTouchEvent",
+    "href": "https://qwik.dev/api/qwik#qwiktouchevent"
+  },
+  {
+    "text": "QwikTransitionEvent",
+    "href": "https://qwik.dev/api/qwik#qwiktransitionevent"
+  },
+  {
+    "text": "QwikUIEvent",
+    "href": "https://qwik.dev/api/qwik#qwikuievent"
+  },
+  {
+    "text": "QwikVisibleEvent",
+    "href": "https://qwik.dev/api/qwik#qwikvisibleevent"
+  },
+  {
+    "text": "QwikWheelEvent",
+    "href": "https://qwik.dev/api/qwik#qwikwheelevent"
+  },
+  {
+    "text": "ReadonlySignal",
+    "href": "https://qwik.dev/api/qwik#readonlysignal"
+  },
+  {
+    "text": "render",
+    "href": "https://qwik.dev/api/qwik#render"
+  },
+  {
+    "text": "RenderOnce",
+    "href": "https://qwik.dev/api/qwik#renderonce"
+  },
+  {
+    "text": "RenderOptions",
+    "href": "https://qwik.dev/api/qwik#renderoptions"
+  },
+  {
+    "text": "RenderResult",
+    "href": "https://qwik.dev/api/qwik#renderresult"
+  },
+  {
+    "text": "RenderSSROptions",
+    "href": "https://qwik.dev/api/qwik#renderssroptions"
+  },
+  {
+    "text": "Resource",
+    "href": "https://qwik.dev/api/qwik#resource"
+  },
+  {
+    "text": "ResourceCtx",
+    "href": "https://qwik.dev/api/qwik#resourcectx"
+  },
+  {
+    "text": "ResourceFn",
+    "href": "https://qwik.dev/api/qwik#resourcefn"
+  },
+  {
+    "text": "ResourceOptions",
+    "href": "https://qwik.dev/api/qwik#resourceoptions"
+  },
+  {
+    "text": "ResourcePending",
+    "href": "https://qwik.dev/api/qwik#resourcepending"
+  },
+  {
+    "text": "ResourceProps",
+    "href": "https://qwik.dev/api/qwik#resourceprops"
+  },
+  {
+    "text": "ResourceRejected",
+    "href": "https://qwik.dev/api/qwik#resourcerejected"
+  },
+  {
+    "text": "ResourceResolved",
+    "href": "https://qwik.dev/api/qwik#resourceresolved"
+  },
+  {
+    "text": "ResourceReturn",
+    "href": "https://qwik.dev/api/qwik#resourcereturn"
+  },
+  {
+    "text": "ScriptHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#scripthtmlattributes"
+  },
+  {
+    "text": "SelectHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#selecthtmlattributes"
+  },
+  {
+    "text": "setPlatform",
+    "href": "https://qwik.dev/api/qwik#setplatform"
+  },
+  {
+    "text": "Signal",
+    "href": "https://qwik.dev/api/qwik#signal"
+  },
+  {
+    "text": "Size",
+    "href": "https://qwik.dev/api/qwik#size"
+  },
+  {
+    "text": "SkipRender",
+    "href": "https://qwik.dev/api/qwik#skiprender"
+  },
+  {
+    "text": "Slot",
+    "href": "https://qwik.dev/api/qwik#slot"
+  },
+  {
+    "text": "SlotHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#slothtmlattributes"
+  },
+  {
+    "text": "SnapshotListener",
+    "href": "https://qwik.dev/api/qwik#snapshotlistener"
+  },
+  {
+    "text": "SnapshotMeta",
+    "href": "https://qwik.dev/api/qwik#snapshotmeta"
+  },
+  {
+    "text": "SnapshotMetaValue",
+    "href": "https://qwik.dev/api/qwik#snapshotmetavalue"
+  },
+  {
+    "text": "SnapshotResult",
+    "href": "https://qwik.dev/api/qwik#snapshotresult"
+  },
+  {
+    "text": "SnapshotState",
+    "href": "https://qwik.dev/api/qwik#snapshotstate"
+  },
+  {
+    "text": "SourceHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#sourcehtmlattributes"
+  },
+  {
+    "text": "SSRComment",
+    "href": "https://qwik.dev/api/qwik#ssrcomment"
+  },
+  {
+    "text": "SSRHint",
+    "href": "https://qwik.dev/api/qwik#ssrhint"
+  },
+  {
+    "text": "SSRHintProps",
+    "href": "https://qwik.dev/api/qwik#ssrhintprops"
+  },
+  {
+    "text": "SSRRaw",
+    "href": "https://qwik.dev/api/qwik#ssrraw"
+  },
+  {
+    "text": "SSRStream",
+    "href": "https://qwik.dev/api/qwik#ssrstream"
+  },
+  {
+    "text": "SSRStreamBlock",
+    "href": "https://qwik.dev/api/qwik#ssrstreamblock"
+  },
+  {
+    "text": "SSRStreamProps",
+    "href": "https://qwik.dev/api/qwik#ssrstreamprops"
+  },
+  {
+    "text": "StreamWriter",
+    "href": "https://qwik.dev/api/qwik#streamwriter"
+  },
+  {
+    "text": "StyleHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#stylehtmlattributes"
+  },
+  {
+    "text": "SVGAttributes",
+    "href": "https://qwik.dev/api/qwik#svgattributes"
+  },
+  {
+    "text": "SVGProps",
+    "href": "https://qwik.dev/api/qwik#svgprops"
+  },
+  {
+    "text": "sync$",
+    "href": "https://qwik.dev/api/qwik#sync"
+  },
+  {
+    "text": "SyncQRL",
+    "href": "https://qwik.dev/api/qwik#syncqrl"
+  },
+  {
+    "text": "TableHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#tablehtmlattributes"
+  },
+  {
+    "text": "TaskCtx",
+    "href": "https://qwik.dev/api/qwik#taskctx"
+  },
+  {
+    "text": "TaskFn",
+    "href": "https://qwik.dev/api/qwik#taskfn"
+  },
+  {
+    "text": "TdHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#tdhtmlattributes"
+  },
+  {
+    "text": "TextareaHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#textareahtmlattributes"
+  },
+  {
+    "text": "ThHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#thhtmlattributes"
+  },
+  {
+    "text": "TimeHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#timehtmlattributes"
+  },
+  {
+    "text": "TitleHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#titlehtmlattributes"
+  },
+  {
+    "text": "Tracker",
+    "href": "https://qwik.dev/api/qwik#tracker"
+  },
+  {
+    "text": "TrackHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#trackhtmlattributes"
+  },
+  {
+    "text": "untrack",
+    "href": "https://qwik.dev/api/qwik#untrack"
+  },
+  {
+    "text": "useComputed$",
+    "href": "https://qwik.dev/api/qwik#usecomputed"
+  },
+  {
+    "text": "useComputedQrl",
+    "href": "https://qwik.dev/api/qwik#usecomputedqrl"
+  },
+  {
+    "text": "useConstant",
+    "href": "https://qwik.dev/api/qwik#useconstant"
+  },
+  {
+    "text": "useContext",
+    "href": "https://qwik.dev/api/qwik#usecontext"
+  },
+  {
+    "text": "useContextProvider",
+    "href": "https://qwik.dev/api/qwik#usecontextprovider"
+  },
+  {
+    "text": "useErrorBoundary",
+    "href": "https://qwik.dev/api/qwik#useerrorboundary"
+  },
+  {
+    "text": "useId",
+    "href": "https://qwik.dev/api/qwik#useid"
+  },
+  {
+    "text": "useOn",
+    "href": "https://qwik.dev/api/qwik#useon"
+  },
+  {
+    "text": "useOnDocument",
+    "href": "https://qwik.dev/api/qwik#useondocument"
+  },
+  {
+    "text": "useOnWindow",
+    "href": "https://qwik.dev/api/qwik#useonwindow"
+  },
+  {
+    "text": "useResource$",
+    "href": "https://qwik.dev/api/qwik#useresource"
+  },
+  {
+    "text": "useResourceQrl",
+    "href": "https://qwik.dev/api/qwik#useresourceqrl"
+  },
+  {
+    "text": "useServerData",
+    "href": "https://qwik.dev/api/qwik#useserverdata"
+  },
+  {
+    "text": "useSignal",
+    "href": "https://qwik.dev/api/qwik#usesignal"
+  },
+  {
+    "text": "UseSignal",
+    "href": "https://qwik.dev/api/qwik#usesignal"
+  },
+  {
+    "text": "useStore",
+    "href": "https://qwik.dev/api/qwik#usestore"
+  },
+  {
+    "text": "UseStoreOptions",
+    "href": "https://qwik.dev/api/qwik#usestoreoptions"
+  },
+  {
+    "text": "useStyles$",
+    "href": "https://qwik.dev/api/qwik#usestyles"
+  },
+  {
+    "text": "useStylesQrl",
+    "href": "https://qwik.dev/api/qwik#usestylesqrl"
+  },
+  {
+    "text": "UseStylesScoped",
+    "href": "https://qwik.dev/api/qwik#usestylesscoped"
+  },
+  {
+    "text": "useStylesScoped$",
+    "href": "https://qwik.dev/api/qwik#usestylesscoped"
+  },
+  {
+    "text": "useStylesScopedQrl",
+    "href": "https://qwik.dev/api/qwik#usestylesscopedqrl"
+  },
+  {
+    "text": "useTask$",
+    "href": "https://qwik.dev/api/qwik#usetask"
+  },
+  {
+    "text": "UseTaskOptions",
+    "href": "https://qwik.dev/api/qwik#usetaskoptions"
+  },
+  {
+    "text": "useTaskQrl",
+    "href": "https://qwik.dev/api/qwik#usetaskqrl"
+  },
+  {
+    "text": "useVisibleTask$",
+    "href": "https://qwik.dev/api/qwik#usevisibletask"
+  },
+  {
+    "text": "useVisibleTaskQrl",
+    "href": "https://qwik.dev/api/qwik#usevisibletaskqrl"
+  },
+  {
+    "text": "ValueOrPromise",
+    "href": "https://qwik.dev/api/qwik#valueorpromise"
+  },
+  {
+    "text": "version",
+    "href": "https://qwik.dev/api/qwik#version"
+  },
+  {
+    "text": "VideoHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#videohtmlattributes"
+  },
+  {
+    "text": "VisibleTaskStrategy",
+    "href": "https://qwik.dev/api/qwik#visibletaskstrategy"
+  },
+  {
+    "text": "WebViewHTMLAttributes",
+    "href": "https://qwik.dev/api/qwik#webviewhtmlattributes"
+  },
+  {
+    "text": "Action",
+    "href": "https://qwik.dev/api/qwik-city#action"
+  },
+  {
+    "text": "ActionConstructor",
+    "href": "https://qwik.dev/api/qwik-city#actionconstructor"
+  },
+  {
+    "text": "ActionReturn",
+    "href": "https://qwik.dev/api/qwik-city#actionreturn"
+  },
+  {
+    "text": "ActionStore",
+    "href": "https://qwik.dev/api/qwik-city#actionstore"
+  },
+  {
+    "text": "ContentHeading",
+    "href": "https://qwik.dev/api/qwik-city#contentheading"
+  },
+  {
+    "text": "ContentMenu",
+    "href": "https://qwik.dev/api/qwik-city#contentmenu"
+  },
+  {
+    "text": "DataValidator",
+    "href": "https://qwik.dev/api/qwik-city#datavalidator"
+  },
+  {
+    "text": "DocumentHead",
+    "href": "https://qwik.dev/api/qwik-city#documenthead"
+  },
+  {
+    "text": "DocumentHeadProps",
+    "href": "https://qwik.dev/api/qwik-city#documentheadprops"
+  },
+  {
+    "text": "DocumentHeadValue",
+    "href": "https://qwik.dev/api/qwik-city#documentheadvalue"
+  },
+  {
+    "text": "DocumentLink",
+    "href": "https://qwik.dev/api/qwik-city#documentlink"
+  },
+  {
+    "text": "DocumentMeta",
+    "href": "https://qwik.dev/api/qwik-city#documentmeta"
+  },
+  {
+    "text": "DocumentScript",
+    "href": "https://qwik.dev/api/qwik-city#documentscript"
+  },
+  {
+    "text": "DocumentStyle",
+    "href": "https://qwik.dev/api/qwik-city#documentstyle"
+  },
+  {
+    "text": "FailOfRest",
+    "href": "https://qwik.dev/api/qwik-city#failofrest"
+  },
+  {
+    "text": "FailReturn",
+    "href": "https://qwik.dev/api/qwik-city#failreturn"
+  },
+  {
+    "text": "Form",
+    "href": "https://qwik.dev/api/qwik-city#form"
+  },
+  {
+    "text": "FormProps",
+    "href": "https://qwik.dev/api/qwik-city#formprops"
+  },
+  {
+    "text": "FormSubmitSuccessDetail",
+    "href": "https://qwik.dev/api/qwik-city#formsubmitsuccessdetail"
+  },
+  {
+    "text": "GetValidatorInputType",
+    "href": "https://qwik.dev/api/qwik-city#getvalidatorinputtype"
+  },
+  {
+    "text": "GetValidatorOutputType",
+    "href": "https://qwik.dev/api/qwik-city#getvalidatoroutputtype"
+  },
+  {
+    "text": "GetValidatorType",
+    "href": "https://qwik.dev/api/qwik-city#getvalidatortype"
+  },
+  {
+    "text": "globalAction$",
+    "href": "https://qwik.dev/api/qwik-city#globalaction"
+  },
+  {
+    "text": "globalActionQrl",
+    "href": "https://qwik.dev/api/qwik-city#globalactionqrl"
+  },
+  {
+    "text": "JSONObject",
+    "href": "https://qwik.dev/api/qwik-city#jsonobject"
+  },
+  {
+    "text": "JSONValue",
+    "href": "https://qwik.dev/api/qwik-city#jsonvalue"
+  },
+  {
+    "text": "Link",
+    "href": "https://qwik.dev/api/qwik-city#link"
+  },
+  {
+    "text": "LinkProps",
+    "href": "https://qwik.dev/api/qwik-city#linkprops"
+  },
+  {
+    "text": "Loader_2",
+    "href": "https://qwik.dev/api/qwik-city#loader2"
+  },
+  {
+    "text": "LoaderSignal",
+    "href": "https://qwik.dev/api/qwik-city#loadersignal"
+  },
+  {
+    "text": "MenuData",
+    "href": "https://qwik.dev/api/qwik-city#menudata"
+  },
+  {
+    "text": "NavigationType",
+    "href": "https://qwik.dev/api/qwik-city#navigationtype"
+  },
+  {
+    "text": "PageModule",
+    "href": "https://qwik.dev/api/qwik-city#pagemodule"
+  },
+  {
+    "text": "PathParams",
+    "href": "https://qwik.dev/api/qwik-city#pathparams"
+  },
+  {
+    "text": "PreventNavigateCallback",
+    "href": "https://qwik.dev/api/qwik-city#preventnavigatecallback"
+  },
+  {
+    "text": "QWIK_CITY_SCROLLER",
+    "href": "https://qwik.dev/api/qwik-city#qwikcityscroller"
+  },
+  {
+    "text": "QwikCityMockProps",
+    "href": "https://qwik.dev/api/qwik-city#qwikcitymockprops"
+  },
+  {
+    "text": "QwikCityMockProvider",
+    "href": "https://qwik.dev/api/qwik-city#qwikcitymockprovider"
+  },
+  {
+    "text": "QwikCityPlan",
+    "href": "https://qwik.dev/api/qwik-city#qwikcityplan"
+  },
+  {
+    "text": "QwikCityProps",
+    "href": "https://qwik.dev/api/qwik-city#qwikcityprops"
+  },
+  {
+    "text": "QwikCityProvider",
+    "href": "https://qwik.dev/api/qwik-city#qwikcityprovider"
+  },
+  {
+    "text": "ResolvedDocumentHead",
+    "href": "https://qwik.dev/api/qwik-city#resolveddocumenthead"
+  },
+  {
+    "text": "routeAction$",
+    "href": "https://qwik.dev/api/qwik-city#routeaction"
+  },
+  {
+    "text": "routeActionQrl",
+    "href": "https://qwik.dev/api/qwik-city#routeactionqrl"
+  },
+  {
+    "text": "RouteData",
+    "href": "https://qwik.dev/api/qwik-city#routedata"
+  },
+  {
+    "text": "routeLoader$",
+    "href": "https://qwik.dev/api/qwik-city#routeloader"
+  },
+  {
+    "text": "routeLoaderQrl",
+    "href": "https://qwik.dev/api/qwik-city#routeloaderqrl"
+  },
+  {
+    "text": "RouteLocation",
+    "href": "https://qwik.dev/api/qwik-city#routelocation"
+  },
+  {
+    "text": "RouteNavigate",
+    "href": "https://qwik.dev/api/qwik-city#routenavigate"
+  },
+  {
+    "text": "RouterOutlet",
+    "href": "https://qwik.dev/api/qwik-city#routeroutlet"
+  },
+  {
+    "text": "server$",
+    "href": "https://qwik.dev/api/qwik-city#server"
+  },
+  {
+    "text": "ServerFunction",
+    "href": "https://qwik.dev/api/qwik-city#serverfunction"
+  },
+  {
+    "text": "serverQrl",
+    "href": "https://qwik.dev/api/qwik-city#serverqrl"
+  },
+  {
+    "text": "ServerQRL",
+    "href": "https://qwik.dev/api/qwik-city#serverqrl"
+  },
+  {
+    "text": "ServiceWorkerRegister",
+    "href": "https://qwik.dev/api/qwik-city#serviceworkerregister"
+  },
+  {
+    "text": "StaticGenerate",
+    "href": "https://qwik.dev/api/qwik-city#staticgenerate"
+  },
+  {
+    "text": "StaticGenerateHandler",
+    "href": "https://qwik.dev/api/qwik-city#staticgeneratehandler"
+  },
+  {
+    "text": "StrictUnion",
+    "href": "https://qwik.dev/api/qwik-city#strictunion"
+  },
+  {
+    "text": "TypedDataValidator",
+    "href": "https://qwik.dev/api/qwik-city#typeddatavalidator"
+  },
+  {
+    "text": "useContent",
+    "href": "https://qwik.dev/api/qwik-city#usecontent"
+  },
+  {
+    "text": "useDocumentHead",
+    "href": "https://qwik.dev/api/qwik-city#usedocumenthead"
+  },
+  {
+    "text": "useLocation",
+    "href": "https://qwik.dev/api/qwik-city#uselocation"
+  },
+  {
+    "text": "useNavigate",
+    "href": "https://qwik.dev/api/qwik-city#usenavigate"
+  },
+  {
+    "text": "usePreventNavigate$",
+    "href": "https://qwik.dev/api/qwik-city#usepreventnavigate"
+  },
+  {
+    "text": "valibot$",
+    "href": "https://qwik.dev/api/qwik-city#valibot"
+  },
+  {
+    "text": "valibotQrl",
+    "href": "https://qwik.dev/api/qwik-city#valibotqrl"
+  },
+  {
+    "text": "validator$",
+    "href": "https://qwik.dev/api/qwik-city#validator"
+  },
+  {
+    "text": "ValidatorErrorKeyDotNotation",
+    "href": "https://qwik.dev/api/qwik-city#validatorerrorkeydotnotation"
+  },
+  {
+    "text": "ValidatorErrorType",
+    "href": "https://qwik.dev/api/qwik-city#validatorerrortype"
+  },
+  {
+    "text": "validatorQrl",
+    "href": "https://qwik.dev/api/qwik-city#validatorqrl"
+  },
+  {
+    "text": "ValidatorReturn",
+    "href": "https://qwik.dev/api/qwik-city#validatorreturn"
+  },
+  {
+    "text": "zod$",
+    "href": "https://qwik.dev/api/qwik-city#zod"
+  },
+  {
+    "text": "ZodConstructor",
+    "href": "https://qwik.dev/api/qwik-city#zodconstructor"
+  },
+  {
+    "text": "zodQrl",
+    "href": "https://qwik.dev/api/qwik-city#zodqrl"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/qwik-city-middleware-azure-swa#createqwikcity"
+  },
+  {
+    "text": "PlatformAzure",
+    "href": "https://qwik.dev/qwik-city-middleware-azure-swa#platformazure"
+  },
+  {
+    "text": "QwikCityAzureOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-azure-swa#qwikcityazureoptions"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/apiqwik-city-middleware-cloudflare-pages#createqwikcity"
+  },
+  {
+    "text": "PlatformCloudflarePages",
+    "href": "https://qwik.dev/apiqwik-city-middleware-cloudflare-pages#platformcloudflarepages"
+  },
+  {
+    "text": "QwikCityCloudflarePagesOptions",
+    "href": "https://qwik.dev/apiqwik-city-middleware-cloudflare-pages#qwikcitycloudflarepagesoptions"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/qwik-city-middleware-netlify-edge#createqwikcity"
+  },
+  {
+    "text": "PlatformNetlify",
+    "href": "https://qwik.dev/qwik-city-middleware-netlify-edge#platformnetlify"
+  },
+  {
+    "text": "QwikCityNetlifyOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-netlify-edge#qwikcitynetlifyoptions"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/qwik-city-middleware-node#createqwikcity"
+  },
+  {
+    "text": "NodeRequestNextFunction",
+    "href": "https://qwik.dev/qwik-city-middleware-node#noderequestnextfunction"
+  },
+  {
+    "text": "PlatformNode",
+    "href": "https://qwik.dev/qwik-city-middleware-node#platformnode"
+  },
+  {
+    "text": "QwikCityNodeRequestOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-node#qwikcitynoderequestoptions"
+  },
+  {
+    "text": "AbortMessage",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#abortmessage"
+  },
+  {
+    "text": "append",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#append"
+  },
+  {
+    "text": "CacheControl",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#cachecontrol"
+  },
+  {
+    "text": "ClientConn",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#clientconn"
+  },
+  {
+    "text": "Cookie",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#cookie"
+  },
+  {
+    "text": "CookieOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#cookieoptions"
+  },
+  {
+    "text": "CookieValue",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#cookievalue"
+  },
+  {
+    "text": "data",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#data"
+  },
+  {
+    "text": "DeferReturn",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#deferreturn"
+  },
+  {
+    "text": "delete",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#delete"
+  },
+  {
+    "text": "EnvGetter",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#envgetter"
+  },
+  {
+    "text": "get",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#get"
+  },
+  {
+    "text": "getAll",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#getall"
+  },
+  {
+    "text": "getErrorHtml",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#geterrorhtml"
+  },
+  {
+    "text": "has",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#has"
+  },
+  {
+    "text": "headers",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#headers"
+  },
+  {
+    "text": "mergeHeadersCookies",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#mergeheaderscookies"
+  },
+  {
+    "text": "RedirectMessage",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#redirectmessage"
+  },
+  {
+    "text": "RequestEvent",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requestevent"
+  },
+  {
+    "text": "RequestEventAction",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesteventaction"
+  },
+  {
+    "text": "RequestEventBase",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesteventbase"
+  },
+  {
+    "text": "RequestEventCommon",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesteventcommon"
+  },
+  {
+    "text": "RequestEventLoader",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesteventloader"
+  },
+  {
+    "text": "requestHandler",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesthandler"
+  },
+  {
+    "text": "RequestHandler",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#requesthandler"
+  },
+  {
+    "text": "ResolveSyncValue",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#resolvesyncvalue"
+  },
+  {
+    "text": "ResolveValue",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#resolvevalue"
+  },
+  {
+    "text": "ServerError",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#servererror"
+  },
+  {
+    "text": "ServerRenderOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#serverrenderoptions"
+  },
+  {
+    "text": "ServerRequestEvent",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#serverrequestevent"
+  },
+  {
+    "text": "ServerRequestMode",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#serverrequestmode"
+  },
+  {
+    "text": "ServerResponseHandler",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#serverresponsehandler"
+  },
+  {
+    "text": "set",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#set"
+  },
+  {
+    "text": "status",
+    "href": "https://qwik.dev/qwik-city-middleware-request-handler#status"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/qwik-city-middleware-vercel-edge#createqwikcity"
+  },
+  {
+    "text": "PlatformVercel",
+    "href": "https://qwik.dev/qwik-city-middleware-vercel-edge#platformvercel"
+  },
+  {
+    "text": "QwikCityVercelEdgeOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-vercel-edge#qwikcityverceledgeoptions"
+  },
+  {
+    "text": "createQwikCity",
+    "href": "https://qwik.dev/qwik-city-middleware-firebase#createqwikcity"
+  },
+  {
+    "text": "PlatformFirebase",
+    "href": "https://qwik.dev/qwik-city-middleware-firebase#platformfirebase"
+  },
+  {
+    "text": "QwikCityFirebaseOptions",
+    "href": "https://qwik.dev/qwik-city-middleware-firebase#qwikcityfirebaseoptions"
+  },
+  {
+    "text": "generate",
+    "href": "https://qwik.dev/api/qwik-city-static#generate"
+  },
+  {
+    "text": "StaticGenerateOptions",
+    "href": "https://qwik.dev/api/qwik-city-static#staticgenerateoptions"
+  },
+  {
+    "text": "StaticGenerateRenderOptions",
+    "href": "https://qwik.dev/api/qwik-city-static#staticgeneraterenderoptions"
+  },
+  {
+    "text": "StaticGenerateResult",
+    "href": "https://qwik.dev/api/qwik-city-static#staticgenerateresult"
+  },
+  {
+    "text": "azureSwaAdapter",
+    "href": "https://qwik.dev/qwik-city-vite-azure-swa#azureswaadapter"
+  },
+  {
+    "text": "AzureSwaAdapterOptions",
+    "href": "https://qwik.dev/qwik-city-vite-azure-swa#azureswaadapteroptions"
+  },
+  {
+    "text": "cloudRunAdapter",
+    "href": "https://qwik.dev/qwik-city-vite-cloud-run#cloudrunadapter"
+  },
+  {
+    "text": "CloudRunAdapterOptions",
+    "href": "https://qwik.dev/qwik-city-vite-cloud-run#cloudrunadapteroptions"
+  },
+  {
+    "text": "cloudflarePagesAdapter",
+    "href": "https://qwik.dev/qwik-city-vite-cloudflare-pages#cloudflarepagesadapter"
+  },
+  {
+    "text": "CloudflarePagesAdapterOptions",
+    "href": "https://qwik.dev/qwik-city-vite-cloudflare-pages#cloudflarepagesadapteroptions"
+  },
+  {
+    "text": "nodeServerAdapter",
+    "href": "https://qwik.dev/qwik-city-vite-node-server#nodeserveradapter"
+  },
+  {
+    "text": "NodeServerAdapterOptions",
+    "href": "https://qwik.dev/qwik-city-vite-node-server#nodeserveradapteroptions"
+  },
+  {
+    "text": "netlifyEdgeAdapter",
+    "href": "https://qwik.dev/qwik-city-vite-netlify-edge#netlifyedgeadapter"
+  },
+  {
+    "text": "NetlifyEdgeAdapterOptions",
+    "href": "https://qwik.dev/qwik-city-vite-netlify-edge#netlifyedgeadapteroptions"
+  },
+  {
+    "text": "staticAdapter",
+    "href": "https://qwik.dev/api/qwik-city-vite-static#staticadapter"
+  },
+  {
+    "text": "StaticGenerateAdapterOptions",
+    "href": "https://qwik.dev/api/qwik-city-vite-static#staticgenerateadapteroptions"
+  },
+  {
+    "text": "vercelEdgeAdapter",
+    "href": "https://qwik.dev/api/qwik-city-vite-vercel#verceledgeadapter"
+  },
+  {
+    "text": "VercelEdgeAdapterOptions",
+    "href": "https://qwik.dev/api/qwik-city-vite-vercel#verceledgeadapteroptions"
+  },
+  {
+    "text": "basename",
+    "href": "https://qwik.dev/api/qwik-optimizer#basename"
+  },
+  {
+    "text": "ComponentEntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#componententrystrategy"
+  },
+  {
+    "text": "createOptimizer",
+    "href": "https://qwik.dev/api/qwik-optimizer#createoptimizer"
+  },
+  {
+    "text": "Diagnostic",
+    "href": "https://qwik.dev/api/qwik-optimizer#diagnostic"
+  },
+  {
+    "text": "DiagnosticCategory",
+    "href": "https://qwik.dev/api/qwik-optimizer#diagnosticcategory"
+  },
+  {
+    "text": "dirname",
+    "href": "https://qwik.dev/api/qwik-optimizer#dirname"
+  },
+  {
+    "text": "EntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#entrystrategy"
+  },
+  {
+    "text": "ExperimentalFeatures",
+    "href": "https://qwik.dev/api/qwik-optimizer#experimentalfeatures"
+  },
+  {
+    "text": "extname",
+    "href": "https://qwik.dev/api/qwik-optimizer#extname"
+  },
+  {
+    "text": "format",
+    "href": "https://qwik.dev/api/qwik-optimizer#format"
+  },
+  {
+    "text": "GlobalInjections",
+    "href": "https://qwik.dev/api/qwik-optimizer#globalinjections"
+  },
+  {
+    "text": "InlineEntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#inlineentrystrategy"
+  },
+  {
+    "text": "InsightManifest",
+    "href": "https://qwik.dev/api/qwik-optimizer#insightmanifest"
+  },
+  {
+    "text": "isAbsolute",
+    "href": "https://qwik.dev/api/qwik-optimizer#isabsolute"
+  },
+  {
+    "text": "join",
+    "href": "https://qwik.dev/api/qwik-optimizer#join"
+  },
+  {
+    "text": "MinifyMode",
+    "href": "https://qwik.dev/api/qwik-optimizer#minifymode"
+  },
+  {
+    "text": "normalize",
+    "href": "https://qwik.dev/api/qwik-optimizer#normalize"
+  },
+  {
+    "text": "noSPA",
+    "href": "https://qwik.dev/api/qwik-optimizer#nospa"
+  },
+  {
+    "text": "Optimizer",
+    "href": "https://qwik.dev/api/qwik-optimizer#optimizer"
+  },
+  {
+    "text": "OptimizerOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#optimizeroptions"
+  },
+  {
+    "text": "OptimizerSystem",
+    "href": "https://qwik.dev/api/qwik-optimizer#optimizersystem"
+  },
+  {
+    "text": "parse",
+    "href": "https://qwik.dev/api/qwik-optimizer#parse"
+  },
+  {
+    "text": "Path",
+    "href": "https://qwik.dev/api/qwik-optimizer#path"
+  },
+  {
+    "text": "preventNavigate",
+    "href": "https://qwik.dev/api/qwik-optimizer#preventnavigate"
+  },
+  {
+    "text": "QwikBuildMode",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikbuildmode"
+  },
+  {
+    "text": "QwikBuildTarget",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikbuildtarget"
+  },
+  {
+    "text": "QwikBundle",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikbundle"
+  },
+  {
+    "text": "QwikManifest",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikmanifest"
+  },
+  {
+    "text": "qwikRollup",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikrollup"
+  },
+  {
+    "text": "QwikRollupPluginOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikrolluppluginoptions"
+  },
+  {
+    "text": "QwikSymbol",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwiksymbol"
+  },
+  {
+    "text": "qwikVite",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikvite"
+  },
+  {
+    "text": "QwikViteDevResponse",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikvitedevresponse"
+  },
+  {
+    "text": "QwikVitePlugin",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikviteplugin"
+  },
+  {
+    "text": "QwikVitePluginApi",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikvitepluginapi"
+  },
+  {
+    "text": "QwikVitePluginOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#qwikvitepluginoptions"
+  },
+  {
+    "text": "relative",
+    "href": "https://qwik.dev/api/qwik-optimizer#relative"
+  },
+  {
+    "text": "resolve",
+    "href": "https://qwik.dev/api/qwik-optimizer#resolve"
+  },
+  {
+    "text": "ResolvedManifest",
+    "href": "https://qwik.dev/api/qwik-optimizer#resolvedmanifest"
+  },
+  {
+    "text": "SegmentAnalysis",
+    "href": "https://qwik.dev/api/qwik-optimizer#segmentanalysis"
+  },
+  {
+    "text": "SegmentEntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#segmententrystrategy"
+  },
+  {
+    "text": "SingleEntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#singleentrystrategy"
+  },
+  {
+    "text": "SmartEntryStrategy",
+    "href": "https://qwik.dev/api/qwik-optimizer#smartentrystrategy"
+  },
+  {
+    "text": "SourceLocation",
+    "href": "https://qwik.dev/api/qwik-optimizer#sourcelocation"
+  },
+  {
+    "text": "SourceMapsOption",
+    "href": "https://qwik.dev/api/qwik-optimizer#sourcemapsoption"
+  },
+  {
+    "text": "symbolMapper",
+    "href": "https://qwik.dev/api/qwik-optimizer#symbolmapper"
+  },
+  {
+    "text": "SymbolMapper",
+    "href": "https://qwik.dev/api/qwik-optimizer#symbolmapper"
+  },
+  {
+    "text": "SymbolMapperFn",
+    "href": "https://qwik.dev/api/qwik-optimizer#symbolmapperfn"
+  },
+  {
+    "text": "SystemEnvironment",
+    "href": "https://qwik.dev/api/qwik-optimizer#systemenvironment"
+  },
+  {
+    "text": "transformFs",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformfs"
+  },
+  {
+    "text": "TransformFsOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformfsoptions"
+  },
+  {
+    "text": "transformFsSync",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformfssync"
+  },
+  {
+    "text": "TransformModule",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformmodule"
+  },
+  {
+    "text": "TransformModuleInput",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformmoduleinput"
+  },
+  {
+    "text": "transformModules",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformmodules"
+  },
+  {
+    "text": "TransformModulesOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformmodulesoptions"
+  },
+  {
+    "text": "transformModulesSync",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformmodulessync"
+  },
+  {
+    "text": "TransformOptions",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformoptions"
+  },
+  {
+    "text": "TransformOutput",
+    "href": "https://qwik.dev/api/qwik-optimizer#transformoutput"
+  },
+  {
+    "text": "TranspileOption",
+    "href": "https://qwik.dev/api/qwik-optimizer#transpileoption"
+  },
+  {
+    "text": "valibot",
+    "href": "https://qwik.dev/api/qwik-optimizer#valibot"
+  },
+  {
+    "text": "versions",
+    "href": "https://qwik.dev/api/qwik-optimizer#versions"
+  },
+  {
+    "text": "getQwikLoaderScript",
+    "href": "https://qwik.dev/api/qwik-server#getqwikloaderscript"
+  },
+  {
+    "text": "getQwikPrefetchWorkerScript",
+    "href": "https://qwik.dev/api/qwik-server#getqwikprefetchworkerscript"
+  },
+  {
+    "text": "InOrderAuto",
+    "href": "https://qwik.dev/api/qwik-server#inorderauto"
+  },
+  {
+    "text": "InOrderDisabled",
+    "href": "https://qwik.dev/api/qwik-server#inorderdisabled"
+  },
+  {
+    "text": "InOrderStreaming",
+    "href": "https://qwik.dev/api/qwik-server#inorderstreaming"
+  },
+  {
+    "text": "PrefetchImplementation",
+    "href": "https://qwik.dev/api/qwik-server#prefetchimplementation"
+  },
+  {
+    "text": "PrefetchResource",
+    "href": "https://qwik.dev/api/qwik-server#prefetchresource"
+  },
+  {
+    "text": "PrefetchStrategy",
+    "href": "https://qwik.dev/api/qwik-server#prefetchstrategy"
+  },
+  {
+    "text": "QwikLoaderOptions",
+    "href": "https://qwik.dev/api/qwik-server#qwikloaderoptions"
+  },
+  {
+    "text": "Render",
+    "href": "https://qwik.dev/api/qwik-server#render"
+  },
+  {
+    "text": "RenderOptions",
+    "href": "https://qwik.dev/api/qwik-server#renderoptions"
+  },
+  {
+    "text": "RenderResult",
+    "href": "https://qwik.dev/api/qwik-server#renderresult"
+  },
+  {
+    "text": "renderToStream",
+    "href": "https://qwik.dev/api/qwik-server#rendertostream"
+  },
+  {
+    "text": "RenderToStream",
+    "href": "https://qwik.dev/api/qwik-server#rendertostream"
+  },
+  {
+    "text": "RenderToStreamOptions",
+    "href": "https://qwik.dev/api/qwik-server#rendertostreamoptions"
+  },
+  {
+    "text": "RenderToStreamResult",
+    "href": "https://qwik.dev/api/qwik-server#rendertostreamresult"
+  },
+  {
+    "text": "renderToString",
+    "href": "https://qwik.dev/api/qwik-server#rendertostring"
+  },
+  {
+    "text": "RenderToString",
+    "href": "https://qwik.dev/api/qwik-server#rendertostring"
+  },
+  {
+    "text": "RenderToStringOptions",
+    "href": "https://qwik.dev/api/qwik-server#rendertostringoptions"
+  },
+  {
+    "text": "RenderToStringResult",
+    "href": "https://qwik.dev/api/qwik-server#rendertostringresult"
+  },
+  {
+    "text": "resolveManifest",
+    "href": "https://qwik.dev/api/qwik-server#resolvemanifest"
+  },
+  {
+    "text": "SerializeDocumentOptions",
+    "href": "https://qwik.dev/api/qwik-server#serializedocumentoptions"
+  },
+  {
+    "text": "setServerPlatform",
+    "href": "https://qwik.dev/api/qwik-server#setserverplatform"
+  },
+  {
+    "text": "StreamingOptions",
+    "href": "https://qwik.dev/api/qwik-server#streamingoptions"
+  },
+  {
+    "text": "SymbolsToPrefetch",
+    "href": "https://qwik.dev/api/qwik-server#symbolstoprefetch"
+  },
+  {
+    "text": "versions",
+    "href": "https://qwik.dev/api/qwik-server#versions"
+  },
+  {
+    "text": "createDOM",
+    "href": "https://qwik.dev/api/qwik-testing#createdom"
+  },
+  {
+    "text": "Docs",
+    "href": "https://qwik.dev/docs/"
+  },
+  {
+    "text": "Qwik City",
+    "href": "https://qwik.dev/docs/qwikcity/"
+  },
+  {
+    "text": "Ecosystem",
+    "href": "https://qwik.dev/ecosystem/"
+  },
+  {
+    "text": "Playground",
+    "href": "https://qwik.dev/playground/"
+  },
+  {
+    "text": "Integrations",
+    "href": "https://qwik.dev/ecosystem/#integrations"
+  },
+  {
+    "text": "Deployments",
+    "href": "https://qwik.dev/ecosystem/#deployments"
+  },
+  {
+    "text": "Media",
+    "href": "https://qwik.dev/ecosystem/#videos"
+  },
+  {
+    "text": "Showcase",
+    "href": "https://qwik.dev/showcase/"
+  },
+  {
+    "text": "Tutorial",
+    "href": "https://qwik.dev/ecosystem/#courses"
+  },
+  {
+    "text": "Presentations",
+    "href": "https://qwik.dev/ecosystem/#presentations"
+  },
+  {
+    "text": "Community",
+    "href": "https://qwik.dev/ecosystem/#community"
+  },
+  {
+    "text": "Press",
+    "href": "https://qwik.dev/press"
+  },
+  {
+    "text": "",
+    "href": "https://qwik.dev/chat"
+  },
+  {
+    "text": "",
+    "href": "https://github.com/QwikDev/qwik"
+  },
+  {
+    "text": "",
+    "href": "https://twitter.com/QwikDev"
+  }
+]

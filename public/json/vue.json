@@ -1,0 +1,826 @@
+[
+  {
+    "text": "createApp()",
+    "href": "https://vuejs.org/api/application#createapp"
+  },
+  {
+    "text": "createSSRApp()",
+    "href": "https://vuejs.org/api/application#createssrapp"
+  },
+  {
+    "text": "app.mount()",
+    "href": "https://vuejs.org/api/application#app-mount"
+  },
+  {
+    "text": "app.unmount()",
+    "href": "https://vuejs.org/api/application#app-unmount"
+  },
+  {
+    "text": "app.onUnmount()",
+    "href": "https://vuejs.org/api/application#app-onunmount"
+  },
+  {
+    "text": "app.component()",
+    "href": "https://vuejs.org/api/application#app-component"
+  },
+  {
+    "text": "app.directive()",
+    "href": "https://vuejs.org/api/application#app-directive"
+  },
+  {
+    "text": "app.use()",
+    "href": "https://vuejs.org/api/application#app-use"
+  },
+  {
+    "text": "app.mixin()",
+    "href": "https://vuejs.org/api/application#app-mixin"
+  },
+  {
+    "text": "app.provide()",
+    "href": "https://vuejs.org/api/application#app-provide"
+  },
+  {
+    "text": "app.runWithContext()",
+    "href": "https://vuejs.org/api/application#app-runwithcontext"
+  },
+  {
+    "text": "app.version",
+    "href": "https://vuejs.org/api/application#app-version"
+  },
+  {
+    "text": "app.config",
+    "href": "https://vuejs.org/api/application#app-config"
+  },
+  {
+    "text": "app.config.errorHandler",
+    "href": "https://vuejs.org/api/application#app-config-errorhandler"
+  },
+  {
+    "text": "app.config.warnHandler",
+    "href": "https://vuejs.org/api/application#app-config-warnhandler"
+  },
+  {
+    "text": "app.config.performance",
+    "href": "https://vuejs.org/api/application#app-config-performance"
+  },
+  {
+    "text": "app.config.compilerOptions",
+    "href": "https://vuejs.org/api/application#app-config-compileroptions"
+  },
+  {
+    "text": "app.config.globalProperties",
+    "href": "https://vuejs.org/api/application#app-config-globalproperties"
+  },
+  {
+    "text": "app.config.optionMergeStrategies",
+    "href": "https://vuejs.org/api/application#app-config-optionmergestrategies"
+  },
+  {
+    "text": "app.config.idPrefix",
+    "href": "https://vuejs.org/api/application#app-config-idprefix"
+  },
+  {
+    "text": "app.config.throwUnhandledErrorInProduction",
+    "href": "https://vuejs.org/api/application#app-config-throwunhandlederrorinproduction"
+  },
+  {
+    "text": "version",
+    "href": "https://vuejs.org/api/general#version"
+  },
+  {
+    "text": "nextTick()",
+    "href": "https://vuejs.org/api/general#nexttick"
+  },
+  {
+    "text": "defineComponent()",
+    "href": "https://vuejs.org/api/general#definecomponent"
+  },
+  {
+    "text": "defineAsyncComponent()",
+    "href": "https://vuejs.org/api/general#defineasynccomponent"
+  },
+  {
+    "text": "Basic Usage",
+    "href": "https://vuejs.org/api/composition-api-setup#basic-usage"
+  },
+  {
+    "text": "Accessing Props",
+    "href": "https://vuejs.org/api/composition-api-setup#accessing-props"
+  },
+  {
+    "text": "Setup Context",
+    "href": "https://vuejs.org/api/composition-api-setup#setup-context"
+  },
+  {
+    "text": "Usage with Render Functions",
+    "href": "https://vuejs.org/api/composition-api-setup#usage-with-render-functions"
+  },
+  {
+    "text": "ref()",
+    "href": "https://vuejs.org/api/reactivity-core#ref"
+  },
+  {
+    "text": "computed()",
+    "href": "https://vuejs.org/api/reactivity-core#computed"
+  },
+  {
+    "text": "reactive()",
+    "href": "https://vuejs.org/api/reactivity-core#reactive"
+  },
+  {
+    "text": "readonly()",
+    "href": "https://vuejs.org/api/reactivity-core#readonly"
+  },
+  {
+    "text": "watchEffect()",
+    "href": "https://vuejs.org/api/reactivity-core#watcheffect"
+  },
+  {
+    "text": "watchPostEffect()",
+    "href": "https://vuejs.org/api/reactivity-core#watchposteffect"
+  },
+  {
+    "text": "watchSyncEffect()",
+    "href": "https://vuejs.org/api/reactivity-core#watchsynceffect"
+  },
+  {
+    "text": "watch()",
+    "href": "https://vuejs.org/api/reactivity-core#watch"
+  },
+  {
+    "text": "onWatcherCleanup()",
+    "href": "https://vuejs.org/api/reactivity-core#onwatchercleanup"
+  },
+  {
+    "text": "isRef()",
+    "href": "https://vuejs.org/api/reactivity-utilities#isref"
+  },
+  {
+    "text": "unref()",
+    "href": "https://vuejs.org/api/reactivity-utilities#unref"
+  },
+  {
+    "text": "toRef()",
+    "href": "https://vuejs.org/api/reactivity-utilities#toref"
+  },
+  {
+    "text": "toValue()",
+    "href": "https://vuejs.org/api/reactivity-utilities#tovalue"
+  },
+  {
+    "text": "toRefs()",
+    "href": "https://vuejs.org/api/reactivity-utilities#torefs"
+  },
+  {
+    "text": "isProxy()",
+    "href": "https://vuejs.org/api/reactivity-utilities#isproxy"
+  },
+  {
+    "text": "isReactive()",
+    "href": "https://vuejs.org/api/reactivity-utilities#isreactive"
+  },
+  {
+    "text": "isReadonly()",
+    "href": "https://vuejs.org/api/reactivity-utilities#isreadonly"
+  },
+  {
+    "text": "shallowRef()",
+    "href": "https://vuejs.org/api/reactivity-advanced#shallowref"
+  },
+  {
+    "text": "triggerRef()",
+    "href": "https://vuejs.org/api/reactivity-advanced#triggerref"
+  },
+  {
+    "text": "customRef()",
+    "href": "https://vuejs.org/api/reactivity-advanced#customref"
+  },
+  {
+    "text": "shallowReactive()",
+    "href": "https://vuejs.org/api/reactivity-advanced#shallowreactive"
+  },
+  {
+    "text": "shallowReadonly()",
+    "href": "https://vuejs.org/api/reactivity-advanced#shallowreadonly"
+  },
+  {
+    "text": "toRaw()",
+    "href": "https://vuejs.org/api/reactivity-advanced#toraw"
+  },
+  {
+    "text": "markRaw()",
+    "href": "https://vuejs.org/api/reactivity-advanced#markraw"
+  },
+  {
+    "text": "effectScope()",
+    "href": "https://vuejs.org/api/reactivity-advanced#effectscope"
+  },
+  {
+    "text": "getCurrentScope()",
+    "href": "https://vuejs.org/api/reactivity-advanced#getcurrentscope"
+  },
+  {
+    "text": "onScopeDispose()",
+    "href": "https://vuejs.org/api/reactivity-advanced#onscopedispose"
+  },
+  {
+    "text": "onMounted()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onmounted"
+  },
+  {
+    "text": "onUpdated()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onupdated"
+  },
+  {
+    "text": "onUnmounted()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onunmounted"
+  },
+  {
+    "text": "onBeforeMount()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onbeforemount"
+  },
+  {
+    "text": "onBeforeUpdate()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onbeforeupdate"
+  },
+  {
+    "text": "onBeforeUnmount()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onbeforeunmount"
+  },
+  {
+    "text": "onErrorCaptured()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onerrorcaptured"
+  },
+  {
+    "text": "onRenderTracked()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onrendertracked"
+  },
+  {
+    "text": "onRenderTriggered()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onrendertriggered"
+  },
+  {
+    "text": "onActivated()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onactivated"
+  },
+  {
+    "text": "onDeactivated()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#ondeactivated"
+  },
+  {
+    "text": "onServerPrefetch()",
+    "href": "https://vuejs.org/api/composition-api-lifecycle#onserverprefetch"
+  },
+  {
+    "text": "provide()",
+    "href": "https://vuejs.org/api/composition-api-dependency-injection#provide"
+  },
+  {
+    "text": "inject()",
+    "href": "https://vuejs.org/api/composition-api-dependency-injection#inject"
+  },
+  {
+    "text": "hasInjectionContext()",
+    "href": "https://vuejs.org/api/composition-api-dependency-injection#has-injection-context"
+  },
+  {
+    "text": "useAttrs()",
+    "href": "https://vuejs.org/api/composition-api-helpers#useattrs"
+  },
+  {
+    "text": "useSlots()",
+    "href": "https://vuejs.org/api/composition-api-helpers#useslots"
+  },
+  {
+    "text": "useModel()",
+    "href": "https://vuejs.org/api/composition-api-helpers#usemodel"
+  },
+  {
+    "text": "useTemplateRef()",
+    "href": "https://vuejs.org/api/composition-api-helpers#usetemplateref"
+  },
+  {
+    "text": "useId()",
+    "href": "https://vuejs.org/api/composition-api-helpers#useid"
+  },
+  {
+    "text": "data",
+    "href": "https://vuejs.org/api/options-state#data"
+  },
+  {
+    "text": "props",
+    "href": "https://vuejs.org/api/options-state#props"
+  },
+  {
+    "text": "computed",
+    "href": "https://vuejs.org/api/options-state#computed"
+  },
+  {
+    "text": "methods",
+    "href": "https://vuejs.org/api/options-state#methods"
+  },
+  {
+    "text": "watch",
+    "href": "https://vuejs.org/api/options-state#watch"
+  },
+  {
+    "text": "emits",
+    "href": "https://vuejs.org/api/options-state#emits"
+  },
+  {
+    "text": "expose",
+    "href": "https://vuejs.org/api/options-state#expose"
+  },
+  {
+    "text": "template",
+    "href": "https://vuejs.org/api/options-rendering#template"
+  },
+  {
+    "text": "render",
+    "href": "https://vuejs.org/api/options-rendering#render"
+  },
+  {
+    "text": "compilerOptions",
+    "href": "https://vuejs.org/api/options-rendering#compileroptions"
+  },
+  {
+    "text": "slots",
+    "href": "https://vuejs.org/api/options-rendering#slots"
+  },
+  {
+    "text": "beforeCreate",
+    "href": "https://vuejs.org/api/options-lifecycle#beforecreate"
+  },
+  {
+    "text": "created",
+    "href": "https://vuejs.org/api/options-lifecycle#created"
+  },
+  {
+    "text": "beforeMount",
+    "href": "https://vuejs.org/api/options-lifecycle#beforemount"
+  },
+  {
+    "text": "mounted",
+    "href": "https://vuejs.org/api/options-lifecycle#mounted"
+  },
+  {
+    "text": "beforeUpdate",
+    "href": "https://vuejs.org/api/options-lifecycle#beforeupdate"
+  },
+  {
+    "text": "updated",
+    "href": "https://vuejs.org/api/options-lifecycle#updated"
+  },
+  {
+    "text": "beforeUnmount",
+    "href": "https://vuejs.org/api/options-lifecycle#beforeunmount"
+  },
+  {
+    "text": "unmounted",
+    "href": "https://vuejs.org/api/options-lifecycle#unmounted"
+  },
+  {
+    "text": "errorCaptured",
+    "href": "https://vuejs.org/api/options-lifecycle#errorcaptured"
+  },
+  {
+    "text": "renderTracked",
+    "href": "https://vuejs.org/api/options-lifecycle#rendertracked"
+  },
+  {
+    "text": "renderTriggered",
+    "href": "https://vuejs.org/api/options-lifecycle#rendertriggered"
+  },
+  {
+    "text": "activated",
+    "href": "https://vuejs.org/api/options-lifecycle#activated"
+  },
+  {
+    "text": "deactivated",
+    "href": "https://vuejs.org/api/options-lifecycle#deactivated"
+  },
+  {
+    "text": "serverPrefetch",
+    "href": "https://vuejs.org/api/options-lifecycle#serverprefetch"
+  },
+  {
+    "text": "provide",
+    "href": "https://vuejs.org/api/options-composition#provide"
+  },
+  {
+    "text": "inject",
+    "href": "https://vuejs.org/api/options-composition#inject"
+  },
+  {
+    "text": "mixins",
+    "href": "https://vuejs.org/api/options-composition#mixins"
+  },
+  {
+    "text": "extends",
+    "href": "https://vuejs.org/api/options-composition#extends"
+  },
+  {
+    "text": "name",
+    "href": "https://vuejs.org/api/options-misc#name"
+  },
+  {
+    "text": "inheritAttrs",
+    "href": "https://vuejs.org/api/options-misc#inheritattrs"
+  },
+  {
+    "text": "components",
+    "href": "https://vuejs.org/api/options-misc#components"
+  },
+  {
+    "text": "directives",
+    "href": "https://vuejs.org/api/options-misc#directives"
+  },
+  {
+    "text": "$data",
+    "href": "https://vuejs.org/api/component-instance#data"
+  },
+  {
+    "text": "$props",
+    "href": "https://vuejs.org/api/component-instance#props"
+  },
+  {
+    "text": "$el",
+    "href": "https://vuejs.org/api/component-instance#el"
+  },
+  {
+    "text": "$options",
+    "href": "https://vuejs.org/api/component-instance#options"
+  },
+  {
+    "text": "$parent",
+    "href": "https://vuejs.org/api/component-instance#parent"
+  },
+  {
+    "text": "$root",
+    "href": "https://vuejs.org/api/component-instance#root"
+  },
+  {
+    "text": "$slots",
+    "href": "https://vuejs.org/api/component-instance#slots"
+  },
+  {
+    "text": "$refs",
+    "href": "https://vuejs.org/api/component-instance#refs"
+  },
+  {
+    "text": "$attrs",
+    "href": "https://vuejs.org/api/component-instance#attrs"
+  },
+  {
+    "text": "$watch()",
+    "href": "https://vuejs.org/api/component-instance#watch"
+  },
+  {
+    "text": "$emit()",
+    "href": "https://vuejs.org/api/component-instance#emit"
+  },
+  {
+    "text": "$forceUpdate()",
+    "href": "https://vuejs.org/api/component-instance#forceupdate"
+  },
+  {
+    "text": "$nextTick()",
+    "href": "https://vuejs.org/api/component-instance#nexttick"
+  },
+  {
+    "text": "v-text",
+    "href": "https://vuejs.org/api/built-in-directives#v-text"
+  },
+  {
+    "text": "v-html",
+    "href": "https://vuejs.org/api/built-in-directives#v-html"
+  },
+  {
+    "text": "v-show",
+    "href": "https://vuejs.org/api/built-in-directives#v-show"
+  },
+  {
+    "text": "v-if",
+    "href": "https://vuejs.org/api/built-in-directives#v-if"
+  },
+  {
+    "text": "v-else",
+    "href": "https://vuejs.org/api/built-in-directives#v-else"
+  },
+  {
+    "text": "v-else-if",
+    "href": "https://vuejs.org/api/built-in-directives#v-else-if"
+  },
+  {
+    "text": "v-for",
+    "href": "https://vuejs.org/api/built-in-directives#v-for"
+  },
+  {
+    "text": "v-on",
+    "href": "https://vuejs.org/api/built-in-directives#v-on"
+  },
+  {
+    "text": "v-bind",
+    "href": "https://vuejs.org/api/built-in-directives#v-bind"
+  },
+  {
+    "text": "v-model",
+    "href": "https://vuejs.org/api/built-in-directives#v-model"
+  },
+  {
+    "text": "v-slot",
+    "href": "https://vuejs.org/api/built-in-directives#v-slot"
+  },
+  {
+    "text": "v-pre",
+    "href": "https://vuejs.org/api/built-in-directives#v-pre"
+  },
+  {
+    "text": "v-once",
+    "href": "https://vuejs.org/api/built-in-directives#v-once"
+  },
+  {
+    "text": "v-memo",
+    "href": "https://vuejs.org/api/built-in-directives#v-memo"
+  },
+  {
+    "text": "v-cloak",
+    "href": "https://vuejs.org/api/built-in-directives#v-cloak"
+  },
+  {
+    "text": "&lt;Transition&gt;",
+    "href": "https://vuejs.org/api/built-in-components#transition"
+  },
+  {
+    "text": "&lt;TransitionGroup&gt;",
+    "href": "https://vuejs.org/api/built-in-components#transitiongroup"
+  },
+  {
+    "text": "&lt;KeepAlive&gt;",
+    "href": "https://vuejs.org/api/built-in-components#keepalive"
+  },
+  {
+    "text": "&lt;Teleport&gt;",
+    "href": "https://vuejs.org/api/built-in-components#teleport"
+  },
+  {
+    "text": "&lt;Suspense&gt;",
+    "href": "https://vuejs.org/api/built-in-components#suspense"
+  },
+  {
+    "text": "&lt;component&gt;",
+    "href": "https://vuejs.org/api/built-in-special-elements#component"
+  },
+  {
+    "text": "&lt;slot&gt;",
+    "href": "https://vuejs.org/api/built-in-special-elements#slot"
+  },
+  {
+    "text": "&lt;template&gt;",
+    "href": "https://vuejs.org/api/built-in-special-elements#template"
+  },
+  {
+    "text": "key",
+    "href": "https://vuejs.org/api/built-in-special-attributes#key"
+  },
+  {
+    "text": "ref",
+    "href": "https://vuejs.org/api/built-in-special-attributes#ref"
+  },
+  {
+    "text": "is",
+    "href": "https://vuejs.org/api/built-in-special-attributes#is"
+  },
+  {
+    "text": "Overview",
+    "href": "https://vuejs.org/api/sfc-spec#overview"
+  },
+  {
+    "text": "Language Blocks",
+    "href": "https://vuejs.org/api/sfc-spec#language-blocks"
+  },
+  {
+    "text": "Automatic Name Inference",
+    "href": "https://vuejs.org/api/sfc-spec#automatic-name-inference"
+  },
+  {
+    "text": "Pre-Processors",
+    "href": "https://vuejs.org/api/sfc-spec#pre-processors"
+  },
+  {
+    "text": "src Imports",
+    "href": "https://vuejs.org/api/sfc-spec#src-imports"
+  },
+  {
+    "text": "Comments",
+    "href": "https://vuejs.org/api/sfc-spec#comments"
+  },
+  {
+    "text": "Basic Syntax",
+    "href": "https://vuejs.org/api/sfc-script-setup#basic-syntax"
+  },
+  {
+    "text": "Reactivity",
+    "href": "https://vuejs.org/api/sfc-script-setup#reactivity"
+  },
+  {
+    "text": "Using Components",
+    "href": "https://vuejs.org/api/sfc-script-setup#using-components"
+  },
+  {
+    "text": "Using Custom Directives",
+    "href": "https://vuejs.org/api/sfc-script-setup#using-custom-directives"
+  },
+  {
+    "text": "defineProps() &amp; defineEmits()",
+    "href": "https://vuejs.org/api/sfc-script-setup#defineprops-defineemits"
+  },
+  {
+    "text": "defineModel()",
+    "href": "https://vuejs.org/api/sfc-script-setup#definemodel"
+  },
+  {
+    "text": "defineExpose()",
+    "href": "https://vuejs.org/api/sfc-script-setup#defineexpose"
+  },
+  {
+    "text": "defineOptions()",
+    "href": "https://vuejs.org/api/sfc-script-setup#defineoptions"
+  },
+  {
+    "text": "defineSlots()",
+    "href": "https://vuejs.org/api/sfc-script-setup#defineslots"
+  },
+  {
+    "text": "useSlots() &amp; useAttrs()",
+    "href": "https://vuejs.org/api/sfc-script-setup#useslots-useattrs"
+  },
+  {
+    "text": "Usage alongside normal &lt;script&gt;",
+    "href": "https://vuejs.org/api/sfc-script-setup#usage-alongside-normal-script"
+  },
+  {
+    "text": "Top-level await",
+    "href": "https://vuejs.org/api/sfc-script-setup#top-level-await"
+  },
+  {
+    "text": "Import Statements",
+    "href": "https://vuejs.org/api/sfc-script-setup#imports-statements"
+  },
+  {
+    "text": "Generics",
+    "href": "https://vuejs.org/api/sfc-script-setup#generics"
+  },
+  {
+    "text": "Restrictions",
+    "href": "https://vuejs.org/api/sfc-script-setup#restrictions"
+  },
+  {
+    "text": "Scoped CSS",
+    "href": "https://vuejs.org/api/sfc-css-features#scoped-css"
+  },
+  {
+    "text": "CSS Modules",
+    "href": "https://vuejs.org/api/sfc-css-features#css-modules"
+  },
+  {
+    "text": "v-bind() in CSS",
+    "href": "https://vuejs.org/api/sfc-css-features#v-bind-in-css"
+  },
+  {
+    "text": "defineCustomElement()",
+    "href": "https://vuejs.org/api/custom-elements#definecustomelement"
+  },
+  {
+    "text": "useHost()",
+    "href": "https://vuejs.org/api/custom-elements#usehost"
+  },
+  {
+    "text": "useShadowRoot()",
+    "href": "https://vuejs.org/api/custom-elements#useshadowroot"
+  },
+  {
+    "text": "this.$host",
+    "href": "https://vuejs.org/api/custom-elements#this-host"
+  },
+  {
+    "text": "h()",
+    "href": "https://vuejs.org/api/render-function#h"
+  },
+  {
+    "text": "mergeProps()",
+    "href": "https://vuejs.org/api/render-function#mergeprops"
+  },
+  {
+    "text": "cloneVNode()",
+    "href": "https://vuejs.org/api/render-function#clonevnode"
+  },
+  {
+    "text": "isVNode()",
+    "href": "https://vuejs.org/api/render-function#isvnode"
+  },
+  {
+    "text": "resolveComponent()",
+    "href": "https://vuejs.org/api/render-function#resolvecomponent"
+  },
+  {
+    "text": "resolveDirective()",
+    "href": "https://vuejs.org/api/render-function#resolvedirective"
+  },
+  {
+    "text": "withDirectives()",
+    "href": "https://vuejs.org/api/render-function#withdirectives"
+  },
+  {
+    "text": "withModifiers()",
+    "href": "https://vuejs.org/api/render-function#withmodifiers"
+  },
+  {
+    "text": "renderToString()",
+    "href": "https://vuejs.org/api/ssr#rendertostring"
+  },
+  {
+    "text": "renderToNodeStream()",
+    "href": "https://vuejs.org/api/ssr#rendertonodestream"
+  },
+  {
+    "text": "pipeToNodeWritable()",
+    "href": "https://vuejs.org/api/ssr#pipetonodewritable"
+  },
+  {
+    "text": "renderToWebStream()",
+    "href": "https://vuejs.org/api/ssr#rendertowebstream"
+  },
+  {
+    "text": "pipeToWebWritable()",
+    "href": "https://vuejs.org/api/ssr#pipetowebwritable"
+  },
+  {
+    "text": "renderToSimpleStream()",
+    "href": "https://vuejs.org/api/ssr#rendertosimplestream"
+  },
+  {
+    "text": "useSSRContext()",
+    "href": "https://vuejs.org/api/ssr#usessrcontext"
+  },
+  {
+    "text": "data-allow-mismatch",
+    "href": "https://vuejs.org/api/ssr#data-allow-mismatch"
+  },
+  {
+    "text": "PropType&lt;T&gt;",
+    "href": "https://vuejs.org/api/utility-types#proptype-t"
+  },
+  {
+    "text": "MaybeRef&lt;T&gt;",
+    "href": "https://vuejs.org/api/utility-types#mayberef"
+  },
+  {
+    "text": "MaybeRefOrGetter&lt;T&gt;",
+    "href": "https://vuejs.org/api/utility-types#maybereforgetter"
+  },
+  {
+    "text": "ExtractPropTypes&lt;T&gt;",
+    "href": "https://vuejs.org/api/utility-types#extractproptypes"
+  },
+  {
+    "text": "ExtractPublicPropTypes&lt;T&gt;",
+    "href": "https://vuejs.org/api/utility-types#extractpublicproptypes"
+  },
+  {
+    "text": "ComponentCustomProperties",
+    "href": "https://vuejs.org/api/utility-types#componentcustomproperties"
+  },
+  {
+    "text": "ComponentCustomOptions",
+    "href": "https://vuejs.org/api/utility-types#componentcustomoptions"
+  },
+  {
+    "text": "ComponentCustomProps",
+    "href": "https://vuejs.org/api/utility-types#componentcustomprops"
+  },
+  {
+    "text": "CSSProperties",
+    "href": "https://vuejs.org/api/utility-types#cssproperties"
+  },
+  {
+    "text": "createRenderer()",
+    "href": "https://vuejs.org/api/custom-renderer#createrenderer"
+  },
+  {
+    "text": "__VUE_OPTIONS_API__",
+    "href": "https://vuejs.org/api/compile-time-flags#VUE_OPTIONS_API"
+  },
+  {
+    "text": "__VUE_PROD_DEVTOOLS__",
+    "href": "https://vuejs.org/api/compile-time-flags#VUE_PROD_DEVTOOLS"
+  },
+  {
+    "text": "__VUE_PROD_HYDRATION_MISMATCH_DETAILS__",
+    "href": "https://vuejs.org/api/compile-time-flags#VUE_PROD_HYDRATION_MISMATCH_DETAILS"
+  },
+  {
+    "text": "Configuration Guides",
+    "href": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+  }
+]
