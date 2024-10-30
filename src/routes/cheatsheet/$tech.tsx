@@ -6,8 +6,9 @@ import {
   TooltipTrigger,
 } from '@/components/ui/tooltip'
 import { fetchTech } from '@/domains/fetch'
+import { References } from '@/model'
 import { createFileRoute } from '@tanstack/react-router'
-import { ChangeEvent, useState } from 'react'
+import { ChangeEvent, useEffect, useState } from 'react'
 
 export const Route = createFileRoute('/cheatsheet/$tech')({
   loader: async ({ params }) => {
@@ -22,7 +23,11 @@ function CheatsheetPage() {
   const { techData } = Route.useLoaderData()
   const { tech } = Route.useParams()
 
-  const [references, setReferences] = useState(techData)
+  const [references, setReferences] = useState<References | undefined>(undefined)
+
+  useEffect(() => {
+    setReferences(techData)
+  }, [techData])
 
   const onChange = (event: ChangeEvent<HTMLInputElement>) => {
     const value = event.target.value;

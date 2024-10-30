@@ -1,5 +1,6 @@
+import { Menu, References } from "@/model";
 
-export async function fetchSidebarMenuItem(){
+export async function fetchSidebarMenuItem(): Promise<Menu | undefined>{
     try {
         const response = await fetch('/json/menu.json', {
             method: 'GET'
@@ -11,7 +12,7 @@ export async function fetchSidebarMenuItem(){
     }
 }
 
-export async function fetchTech(tech: string){
+export async function fetchTech(tech: string): Promise<References | undefined> {
     try {
         const response = await fetch(`/json/${tech}.json`, {
             method: 'GET'
