@@ -1,33 +1,5 @@
 [
   {
-    "text": "",
-    "href": "/"
-  },
-  {
-    "text": "Docs",
-    "href": "/docs"
-  },
-  {
-    "text": "Tutorials",
-    "href": "/tutorials"
-  },
-  {
-    "text": "Playground",
-    "href": "/playground"
-  },
-  {
-    "text": "Reference",
-    "href": "/reference"
-  },
-  {
-    "text": "Roadmap",
-    "href": "/roadmap"
-  },
-  {
-    "text": "Overview",
-    "href": "/api"
-  },
-  {
     "text": "animate",
     "href": "https://angular.dev/api/animations/animate"
   },

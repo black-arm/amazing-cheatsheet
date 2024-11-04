@@ -548,35 +548,35 @@
     "href": "https://vuejs.org/api/built-in-directives#v-cloak"
   },
   {
-    "text": "&lt;Transition&gt;",
+    "text": "<Transition>",
     "href": "https://vuejs.org/api/built-in-components#transition"
   },
   {
-    "text": "&lt;TransitionGroup&gt;",
+    "text": "<TransitionGroup>",
     "href": "https://vuejs.org/api/built-in-components#transitiongroup"
   },
   {
-    "text": "&lt;KeepAlive&gt;",
+    "text": "<KeepAlive>",
     "href": "https://vuejs.org/api/built-in-components#keepalive"
   },
   {
-    "text": "&lt;Teleport&gt;",
+    "text": "<Teleport>",
     "href": "https://vuejs.org/api/built-in-components#teleport"
   },
   {
-    "text": "&lt;Suspense&gt;",
+    "text": "<Suspense>",
     "href": "https://vuejs.org/api/built-in-components#suspense"
   },
   {
-    "text": "&lt;component&gt;",
+    "text": "<component>",
     "href": "https://vuejs.org/api/built-in-special-elements#component"
   },
   {
-    "text": "&lt;slot&gt;",
+    "text": "<slot>",
     "href": "https://vuejs.org/api/built-in-special-elements#slot"
   },
   {
-    "text": "&lt;template&gt;",
+    "text": "<template>",
     "href": "https://vuejs.org/api/built-in-special-elements#template"
   },
   {
@@ -632,7 +632,7 @@
     "href": "https://vuejs.org/api/sfc-script-setup#using-custom-directives"
   },
   {
-    "text": "defineProps() &amp; defineEmits()",
+    "text": "defineProps() & defineEmits()",
     "href": "https://vuejs.org/api/sfc-script-setup#defineprops-defineemits"
   },
   {
@@ -652,11 +652,11 @@
     "href": "https://vuejs.org/api/sfc-script-setup#defineslots"
   },
   {
-    "text": "useSlots() &amp; useAttrs()",
+    "text": "useSlots() & useAttrs()",
     "href": "https://vuejs.org/api/sfc-script-setup#useslots-useattrs"
   },
   {
-    "text": "Usage alongside normal &lt;script&gt;",
+    "text": "Usage alongside normal <script>",
     "href": "https://vuejs.org/api/sfc-script-setup#usage-alongside-normal-script"
   },
   {
@@ -768,23 +768,23 @@
     "href": "https://vuejs.org/api/ssr#data-allow-mismatch"
   },
   {
-    "text": "PropType&lt;T&gt;",
+    "text": "PropType<T>",
     "href": "https://vuejs.org/api/utility-types#proptype-t"
   },
   {
-    "text": "MaybeRef&lt;T&gt;",
+    "text": "MaybeRef<T>",
     "href": "https://vuejs.org/api/utility-types#mayberef"
   },
   {
-    "text": "MaybeRefOrGetter&lt;T&gt;",
+    "text": "MaybeRefOrGetter<T>",
     "href": "https://vuejs.org/api/utility-types#maybereforgetter"
   },
   {
-    "text": "ExtractPropTypes&lt;T&gt;",
+    "text": "ExtractPropTypes<T>",
     "href": "https://vuejs.org/api/utility-types#extractproptypes"
   },
   {
-    "text": "ExtractPublicPropTypes&lt;T&gt;",
+    "text": "ExtractPublicPropTypes<T>",
     "href": "https://vuejs.org/api/utility-types#extractpublicproptypes"
   },
   {

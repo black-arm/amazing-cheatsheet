@@ -120,31 +120,31 @@
     "href": "https://svelte.dev/docs/svelte/custom-properties"
   },
   {
-    "text": "Nested &lt;style> elements",
+    "text": "Nested <style> elements",
     "href": "https://svelte.dev/docs/svelte/nested-style-elements"
   },
   {
-    "text": "&lt;svelte:window>",
+    "text": "<svelte:window>",
     "href": "https://svelte.dev/docs/svelte/svelte-window"
   },
   {
-    "text": "&lt;svelte:document>",
+    "text": "<svelte:document>",
     "href": "https://svelte.dev/docs/svelte/svelte-document"
   },
   {
-    "text": "&lt;svelte:body>",
+    "text": "<svelte:body>",
     "href": "https://svelte.dev/docs/svelte/svelte-body"
   },
   {
-    "text": "&lt;svelte:head>",
+    "text": "<svelte:head>",
     "href": "https://svelte.dev/docs/svelte/svelte-head"
   },
   {
-    "text": "&lt;svelte:element>",
+    "text": "<svelte:element>",
     "href": "https://svelte.dev/docs/svelte/svelte-element"
   },
   {
-    "text": "&lt;svelte:options>",
+    "text": "<svelte:options>",
     "href": "https://svelte.dev/docs/svelte/svelte-options"
   },
   {
@@ -174,22 +174,6 @@
   {
     "text": "Custom elements",
     "href": "https://svelte.dev/docs/svelte/custom-elements"
-  },
-  {
-    "text": "Svelte 4 migration guide",
-    "href": "https://svelte.dev/docs/svelte/v4-migration-guide"
-  },
-  {
-    "text": "Svelte 5 migration guide",
-    "href": "https://svelte.dev/docs/svelte/v5-migration-guide"
-  },
-  {
-    "text": "Frequently asked questions",
-    "href": "https://svelte.dev/docs/svelte/faq"
-  },
-  {
-    "text": "svelte",
-    "href": "https://svelte.dev/docs/svelte/svelte"
   },
   {
     "text": "svelte/action",
@@ -284,15 +268,15 @@
     "href": "https://svelte.dev/docs/svelte/legacy-$$slots"
   },
   {
-    "text": "&lt;svelte:fragment>",
+    "text": "<svelte:fragment>",
     "href": "https://svelte.dev/docs/svelte/legacy-svelte-fragment"
   },
   {
-    "text": "&lt;svelte:component>",
+    "text": "<svelte:component>",
     "href": "https://svelte.dev/docs/svelte/legacy-svelte-component"
   },
   {
-    "text": "&lt;svelte:self>",
+    "text": "<svelte:self>",
     "href": "https://svelte.dev/docs/svelte/legacy-svelte-self"
   },
   {
