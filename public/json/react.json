@@ -81,19 +81,19 @@
     "href": "https://react.dev/reference/react/components"
   },
   {
-    "text": "&lt;Fragment&gt; (&lt;&gt;)",
+    "text": "<Fragment> (<...>)",
     "href": "https://react.dev/reference/react/Fragment"
   },
   {
-    "text": "&lt;Profiler&gt;",
+    "text": "<Profiler>",
     "href": "https://react.dev/reference/react/Profiler"
   },
   {
-    "text": "&lt;StrictMode&gt;",
+    "text": "<StrictMode>",
     "href": "https://react.dev/reference/react/StrictMode"
   },
   {
-    "text": "&lt;Suspense&gt;",
+    "text": "<Suspense>",
     "href": "https://react.dev/reference/react/Suspense"
   },
   {
@@ -153,51 +153,51 @@
     "href": "https://react.dev/reference/react-dom/components"
   },
   {
-    "text": "Common (e.g. &lt;div&gt;)",
+    "text": "Common (e.g. <div>)",
     "href": "https://react.dev/reference/react-dom/components/common"
   },
   {
-    "text": "&lt;form&gt;  - This feature is available in the latest Canary",
+    "text": "<form>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/form"
   },
   {
-    "text": "&lt;input&gt;",
+    "text": "<input>",
     "href": "https://react.dev/reference/react-dom/components/input"
   },
   {
-    "text": "&lt;option&gt;",
+    "text": "<option>",
     "href": "https://react.dev/reference/react-dom/components/option"
   },
   {
-    "text": "&lt;progress&gt;",
+    "text": "<progress>",
     "href": "https://react.dev/reference/react-dom/components/progress"
   },
   {
-    "text": "&lt;select&gt;",
+    "text": "<select>",
     "href": "https://react.dev/reference/react-dom/components/select"
   },
   {
-    "text": "&lt;textarea&gt;",
+    "text": "<textarea>",
     "href": "https://react.dev/reference/react-dom/components/textarea"
   },
   {
-    "text": "&lt;link&gt;  - This feature is available in the latest Canary",
+    "text": "<link>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/link"
   },
   {
-    "text": "&lt;meta&gt;  - This feature is available in the latest Canary",
+    "text": "<meta>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/meta"
   },
   {
-    "text": "&lt;script&gt;  - This feature is available in the latest Canary",
+    "text": "<script>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/script"
   },
   {
-    "text": "&lt;style&gt;  - This feature is available in the latest Canary",
+    "text": "<style>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/style"
   },
   {
-    "text": "&lt;title&gt;  - This feature is available in the latest Canary",
+    "text": "<title>  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/react-dom/components/title"
   },
   {
@@ -321,11 +321,11 @@
     "href": "https://react.dev/reference/rsc/directives"
   },
   {
-    "text": "&#x27;use client&#x27;  - This feature is available in the latest Canary",
+    "text": "'use client'  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/rsc/use-client"
   },
   {
-    "text": "&#x27;use server&#x27;  - This feature is available in the latest Canary",
+    "text": "'use server'  - This feature is available in the latest Canary",
     "href": "https://react.dev/reference/rsc/use-server"
   },
   {
