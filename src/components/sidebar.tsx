@@ -1,7 +1,8 @@
 import { Link } from "@tanstack/react-router";
 import { ScrollArea } from "./ui/scroll-area";
+import { Menu } from "@/model";
 
-export const Sidebar = ({links}: {links: {tag: string; href: string, iconSrc: string}[] }) => {
+export const Sidebar = ({links}: {links: Menu }) => {
     
     return <ScrollArea className="w-full h-full px-2 mt-3" >
         {links.map((link) => (
