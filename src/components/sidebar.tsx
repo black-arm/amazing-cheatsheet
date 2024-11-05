@@ -18,7 +18,7 @@ export const Sidebar = ({links}: {links: Menu }) => {
                             '';
 
                         return <div className={"mt-2 py-1 px-2 rounded-sm hover:bg-slate-200/80 flex gap-2 " + classActiveBox}>
-                            <img src={`/src/assets/icons/${link.href}.svg`} className="w-5 h-5" alt={link.href}/>
+                            <img src={`/public/icons/${link.href}.svg`} className="w-5 h-5" alt={link.href}/>
                             <span className={classActiveText}>{link.tag}</span>
                         </div>
                     }}
