@@ -4,6 +4,7 @@ export default {
     content: [
     "./index.html",
     "./src/**/*.{ts,tsx}",
+	"./src/assets/icons/*.svg",
   ],
   theme: {
   	extend: {

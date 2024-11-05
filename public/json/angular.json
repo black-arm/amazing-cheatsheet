@@ -3133,183 +3133,183 @@
   },
   {
     "text": "Overview",
-    "href": "/cli"
+    "href": "https://angular.dev/cli"
   },
   {
     "text": "ng add",
-    "href": "/cli/add"
+    "href": "https://angular.dev/cli/add"
   },
   {
     "text": "Overview",
-    "href": "/cli/analytics"
+    "href": "https://angular.dev/cli/analytics"
   },
   {
     "text": "disable",
-    "href": "/cli/analytics/disable"
+    "href": "https://angular.dev/cli/analytics/disable"
   },
   {
     "text": "enable",
-    "href": "/cli/analytics/enable"
+    "href": "https://angular.dev/cli/analytics/enable"
   },
   {
     "text": "info",
-    "href": "/cli/analytics/info"
+    "href": "https://angular.dev/cli/analytics/info"
   },
   {
     "text": "prompt",
-    "href": "/cli/analytics/prompt"
+    "href": "https://angular.dev/cli/analytics/prompt"
   },
   {
     "text": "ng build",
-    "href": "/cli/build"
+    "href": "https://angular.dev/cli/build"
   },
   {
     "text": "Overview",
-    "href": "/cli/cache"
+    "href": "https://angular.dev/cli/cache"
   },
   {
     "text": "clear",
-    "href": "/cli/cache/clean"
+    "href": "https://angular.dev/cli/cache/clean"
   },
   {
     "text": "disable",
-    "href": "/cli/cache/disable"
+    "href": "https://angular.dev/cli/cache/disable"
   },
   {
     "text": "enable",
-    "href": "/cli/cache/enable"
+    "href": "https://angular.dev/cli/cache/enable"
   },
   {
     "text": "info",
-    "href": "/cli/cache/info"
+    "href": "https://angular.dev/cli/cache/info"
   },
   {
     "text": "Overview",
-    "href": "/cli/completion"
+    "href": "https://angular.dev/cli/completion"
   },
   {
     "text": "script",
-    "href": "/cli/completion/script"
+    "href": "https://angular.dev/cli/completion/script"
   },
   {
     "text": "ng config",
-    "href": "/cli/config"
+    "href": "https://angular.dev/cli/config"
   },
   {
     "text": "ng deploy",
-    "href": "/cli/deploy"
+    "href": "https://angular.dev/cli/deploy"
   },
   {
     "text": "ng e2e",
-    "href": "/cli/e2e"
+    "href": "https://angular.dev/cli/e2e"
   },
   {
     "text": "ng extract-i18n",
-    "href": "/cli/extract-i18n"
+    "href": "https://angular.dev/cli/extract-i18n"
   },
   {
     "text": "Overview",
-    "href": "/cli/generate"
+    "href": "https://angular.dev/cli/generate"
   },
   {
     "text": "app-shell",
-    "href": "/cli/generate/app-shell"
+    "href": "https://angular.dev/cli/generate/app-shell"
   },
   {
     "text": "application",
-    "href": "/cli/generate/application"
+    "href": "https://angular.dev/cli/generate/application"
   },
   {
     "text": "class",
-    "href": "/cli/generate/class"
+    "href": "https://angular.dev/cli/generate/class"
   },
   {
     "text": "component",
-    "href": "/cli/generate/component"
+    "href": "https://angular.dev/cli/generate/component"
   },
   {
     "text": "config",
-    "href": "/cli/generate/config"
+    "href": "https://angular.dev/cli/generate/config"
   },
   {
     "text": "directive",
-    "href": "/cli/generate/directive"
+    "href": "https://angular.dev/cli/generate/directive"
   },
   {
     "text": "enum",
-    "href": "/cli/generate/enum"
+    "href": "https://angular.dev/cli/generate/enum"
   },
   {
     "text": "environments",
-    "href": "/cli/generate/environments"
+    "href": "https://angular.dev/cli/generate/environments"
   },
   {
     "text": "guard",
-    "href": "/cli/generate/guard"
+    "href": "https://angular.dev/cli/generate/guard"
   },
   {
     "text": "interceptor",
-    "href": "/cli/generate/interceptor"
+    "href": "https://angular.dev/cli/generate/interceptor"
   },
   {
     "text": "interface",
-    "href": "/cli/generate/interface"
+    "href": "https://angular.dev/cli/generate/interface"
   },
   {
     "text": "library",
-    "href": "/cli/generate/library"
+    "href": "https://angular.dev/cli/generate/library"
   },
   {
     "text": "module",
-    "href": "/cli/generate/module"
+    "href": "https://angular.dev/cli/generate/module"
   },
   {
     "text": "pipe",
-    "href": "/cli/generate/pipe"
+    "href": "https://angular.dev/cli/generate/pipe"
   },
   {
     "text": "resolver",
-    "href": "/cli/generate/resolver"
+    "href": "https://angular.dev/cli/generate/resolver"
   },
   {
     "text": "service-worker",
-    "href": "/cli/generate/service-worker"
+    "href": "https://angular.dev/cli/generate/service-worker"
   },
   {
     "text": "service",
-    "href": "/cli/generate/service"
+    "href": "https://angular.dev/cli/generate/service"
   },
   {
     "text": "web-worker",
-    "href": "/cli/generate/web-worker"
+    "href": "https://angular.dev/cli/generate/web-worker"
   },
   {
     "text": "ng lint",
-    "href": "/cli/lint"
+    "href": "https://angular.dev/cli/lint"
   },
   {
     "text": "ng new",
-    "href": "/cli/new"
+    "href": "https://angular.dev/cli/new"
   },
   {
     "text": "ng run",
-    "href": "/cli/run"
+    "href": "https://angular.dev/cli/run"
   },
   {
     "text": "ng serve",
-    "href": "/cli/serve"
+    "href": "https://angular.dev/cli/serve"
   },
   {
     "text": "ng test",
-    "href": "/cli/test"
+    "href": "https://angular.dev/cli/test"
   },
   {
     "text": "ng update",
-    "href": "/cli/update"
+    "href": "https://angular.dev/cli/update"
   },
   {
     "text": "ng version",
-    "href": "/cli/version"
+    "href": "https://angular.dev/cli/version"
   },
   {
     "text": "Overview",
@@ -3517,11 +3517,11 @@
   },
   {
     "text": "Versioning and releases",
-    "href": "/reference/releases"
+    "href": "https://angular.dev/reference/releases"
   },
   {
     "text": "Version compatibility",
-    "href": "/reference/versions"
+    "href": "https://angular.dev/reference/versions"
   },
   {
     "text": "Update guide",
@@ -3529,294 +3529,166 @@
   },
   {
     "text": "File structure",
-    "href": "/reference/configs/file-structure"
+    "href": "https://angular.dev/reference/configs/file-structure"
   },
   {
     "text": "Workspace configuration",
-    "href": "/reference/configs/workspace-config"
+    "href": "https://angular.dev/reference/configs/workspace-config"
   },
   {
     "text": "Angular compiler options",
-    "href": "/reference/configs/angular-compiler-options"
+    "href": "https://angular.dev/reference/configs/angular-compiler-options"
   },
   {
     "text": "npm dependencies",
-    "href": "/reference/configs/npm-packages"
+    "href": "https://angular.dev/reference/configs/npm-packages"
   },
   {
     "text": "Overview",
-    "href": "/reference/migrations"
+    "href": "https://angular.dev/reference/migrations"
   },
   {
     "text": "Standalone",
-    "href": "/reference/migrations/standalone"
+    "href": "https://angular.dev/reference/migrations/standalone"
   },
   {
     "text": "Control Flow Syntax",
-    "href": "/reference/migrations/control-flow"
+    "href": "https://angular.dev/reference/migrations/control-flow"
   },
   {
     "text": "inject() Function",
-    "href": "/reference/migrations/inject-function"
+    "href": "https://angular.dev/reference/migrations/inject-function"
   },
   {
     "text": "Lazy-loaded routes",
-    "href": "/reference/migrations/route-lazy-loading"
+    "href": "https://angular.dev/reference/migrations/route-lazy-loading"
   },
   {
     "text": "Overview",
-    "href": "/reference/concepts"
-  },
-  {
-    "text": "Overview",
-    "href": "/guide/ngmodules"
-  },
-  {
-    "text": "JS Modules vs NgModules",
-    "href": "/guide/ngmodules/vs-jsmodule"
-  },
-  {
-    "text": "Launching your app with a root module",
-    "href": "/guide/ngmodules/bootstrapping"
-  },
-  {
-    "text": "Sharing NgModules",
-    "href": "/guide/ngmodules/sharing"
-  },
-  {
-    "text": "Frequently used NgModules",
-    "href": "/guide/ngmodules/frequent"
-  },
-  {
-    "text": "Feature modules",
-    "href": "/guide/ngmodules/feature-modules"
-  },
-  {
-    "text": "Types of feature modules",
-    "href": "/guide/ngmodules/module-types"
-  },
-  {
-    "text": "Providing dependencies",
-    "href": "/guide/ngmodules/providers"
-  },
-  {
-    "text": "Singleton services",
-    "href": "/guide/ngmodules/singleton-services"
-  },
-  {
-    "text": "Lazy-loading feature modules",
-    "href": "/guide/ngmodules/lazy-loading"
-  },
-  {
-    "text": "NgModule API",
-    "href": "/guide/ngmodules/api"
-  },
-  {
-    "text": "NgModule FAQs",
-    "href": "/guide/ngmodules/faq"
+    "href": "https://angular.dev/reference/concepts"
   },
   {
     "text": "Most Common",
-    "href": "/api#featured"
+    "href": "https://angular.dev/api#featured"
   },
   {
     "text": "animations",
-    "href": "/api#angular_animations"
+    "href": "https://angular.dev/api#angular_animations"
   },
   {
     "text": "animations/browser",
-    "href": "/api#angular_animations_browser"
+    "href": "https://angular.dev/api#angular_animations_browser"
   },
   {
     "text": "animations/browser/testing",
-    "href": "/api#angular_animations_browser_testing"
+    "href": "https://angular.dev/api#angular_animations_browser_testing"
   },
   {
     "text": "common",
-    "href": "/api#angular_common"
+    "href": "https://angular.dev/api#angular_common"
   },
   {
     "text": "common/http",
-    "href": "/api#angular_common_http"
+    "href": "https://angular.dev/api#angular_common_http"
   },
   {
     "text": "common/http/testing",
-    "href": "/api#angular_common_http_testing"
+    "href": "https://angular.dev/api#angular_common_http_testing"
   },
   {
     "text": "common/testing",
-    "href": "/api#angular_common_testing"
+    "href": "https://angular.dev/api#angular_common_testing"
   },
   {
     "text": "common/upgrade",
-    "href": "/api#angular_common_upgrade"
+    "href": "https://angular.dev/api#angular_common_upgrade"
   },
   {
     "text": "core",
-    "href": "/api#angular_core"
+    "href": "https://angular.dev/api#angular_core"
   },
   {
     "text": "core/rxjs-interop",
-    "href": "/api#angular_core_rxjs-interop"
+    "href": "https://angular.dev/api#angular_core_rxjs-interop"
   },
   {
     "text": "core/testing",
-    "href": "/api#angular_core_testing"
+    "href": "https://angular.dev/api#angular_core_testing"
   },
   {
     "text": "elements",
-    "href": "/api#angular_elements"
+    "href": "https://angular.dev/api#angular_elements"
   },
   {
     "text": "forms",
-    "href": "/api#angular_forms"
+    "href": "https://angular.dev/api#angular_forms"
   },
   {
     "text": "localize",
-    "href": "/api#angular_localize"
+    "href": "https://angular.dev/api#angular_localize"
   },
   {
     "text": "localize/init",
-    "href": "/api#angular_localize_init"
+    "href": "https://angular.dev/api#angular_localize_init"
   },
   {
     "text": "platform-browser",
-    "href": "/api#angular_platform-browser"
+    "href": "https://angular.dev/api#angular_platform-browser"
   },
   {
     "text": "platform-browser-dynamic",
-    "href": "/api#angular_platform-browser-dynamic"
+    "href": "https://angular.dev/api#angular_platform-browser-dynamic"
   },
   {
     "text": "platform-browser-dynamic/testing",
-    "href": "/api#angular_platform-browser-dynamic_testing"
+    "href": "https://angular.dev/api#angular_platform-browser-dynamic_testing"
   },
   {
     "text": "platform-browser/animations",
-    "href": "/api#angular_platform-browser_animations"
+    "href": "https://angular.dev/api#angular_platform-browser_animations"
   },
   {
     "text": "platform-browser/animations/async",
-    "href": "/api#angular_platform-browser_animations_async"
+    "href": "https://angular.dev/api#angular_platform-browser_animations_async"
   },
   {
     "text": "platform-browser/testing",
-    "href": "/api#angular_platform-browser_testing"
+    "href": "https://angular.dev/api#angular_platform-browser_testing"
   },
   {
     "text": "platform-server",
-    "href": "/api#angular_platform-server"
+    "href": "https://angular.dev/api#angular_platform-server"
   },
   {
     "text": "platform-server/testing",
-    "href": "/api#angular_platform-server_testing"
+    "href": "https://angular.dev/api#angular_platform-server_testing"
   },
   {
     "text": "router",
-    "href": "/api#angular_router"
+    "href": "https://angular.dev/api#angular_router"
   },
   {
     "text": "router/testing",
-    "href": "/api#angular_router_testing"
+    "href": "https://angular.dev/api#angular_router_testing"
   },
   {
     "text": "router/upgrade",
-    "href": "/api#angular_router_upgrade"
+    "href": "https://angular.dev/api#angular_router_upgrade"
   },
   {
     "text": "service-worker",
-    "href": "/api#angular_service-worker"
+    "href": "https://angular.dev/api#angular_service-worker"
   },
   {
     "text": "upgrade/static",
-    "href": "/api#angular_upgrade_static"
+    "href": "https://angular.dev/api#angular_upgrade_static"
   },
   {
     "text": "upgrade/static/testing",
-    "href": "/api#angular_upgrade_static_testing"
+    "href": "https://angular.dev/api#angular_upgrade_static_testing"
   },
   {
     "text": "window.ng globals",
-    "href": "/api#angular_core_globals"
-  },
-  {
-    "text": "Blog",
-    "href": "https://blog.angular.dev"
-  },
-  {
-    "text": "X (formerly Twitter)",
-    "href": "https://x.com/angular"
-  },
-  {
-    "text": "YouTube",
-    "href": "https://www.youtube.com/angular"
-  },
-  {
-    "text": "Discord",
-    "href": "https://discord.gg/angular"
-  },
-  {
-    "text": "GitHub",
-    "href": "https://github.com/angular/angular"
-  },
-  {
-    "text": "Stack Overflow",
-    "href": "https://stackoverflow.com/questions/tagged/angular"
-  },
-  {
-    "text": "Contribute",
-    "href": "https://github.com/angular/angular/blob/main/CONTRIBUTING.md"
-  },
-  {
-    "text": "Code of Conduct",
-    "href": "https://github.com/angular/code-of-conduct/blob/main/CODE_OF_CONDUCT.md"
-  },
-  {
-    "text": "Report Issues",
-    "href": "https://github.com/angular/angular/issues"
-  },
-  {
-    "text": "Google's DevLibrary",
-    "href": "https://devlibrary.withgoogle.com/products/angular?sort=updated"
-  },
-  {
-    "text": "Angular Google Developer Experts",
-    "href": "https://developers.google.com/community/experts/directory?specialization=angular"
-  },
-  {
-    "text": "Press Kit",
-    "href": "/press-kit"
-  },
-  {
-    "text": "Roadmap",
-    "href": "/roadmap"
-  },
-  {
-    "text": "简体中文版",
-    "href": "https://angular.cn/"
-  },
-  {
-    "text": "正體中文版",
-    "href": "https://angular.tw/"
-  },
-  {
-    "text": "日本語版",
-    "href": "https://angular.jp/"
-  },
-  {
-    "text": "한국어",
-    "href": "https://angular.kr/"
-  },
-  {
-    "text": "Ελληνικά",
-    "href": "https://angular-gr.web.app"
-  },
-  {
-    "text": "MIT-style License",
-    "href": "/license"
-  },
-  {
-    "text": "CC BY 4.0",
-    "href": "https://creativecommons.org/licenses/by/4.0/"
+    "href": "https://angular.dev/api#angular_core_globals"
   }
 ]

@@ -1,7 +1,8 @@
 import { Link } from "@tanstack/react-router";
 import { ScrollArea } from "./ui/scroll-area";
+import { Menu } from "@/model";
 
-export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
+export const Sidebar = ({links}: {links: Menu }) => {
     
     return <ScrollArea className="w-full h-full px-2 mt-3" >
         {links.map((link) => (
@@ -16,7 +17,8 @@ export const Sidebar = ({links}: {links: {tag: string; href: string}[] }) => {
                             'bg-slate-100/40':
                             '';
 
-                        return <div className={"mt-2 py-1 px-2 rounded-sm hover:bg-slate-200/80 " + classActiveBox}>
+                        return <div className={"mt-2 py-1 px-2 rounded-sm hover:bg-slate-200/80 flex gap-2 " + classActiveBox}>
+                            <img src={`/src/assets/icons/${link.href}.svg`} className="w-5 h-5" alt={link.href}/>
                             <span className={classActiveText}>{link.tag}</span>
                         </div>
                     }}

@@ -3,5 +3,9 @@
     { "tag": "React", "href": "react"},
     { "tag": "Vue", "href": "vue"},
     { "tag": "Svelte", "href": "svelte" },
-    { "tag": "Qwik", "href": "qwik" }
+    { "tag": "Qwik", "href": "qwik" },
+    { "tag": "Next.js", "href": "next" },
+    { "tag": "Nuxt", "href": "nuxt"},
+    { "tag": "Javascript", "href": "javascript"},
+    { "tag": "Git", "href": "git" }
 ]
