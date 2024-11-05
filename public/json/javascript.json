@@ -1,0 +1,1682 @@
+[
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects"
+  },
+  {
+    "text": "AggregateError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError"
+  },
+  {
+    "text": "Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+  },
+  {
+    "text": "ArrayBuffer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer"
+  },
+  {
+    "text": "AsyncFunction",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction"
+  },
+  {
+    "text": "AsyncGenerator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator"
+  },
+  {
+    "text": "AsyncGeneratorFunction",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGeneratorFunction"
+  },
+  {
+    "text": "AsyncIterator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncIterator"
+  },
+  {
+    "text": "Atomics",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics"
+  },
+  {
+    "text": "BigInt",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt"
+  },
+  {
+    "text": "BigInt64Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt64Array"
+  },
+  {
+    "text": "BigUint64Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigUint64Array"
+  },
+  {
+    "text": "Boolean",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean"
+  },
+  {
+    "text": "DataView",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView"
+  },
+  {
+    "text": "Date",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
+  },
+  {
+    "text": "decodeURI()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURI"
+  },
+  {
+    "text": "decodeURIComponent()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent"
+  },
+  {
+    "text": "encodeURI()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI"
+  },
+  {
+    "text": "encodeURIComponent()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent"
+  },
+  {
+    "text": "Error",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error"
+  },
+  {
+    "text": "escape()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/escape"
+  },
+  {
+    "text": "eval()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval"
+  },
+  {
+    "text": "EvalError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError"
+  },
+  {
+    "text": "FinalizationRegistry",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry"
+  },
+  {
+    "text": "Float16Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float16Array"
+  },
+  {
+    "text": "Float32Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array"
+  },
+  {
+    "text": "Float64Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array"
+  },
+  {
+    "text": "Function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function"
+  },
+  {
+    "text": "Generator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator"
+  },
+  {
+    "text": "GeneratorFunction",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction"
+  },
+  {
+    "text": "globalThis",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis"
+  },
+  {
+    "text": "Infinity",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity"
+  },
+  {
+    "text": "Int16Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array"
+  },
+  {
+    "text": "Int32Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array"
+  },
+  {
+    "text": "Int8Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array"
+  },
+  {
+    "text": "InternalError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError"
+  },
+  {
+    "text": "Intl",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl"
+  },
+  {
+    "text": "isFinite()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isFinite"
+  },
+  {
+    "text": "isNaN()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN"
+  },
+  {
+    "text": "Iterator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Iterator"
+  },
+  {
+    "text": "JSON",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"
+  },
+  {
+    "text": "Map",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map"
+  },
+  {
+    "text": "Math",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math"
+  },
+  {
+    "text": "NaN",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN"
+  },
+  {
+    "text": "Number",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number"
+  },
+  {
+    "text": "Object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+  },
+  {
+    "text": "parseFloat()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat"
+  },
+  {
+    "text": "parseInt()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt"
+  },
+  {
+    "text": "Promise",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+  },
+  {
+    "text": "Proxy",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy"
+  },
+  {
+    "text": "RangeError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError"
+  },
+  {
+    "text": "ReferenceError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError"
+  },
+  {
+    "text": "Reflect",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect"
+  },
+  {
+    "text": "RegExp",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+  },
+  {
+    "text": "Set",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set"
+  },
+  {
+    "text": "SharedArrayBuffer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer"
+  },
+  {
+    "text": "String",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String"
+  },
+  {
+    "text": "Symbol",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol"
+  },
+  {
+    "text": "SyntaxError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError"
+  },
+  {
+    "text": "TypedArray",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray"
+  },
+  {
+    "text": "TypeError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError"
+  },
+  {
+    "text": "Uint16Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array"
+  },
+  {
+    "text": "Uint32Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array"
+  },
+  {
+    "text": "Uint8Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array"
+  },
+  {
+    "text": "Uint8ClampedArray",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray"
+  },
+  {
+    "text": "undefined",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined"
+  },
+  {
+    "text": "unescape()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/unescape"
+  },
+  {
+    "text": "URIError",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError"
+  },
+  {
+    "text": "WeakMap",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap"
+  },
+  {
+    "text": "WeakRef",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakRef"
+  },
+  {
+    "text": "WeakSet",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators"
+  },
+  {
+    "text": "Addition (+)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition"
+  },
+  {
+    "text": "Addition assignment (+=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment"
+  },
+  {
+    "text": "Assignment (=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment"
+  },
+  {
+    "text": "async function expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function"
+  },
+  {
+    "text": "async function* expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function*"
+  },
+  {
+    "text": "await",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await"
+  },
+  {
+    "text": "Bitwise AND (&amp;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND"
+  },
+  {
+    "text": "Bitwise AND assignment (&amp;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND_assignment"
+  },
+  {
+    "text": "Bitwise NOT (~)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_NOT"
+  },
+  {
+    "text": "Bitwise OR (|)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR"
+  },
+  {
+    "text": "Bitwise OR assignment (|=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR_assignment"
+  },
+  {
+    "text": "Bitwise XOR (^)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR"
+  },
+  {
+    "text": "Bitwise XOR assignment (^=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR_assignment"
+  },
+  {
+    "text": "class expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/class"
+  },
+  {
+    "text": "Comma operator (,)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_operator"
+  },
+  {
+    "text": "Conditional (ternary) operator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator"
+  },
+  {
+    "text": "Decrement (--)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement"
+  },
+  {
+    "text": "delete",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete"
+  },
+  {
+    "text": "Destructuring assignment",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
+  },
+  {
+    "text": "Division (/)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division"
+  },
+  {
+    "text": "Division assignment (/=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division_assignment"
+  },
+  {
+    "text": "Equality (==)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality"
+  },
+  {
+    "text": "Exponentiation (**)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation"
+  },
+  {
+    "text": "Exponentiation assignment (**=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation_assignment"
+  },
+  {
+    "text": "function expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function"
+  },
+  {
+    "text": "function* expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function*"
+  },
+  {
+    "text": "Greater than (&gt;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than"
+  },
+  {
+    "text": "Greater than or equal (&gt;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than_or_equal"
+  },
+  {
+    "text": "Grouping operator ( )",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping"
+  },
+  {
+    "text": "import.meta",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import.meta"
+  },
+  {
+    "text": "import()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import"
+  },
+  {
+    "text": "in",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in"
+  },
+  {
+    "text": "Increment (++)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment"
+  },
+  {
+    "text": "Inequality (!=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Inequality"
+  },
+  {
+    "text": "instanceof",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof"
+  },
+  {
+    "text": "Left shift (&lt;&lt;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift"
+  },
+  {
+    "text": "Left shift assignment (&lt;&lt;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift_assignment"
+  },
+  {
+    "text": "Less than (&lt;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than"
+  },
+  {
+    "text": "Less than or equal (&lt;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than_or_equal"
+  },
+  {
+    "text": "Logical AND (&amp;&amp;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND"
+  },
+  {
+    "text": "Logical AND assignment (&amp;&amp;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment"
+  },
+  {
+    "text": "Logical NOT (!)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT"
+  },
+  {
+    "text": "Logical OR (||)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR"
+  },
+  {
+    "text": "Logical OR assignment (||=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment"
+  },
+  {
+    "text": "Multiplication (*)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication"
+  },
+  {
+    "text": "Multiplication assignment (*=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication_assignment"
+  },
+  {
+    "text": "new",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new"
+  },
+  {
+    "text": "new.target",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target"
+  },
+  {
+    "text": "null",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/null"
+  },
+  {
+    "text": "Nullish coalescing assignment (??=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_assignment"
+  },
+  {
+    "text": "Nullish coalescing operator (??)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing"
+  },
+  {
+    "text": "Object initializer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer"
+  },
+  {
+    "text": "Operator precedence",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence"
+  },
+  {
+    "text": "Optional chaining (?.)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining"
+  },
+  {
+    "text": "Property accessors",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors"
+  },
+  {
+    "text": "Remainder (%)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder"
+  },
+  {
+    "text": "Remainder assignment (%=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder_assignment"
+  },
+  {
+    "text": "Right shift (&gt;&gt;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Right_shift"
+  },
+  {
+    "text": "Right shift assignment (&gt;&gt;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Right_shift_assignment"
+  },
+  {
+    "text": "Spread syntax (...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax"
+  },
+  {
+    "text": "Strict equality (===)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality"
+  },
+  {
+    "text": "Strict inequality (!==)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality"
+  },
+  {
+    "text": "Subtraction (-)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction"
+  },
+  {
+    "text": "Subtraction assignment (-=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction_assignment"
+  },
+  {
+    "text": "super",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super"
+  },
+  {
+    "text": "this",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"
+  },
+  {
+    "text": "typeof",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof"
+  },
+  {
+    "text": "Unary negation (-)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_negation"
+  },
+  {
+    "text": "Unary plus (+)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus"
+  },
+  {
+    "text": "Unsigned right shift (&gt;&gt;&gt;)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift"
+  },
+  {
+    "text": "Unsigned right shift assignment (&gt;&gt;&gt;=)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift_assignment"
+  },
+  {
+    "text": "void operator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void"
+  },
+  {
+    "text": "yield",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield"
+  },
+  {
+    "text": "yield*",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements"
+  },
+  {
+    "text": "async function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
+  },
+  {
+    "text": "async function*",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function*"
+  },
+  {
+    "text": "Block statement",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block"
+  },
+  {
+    "text": "break",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break"
+  },
+  {
+    "text": "class",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class"
+  },
+  {
+    "text": "const",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const"
+  },
+  {
+    "text": "continue",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue"
+  },
+  {
+    "text": "debugger",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger"
+  },
+  {
+    "text": "do...while",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while"
+  },
+  {
+    "text": "Empty statement",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty"
+  },
+  {
+    "text": "export",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export"
+  },
+  {
+    "text": "Expression statement",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement"
+  },
+  {
+    "text": "for",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for"
+  },
+  {
+    "text": "for await...of",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of"
+  },
+  {
+    "text": "for...in",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+  },
+  {
+    "text": "for...of",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of"
+  },
+  {
+    "text": "function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function"
+  },
+  {
+    "text": "function*",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"
+  },
+  {
+    "text": "if...else",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else"
+  },
+  {
+    "text": "import",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import"
+  },
+  {
+    "text": "Labeled statement",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label"
+  },
+  {
+    "text": "let",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+  },
+  {
+    "text": "return",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return"
+  },
+  {
+    "text": "switch",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch"
+  },
+  {
+    "text": "throw",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw"
+  },
+  {
+    "text": "try...catch",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch"
+  },
+  {
+    "text": "var",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var"
+  },
+  {
+    "text": "while",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while"
+  },
+  {
+    "text": "with",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions"
+  },
+  {
+    "text": "Arrow function expressions",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
+  },
+  {
+    "text": "Default parameters",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters"
+  },
+  {
+    "text": "get",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get"
+  },
+  {
+    "text": "Method definitions",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions"
+  },
+  {
+    "text": "Rest parameters",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters"
+  },
+  {
+    "text": "set",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set"
+  },
+  {
+    "text": "The arguments object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes"
+  },
+  {
+    "text": "constructor",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor"
+  },
+  {
+    "text": "extends",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends"
+  },
+  {
+    "text": "Private properties",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties"
+  },
+  {
+    "text": "Public class fields",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields"
+  },
+  {
+    "text": "static",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static"
+  },
+  {
+    "text": "Static initialization blocks",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions"
+  },
+  {
+    "text": "Backreference: \\1, \\2",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Backreference"
+  },
+  {
+    "text": "Capturing group: (...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Capturing_group"
+  },
+  {
+    "text": "Character class escape: \\d, \\D, \\w, \\W, \\s, \\S",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Character_class_escape"
+  },
+  {
+    "text": "Character class: [...], [^...]",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Character_class"
+  },
+  {
+    "text": "Character escape: \\n, \\u{...}",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Character_escape"
+  },
+  {
+    "text": "Disjunction: |",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Disjunction"
+  },
+  {
+    "text": "Input boundary assertion: ^, $",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Input_boundary_assertion"
+  },
+  {
+    "text": "Literal character: a, b",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Literal_character"
+  },
+  {
+    "text": "Lookahead assertion: (?=...), (?!...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Lookahead_assertion"
+  },
+  {
+    "text": "Lookbehind assertion: (?&lt;=...), (?&lt;!...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Lookbehind_assertion"
+  },
+  {
+    "text": "Modifier: (?ims-ims:...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Modifier"
+  },
+  {
+    "text": "Named backreference: \\k&lt;name&gt;",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Named_backreference"
+  },
+  {
+    "text": "Named capturing group: (?&lt;name&gt;...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group"
+  },
+  {
+    "text": "Non-capturing group: (?:...)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Non-capturing_group"
+  },
+  {
+    "text": "Quantifier: *, +, ?, {n}, {n,}, {n,m}",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Quantifier"
+  },
+  {
+    "text": "Unicode character class escape: \\p{...}, \\P{...}",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Unicode_character_class_escape"
+  },
+  {
+    "text": "Wildcard: .",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Wildcard"
+  },
+  {
+    "text": "Word boundary assertion: \\b, \\B",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Word_boundary_assertion"
+  },
+  {
+    "text": "Overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors"
+  },
+  {
+    "text": "AggregateError: No Promise in Promise.any was resolved",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Promise_any_all_rejected"
+  },
+  {
+    "text": "Error: Permission denied to access property \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Property_access_denied"
+  },
+  {
+    "text": "InternalError: too much recursion",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Too_much_recursion"
+  },
+  {
+    "text": "RangeError: argument is not a valid code point",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point"
+  },
+  {
+    "text": "RangeError: BigInt division by zero",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/BigInt_division_by_zero"
+  },
+  {
+    "text": "RangeError: BigInt negative exponent",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/BigInt_negative_exponent"
+  },
+  {
+    "text": "RangeError: form must be one of 'NFC', 'NFD', 'NFKC', or 'NFKD'",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Form_must_be_one_of"
+  },
+  {
+    "text": "RangeError: invalid array length",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_array_length"
+  },
+  {
+    "text": "RangeError: invalid date",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_date"
+  },
+  {
+    "text": "RangeError: precision is out of range",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Precision_range"
+  },
+  {
+    "text": "RangeError: radix must be an integer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_radix"
+  },
+  {
+    "text": "RangeError: repeat count must be less than infinity",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Resulting_string_too_large"
+  },
+  {
+    "text": "RangeError: repeat count must be non-negative",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Negative_repetition_count"
+  },
+  {
+    "text": "RangeError: x can't be converted to BigInt because it isn't an integer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_be_converted_to_BigInt_because_it_isnt_an_integer"
+  },
+  {
+    "text": "ReferenceError: \"x\" is not defined",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined"
+  },
+  {
+    "text": "ReferenceError: assignment to undeclared variable \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Undeclared_var"
+  },
+  {
+    "text": "ReferenceError: can't access lexical declaration 'X' before initialization",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_access_lexical_declaration_before_init"
+  },
+  {
+    "text": "ReferenceError: deprecated caller or arguments usage",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_caller_or_arguments_usage"
+  },
+  {
+    "text": "ReferenceError: must call super constructor before using 'this' in derived class constructor",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Super_not_called"
+  },
+  {
+    "text": "ReferenceError: super() called twice in derived class constructor",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Super_called_twice"
+  },
+  {
+    "text": "SyntaxError: 'arguments'/'eval' can't be defined or assigned to in strict mode code",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_strict_arguments_eval"
+  },
+  {
+    "text": "SyntaxError: \"0\"-prefixed octal literals are deprecated",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_octal_literal"
+  },
+  {
+    "text": "SyntaxError: \"use strict\" not allowed in function with non-simple parameters",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Strict_non_simple_params"
+  },
+  {
+    "text": "SyntaxError: \"x\" is a reserved identifier",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Reserved_identifier"
+  },
+  {
+    "text": "SyntaxError: \\ at end of pattern",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_backslash_at_end_of_pattern"
+  },
+  {
+    "text": "SyntaxError: a declaration in the head of a for-of loop can't have an initializer",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-of_initializer"
+  },
+  {
+    "text": "SyntaxError: applying the 'delete' operator to an unqualified name is deprecated",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Delete_in_strict_mode"
+  },
+  {
+    "text": "SyntaxError: arguments is not valid in fields",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Arguments_not_allowed"
+  },
+  {
+    "text": "SyntaxError: await is only valid in async functions, async generators and modules",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_await"
+  },
+  {
+    "text": "SyntaxError: await/yield expression can't be used in parameter",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/await_yield_in_parameter"
+  },
+  {
+    "text": "SyntaxError: cannot use `??` unparenthesized within `||` and `&amp;&amp;` expressions",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized"
+  },
+  {
+    "text": "SyntaxError: character class escape cannot be used in class range in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_character_class_escape_in_class_range"
+  },
+  {
+    "text": "SyntaxError: continue must be inside loop",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_continue"
+  },
+  {
+    "text": "SyntaxError: duplicate capture group name in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_duplicate_capture_group_name"
+  },
+  {
+    "text": "SyntaxError: duplicate formal argument x",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Duplicate_parameter"
+  },
+  {
+    "text": "SyntaxError: for-in loop head declarations may not have initializers",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-in_initializer"
+  },
+  {
+    "text": "SyntaxError: function statement requires a name",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unnamed_function_statement"
+  },
+  {
+    "text": "SyntaxError: functions cannot be labelled",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Function_label"
+  },
+  {
+    "text": "SyntaxError: getter and setter for private name #x should either be both static or non-static",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Either_be_both_static_or_non-static"
+  },
+  {
+    "text": "SyntaxError: getter functions must have no arguments",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Getter_no_arguments"
+  },
+  {
+    "text": "SyntaxError: identifier starts immediately after numeric literal",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Identifier_after_number"
+  },
+  {
+    "text": "SyntaxError: illegal character",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Illegal_character"
+  },
+  {
+    "text": "SyntaxError: import declarations may only appear at top level of a module",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/import_decl_module_top_level"
+  },
+  {
+    "text": "SyntaxError: incomplete quantifier in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_incomplete_quantifier"
+  },
+  {
+    "text": "SyntaxError: invalid assignment left-hand side",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_assignment_left-hand_side"
+  },
+  {
+    "text": "SyntaxError: invalid BigInt syntax",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_BigInt_syntax"
+  },
+  {
+    "text": "SyntaxError: invalid capture group name in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_capture_group_name"
+  },
+  {
+    "text": "SyntaxError: invalid character in class in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_char_in_class"
+  },
+  {
+    "text": "SyntaxError: invalid class set operation in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_class_set_operation"
+  },
+  {
+    "text": "SyntaxError: invalid decimal escape in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_decimal_escape"
+  },
+  {
+    "text": "SyntaxError: invalid identity escape in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_identity_escape"
+  },
+  {
+    "text": "SyntaxError: invalid named capture reference in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_named_capture_reference"
+  },
+  {
+    "text": "SyntaxError: invalid property name in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_property_name"
+  },
+  {
+    "text": "SyntaxError: invalid range in character class",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_range_in_character_class"
+  },
+  {
+    "text": "SyntaxError: invalid regexp group",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_group"
+  },
+  {
+    "text": "SyntaxError: invalid regular expression flag \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_regexp_flag"
+  },
+  {
+    "text": "SyntaxError: invalid unicode escape in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_invalid_unicode_escape"
+  },
+  {
+    "text": "SyntaxError: JSON.parse: bad parsing",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/JSON_bad_parse"
+  },
+  {
+    "text": "SyntaxError: label not found",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Label_not_found"
+  },
+  {
+    "text": "SyntaxError: missing : after property id",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_colon_after_property_id"
+  },
+  {
+    "text": "SyntaxError: missing ) after argument list",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_parenthesis_after_argument_list"
+  },
+  {
+    "text": "SyntaxError: missing ) after condition",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_parenthesis_after_condition"
+  },
+  {
+    "text": "SyntaxError: missing ] after element list",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_bracket_after_list"
+  },
+  {
+    "text": "SyntaxError: missing } after function body",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_curly_after_function_body"
+  },
+  {
+    "text": "SyntaxError: missing } after property list",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_curly_after_property_list"
+  },
+  {
+    "text": "SyntaxError: missing = in const declaration",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_initializer_in_const"
+  },
+  {
+    "text": "SyntaxError: missing formal parameter",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_formal_parameter"
+  },
+  {
+    "text": "SyntaxError: missing name after . operator",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_name_after_dot_operator"
+  },
+  {
+    "text": "SyntaxError: missing variable name",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_variable_name"
+  },
+  {
+    "text": "SyntaxError: negated character class with strings in regular expression",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_negated_char_class_with_strings"
+  },
+  {
+    "text": "SyntaxError: new keyword cannot be used with an optional chain",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_new_optional"
+  },
+  {
+    "text": "SyntaxError: nothing to repeat",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_nothing_to_repeat"
+  },
+  {
+    "text": "SyntaxError: numbers out of order in {} quantifier.",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_numbers_out_of_order_in_quantifier"
+  },
+  {
+    "text": "SyntaxError: octal escape sequences can't be used in untagged template literals or in strict mode code",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_octal_escape_sequence"
+  },
+  {
+    "text": "SyntaxError: parameter after rest parameter",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Parameter_after_rest_parameter"
+  },
+  {
+    "text": "SyntaxError: private fields can't be deleted",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_delete_private_fields"
+  },
+  {
+    "text": "SyntaxError: property name __proto__ appears more than once in object literal",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Duplicate_proto"
+  },
+  {
+    "text": "SyntaxError: raw bracket is not allowed in regular expression with unicode flag",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Regex_raw_bracket"
+  },
+  {
+    "text": "SyntaxError: redeclaration of formal parameter \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Redeclared_parameter"
+  },
+  {
+    "text": "SyntaxError: reference to undeclared private field or method #x",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Undeclared_private_field_or_method"
+  },
+  {
+    "text": "SyntaxError: rest parameter may not have a default",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Rest_with_default"
+  },
+  {
+    "text": "SyntaxError: return not in function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_return"
+  },
+  {
+    "text": "SyntaxError: setter functions must have one argument",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Setter_one_argument"
+  },
+  {
+    "text": "SyntaxError: string literal contains an unescaped line break",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/String_literal_EOL"
+  },
+  {
+    "text": "SyntaxError: super() is only valid in derived class constructors",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_super_call"
+  },
+  {
+    "text": "SyntaxError: tagged template cannot be used with optional chain",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_optional_template"
+  },
+  {
+    "text": "SyntaxError: Unexpected '#' used outside of class body",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Hash_outside_class"
+  },
+  {
+    "text": "SyntaxError: Unexpected token",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unexpected_token"
+  },
+  {
+    "text": "SyntaxError: unlabeled break must be inside loop or switch",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_break"
+  },
+  {
+    "text": "SyntaxError: unparenthesized unary expression can't appear on the left-hand side of '**'",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unparenthesized_unary_expr_lhs_exponentiation"
+  },
+  {
+    "text": "SyntaxError: use of super property/member accesses only valid within methods or eval code within methods",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_super_prop"
+  },
+  {
+    "text": "SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma"
+  },
+  {
+    "text": "TypeError: 'x' is not iterable",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable"
+  },
+  {
+    "text": "TypeError: \"x\" is (not) \"y\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unexpected_type"
+  },
+  {
+    "text": "TypeError: \"x\" is not a constructor",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_constructor"
+  },
+  {
+    "text": "TypeError: \"x\" is not a function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_function"
+  },
+  {
+    "text": "TypeError: \"x\" is not a non-null object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_non-null_object"
+  },
+  {
+    "text": "TypeError: \"x\" is read-only",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Read-only"
+  },
+  {
+    "text": "TypeError: BigInt value can't be serialized in JSON",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/BigInt_not_serializable"
+  },
+  {
+    "text": "TypeError: calling a builtin X constructor without new is forbidden",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Builtin_ctor_no_new"
+  },
+  {
+    "text": "TypeError: can't access/set private field or method: object is not the right class",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Get_set_missing_private"
+  },
+  {
+    "text": "TypeError: can't assign to property \"x\" on \"y\": not an object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_assign_to_property"
+  },
+  {
+    "text": "TypeError: can't convert BigInt to number",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_convert_BigInt_to_number"
+  },
+  {
+    "text": "TypeError: can't convert x to BigInt",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_convert_x_to_BigInt"
+  },
+  {
+    "text": "TypeError: can't define property \"x\": \"obj\" is not extensible",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_define_property_object_not_extensible"
+  },
+  {
+    "text": "TypeError: can't delete non-configurable array element",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Non_configurable_array_element"
+  },
+  {
+    "text": "TypeError: can't redefine non-configurable property \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_redefine_property"
+  },
+  {
+    "text": "TypeError: can't set prototype of this object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_set_prototype"
+  },
+  {
+    "text": "TypeError: can't set prototype: it would cause a prototype chain cycle",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cyclic_prototype"
+  },
+  {
+    "text": "TypeError: cannot use 'in' operator to search for 'x' in 'y'",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/in_operator_no_object"
+  },
+  {
+    "text": "TypeError: class constructors must be invoked with 'new'",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Class_ctor_no_new"
+  },
+  {
+    "text": "TypeError: cyclic object value",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cyclic_object_value"
+  },
+  {
+    "text": "TypeError: derived class constructor returned invalid value x",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_derived_return"
+  },
+  {
+    "text": "TypeError: getting private setter-only property",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Private_setter_only"
+  },
+  {
+    "text": "TypeError: Initializing an object twice is an error with private fields/methods",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Private_double_initialization"
+  },
+  {
+    "text": "TypeError: invalid 'instanceof' operand 'x'",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/invalid_right_hand_side_instanceof_operand"
+  },
+  {
+    "text": "TypeError: invalid Array.prototype.sort argument",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Array_sort_argument"
+  },
+  {
+    "text": "TypeError: invalid assignment to const \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_const_assignment"
+  },
+  {
+    "text": "TypeError: Iterator/AsyncIterator constructor can't be used directly",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Constructor_cant_be_used_directly"
+  },
+  {
+    "text": "TypeError: matchAll/replaceAll must be called with a global RegExp",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Requires_global_RegExp"
+  },
+  {
+    "text": "TypeError: More arguments needed",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/More_arguments_needed"
+  },
+  {
+    "text": "TypeError: null/undefined has no properties",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_properties"
+  },
+  {
+    "text": "TypeError: property \"x\" is non-configurable and can't be deleted",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_delete"
+  },
+  {
+    "text": "TypeError: Reduce of empty array with no initial value",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Reduce_of_empty_array_with_no_initial_value"
+  },
+  {
+    "text": "TypeError: setting getter-only property \"x\"",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Getter_only"
+  },
+  {
+    "text": "TypeError: WeakSet key/WeakMap value 'x' must be an object or an unregistered symbol",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Key_not_weakly_held"
+  },
+  {
+    "text": "TypeError: X.prototype.y called on incompatible type",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Called_on_incompatible_type"
+  },
+  {
+    "text": "URIError: malformed URI sequence",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Malformed_URI"
+  },
+  {
+    "text": "Warning: -file- is being assigned a //# sourceMappingURL, but already has one",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Already_has_pragma"
+  },
+  {
+    "text": "Warning: unreachable code after return statement",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Stmt_after_return"
+  },
+  {
+    "text": "JavaScript technologies overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview"
+  },
+  {
+    "text": "Lexical grammar",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar"
+  },
+  {
+    "text": "Iteration protocols",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols"
+  },
+  {
+    "text": "Strict mode",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode"
+  },
+  {
+    "text": "Template literals",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+  },
+  {
+    "text": "Trailing commas",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas"
+  },
+  {
+    "text": "Deprecated features",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features"
+  },
+  {
+    "text": "just-in-time",
+    "href": "https://en.wikipedia.org/wiki/Just-in-time_compilation"
+  },
+  {
+    "text": "first-class functions",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function"
+  },
+  {
+    "text": "many non-browser environments",
+    "href": "https://en.wikipedia.org/wiki/JavaScript#Other_usage"
+  },
+  {
+    "text": "Node.js",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/Node.js"
+  },
+  {
+    "text": "Apache CouchDB",
+    "href": "https://couchdb.apache.org/"
+  },
+  {
+    "text": "Adobe Acrobat",
+    "href": "https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/"
+  },
+  {
+    "text": "prototype-based",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming"
+  },
+  {
+    "text": "single-threaded",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/Thread"
+  },
+  {
+    "text": "dynamic",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing"
+  },
+  {
+    "text": "eval",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval"
+  },
+  {
+    "text": "for...in",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+  },
+  {
+    "text": "Object utilities",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object#static_methods"
+  },
+  {
+    "text": "toString()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/toString"
+  },
+  {
+    "text": "APIs",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/API"
+  },
+  {
+    "text": "Web APIs",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/API"
+  },
+  {
+    "text": "DOM",
+    "href": "https://developer.mozilla.org/en-US/docs/Glossary/DOM"
+  },
+  {
+    "text": "ECMAScript",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview"
+  },
+  {
+    "text": "JavaScript guide",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+  },
+  {
+    "text": "JavaScript reference",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"
+  },
+  {
+    "text": "JavaScript technologies overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview"
+  },
+  {
+    "text": "Learning Area JavaScript topic",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript"
+  },
+  {
+    "text": "JavaScript first steps",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"
+  },
+  {
+    "text": "JavaScript building blocks",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks"
+  },
+  {
+    "text": "Introducing JavaScript objects",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects"
+  },
+  {
+    "text": "Asynchronous JavaScript",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous"
+  },
+  {
+    "text": "Client-side web APIs",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs"
+  },
+  {
+    "text": "JavaScript Guide",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+  },
+  {
+    "text": "Understanding client-side JavaScript frameworks",
+    "href": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks"
+  },
+  {
+    "text": "JavaScript language overview",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview"
+  },
+  {
+    "text": "JavaScript data structures",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
+  },
+  {
+    "text": "Equality comparisons and sameness",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness"
+  },
+  {
+    "text": "Object.is()",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is"
+  },
+  {
+    "text": "Enumerability and ownership of properties",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties"
+  },
+  {
+    "text": "Closures",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+  },
+  {
+    "text": "Inheritance and the prototype chain",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain"
+  },
+  {
+    "text": "Memory Management",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management"
+  },
+  {
+    "text": "The event loop",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop"
+  },
+  {
+    "text": "JavaScript reference",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"
+  },
+  {
+    "text": "Standard objects",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects"
+  },
+  {
+    "text": "Array",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+  },
+  {
+    "text": "Boolean",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean"
+  },
+  {
+    "text": "Date",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
+  },
+  {
+    "text": "Error",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error"
+  },
+  {
+    "text": "Function",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function"
+  },
+  {
+    "text": "JSON",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"
+  },
+  {
+    "text": "Math",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math"
+  },
+  {
+    "text": "Number",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number"
+  },
+  {
+    "text": "Object",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+  },
+  {
+    "text": "RegExp",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+  },
+  {
+    "text": "String",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String"
+  },
+  {
+    "text": "Map",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map"
+  },
+  {
+    "text": "Set",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set"
+  },
+  {
+    "text": "WeakMap",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap"
+  },
+  {
+    "text": "WeakSet",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet"
+  },
+  {
+    "text": "Expressions and operators",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators"
+  },
+  {
+    "text": "instanceof",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof"
+  },
+  {
+    "text": "typeof",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof"
+  },
+  {
+    "text": "new",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new"
+  },
+  {
+    "text": "this",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"
+  },
+  {
+    "text": "operator precedence",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence"
+  },
+  {
+    "text": "Statements and declarations",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements"
+  },
+  {
+    "text": "do-while",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while"
+  },
+  {
+    "text": "for-in",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+  },
+  {
+    "text": "for-of",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of"
+  },
+  {
+    "text": "try-catch",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch"
+  },
+  {
+    "text": "let",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let"
+  },
+  {
+    "text": "var",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var"
+  },
+  {
+    "text": "const",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const"
+  },
+  {
+    "text": "if-else",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else"
+  },
+  {
+    "text": "switch",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch"
+  },
+  {
+    "text": "Functions",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions"
+  },
+  {
+    "text": "Classes",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes"
+  }
+]

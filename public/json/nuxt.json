@@ -1,0 +1,442 @@
+[
+  {
+    "text": "<ClientOnly>",
+    "href": "https://nuxt.com/docs/api/components/client-only"
+  },
+  {
+    "text": "<DevOnly>",
+    "href": "https://nuxt.com/docs/api/components/dev-only"
+  },
+  {
+    "text": "<NuxtClientFallback>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-client-fallback"
+  },
+  {
+    "text": "<NuxtPage>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-page"
+  },
+  {
+    "text": "<NuxtLayout>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-layout"
+  },
+  {
+    "text": "<NuxtLink>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-link"
+  },
+  {
+    "text": "<NuxtLoadingIndicator>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-loading-indicator"
+  },
+  {
+    "text": "<NuxtErrorBoundary>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-error-boundary"
+  },
+  {
+    "text": "<NuxtWelcome>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-welcome"
+  },
+  {
+    "text": "<NuxtIsland>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-island"
+  },
+  {
+    "text": "<NuxtImg>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-img"
+  },
+  {
+    "text": "<NuxtPicture>",
+    "href": "https://nuxt.com/docs/api/components/nuxt-picture"
+  },
+  {
+    "text": "<Teleport>",
+    "href": "https://nuxt.com/docs/api/components/teleports"
+  },
+  {
+    "text": "<NuxtRouteAnnouncer>New",
+    "href": "https://nuxt.com/docs/api/components/nuxt-route-announcer"
+  },
+  {
+    "text": "onPrehydrate",
+    "href": "https://nuxt.com/docs/api/composables/on-prehydrate"
+  },
+  {
+    "text": "useAppConfig",
+    "href": "https://nuxt.com/docs/api/composables/use-app-config"
+  },
+  {
+    "text": "useAsyncData",
+    "href": "https://nuxt.com/docs/api/composables/use-async-data"
+  },
+  {
+    "text": "useCookie",
+    "href": "https://nuxt.com/docs/api/composables/use-cookie"
+  },
+  {
+    "text": "useError",
+    "href": "https://nuxt.com/docs/api/composables/use-error"
+  },
+  {
+    "text": "useFetch",
+    "href": "https://nuxt.com/docs/api/composables/use-fetch"
+  },
+  {
+    "text": "useHead",
+    "href": "https://nuxt.com/docs/api/composables/use-head"
+  },
+  {
+    "text": "useHeadSafe",
+    "href": "https://nuxt.com/docs/api/composables/use-head-safe"
+  },
+  {
+    "text": "useHydration",
+    "href": "https://nuxt.com/docs/api/composables/use-hydration"
+  },
+  {
+    "text": "useId",
+    "href": "https://nuxt.com/docs/api/composables/use-id"
+  },
+  {
+    "text": "useLazyAsyncData",
+    "href": "https://nuxt.com/docs/api/composables/use-lazy-async-data"
+  },
+  {
+    "text": "useLazyFetch",
+    "href": "https://nuxt.com/docs/api/composables/use-lazy-fetch"
+  },
+  {
+    "text": "useLoadingIndicator",
+    "href": "https://nuxt.com/docs/api/composables/use-loading-indicator"
+  },
+  {
+    "text": "useNuxtApp",
+    "href": "https://nuxt.com/docs/api/composables/use-nuxt-app"
+  },
+  {
+    "text": "useNuxtData",
+    "href": "https://nuxt.com/docs/api/composables/use-nuxt-data"
+  },
+  {
+    "text": "usePreviewMode",
+    "href": "https://nuxt.com/docs/api/composables/use-preview-mode"
+  },
+  {
+    "text": "useRequestEvent",
+    "href": "https://nuxt.com/docs/api/composables/use-request-event"
+  },
+  {
+    "text": "useRequestFetch",
+    "href": "https://nuxt.com/docs/api/composables/use-request-fetch"
+  },
+  {
+    "text": "useRequestHeader",
+    "href": "https://nuxt.com/docs/api/composables/use-request-header"
+  },
+  {
+    "text": "useRequestHeaders",
+    "href": "https://nuxt.com/docs/api/composables/use-request-headers"
+  },
+  {
+    "text": "useRequestURL",
+    "href": "https://nuxt.com/docs/api/composables/use-request-url"
+  },
+  {
+    "text": "useResponseHeader",
+    "href": "https://nuxt.com/docs/api/composables/use-response-header"
+  },
+  {
+    "text": "useRoute",
+    "href": "https://nuxt.com/docs/api/composables/use-route"
+  },
+  {
+    "text": "useRouteAnnouncerNew",
+    "href": "https://nuxt.com/docs/api/composables/use-route-announcer"
+  },
+  {
+    "text": "useRouter",
+    "href": "https://nuxt.com/docs/api/composables/use-router"
+  },
+  {
+    "text": "useRuntimeConfig",
+    "href": "https://nuxt.com/docs/api/composables/use-runtime-config"
+  },
+  {
+    "text": "useRuntimeHook",
+    "href": "https://nuxt.com/docs/api/composables/use-runtime-hook"
+  },
+  {
+    "text": "useSeoMeta",
+    "href": "https://nuxt.com/docs/api/composables/use-seo-meta"
+  },
+  {
+    "text": "useServerSeoMeta",
+    "href": "https://nuxt.com/docs/api/composables/use-server-seo-meta"
+  },
+  {
+    "text": "useState",
+    "href": "https://nuxt.com/docs/api/composables/use-state"
+  },
+  {
+    "text": "$fetch",
+    "href": "https://nuxt.com/docs/api/utils/dollarfetch"
+  },
+  {
+    "text": "abortNavigation",
+    "href": "https://nuxt.com/docs/api/utils/abort-navigation"
+  },
+  {
+    "text": "addRouteMiddleware",
+    "href": "https://nuxt.com/docs/api/utils/add-route-middleware"
+  },
+  {
+    "text": "callOnceNew",
+    "href": "https://nuxt.com/docs/api/utils/call-once"
+  },
+  {
+    "text": "clearError",
+    "href": "https://nuxt.com/docs/api/utils/clear-error"
+  },
+  {
+    "text": "clearNuxtData",
+    "href": "https://nuxt.com/docs/api/utils/clear-nuxt-data"
+  },
+  {
+    "text": "clearNuxtState",
+    "href": "https://nuxt.com/docs/api/utils/clear-nuxt-state"
+  },
+  {
+    "text": "createError",
+    "href": "https://nuxt.com/docs/api/utils/create-error"
+  },
+  {
+    "text": "defineNuxtComponent",
+    "href": "https://nuxt.com/docs/api/utils/define-nuxt-component"
+  },
+  {
+    "text": "defineNuxtRouteMiddleware",
+    "href": "https://nuxt.com/docs/api/utils/define-nuxt-route-middleware"
+  },
+  {
+    "text": "definePageMeta",
+    "href": "https://nuxt.com/docs/api/utils/define-page-meta"
+  },
+  {
+    "text": "defineRouteRules",
+    "href": "https://nuxt.com/docs/api/utils/define-route-rules"
+  },
+  {
+    "text": "navigateTo",
+    "href": "https://nuxt.com/docs/api/utils/navigate-to"
+  },
+  {
+    "text": "onBeforeRouteLeave",
+    "href": "https://nuxt.com/docs/api/utils/on-before-route-leave"
+  },
+  {
+    "text": "onBeforeRouteUpdate",
+    "href": "https://nuxt.com/docs/api/utils/on-before-route-update"
+  },
+  {
+    "text": "onNuxtReady",
+    "href": "https://nuxt.com/docs/api/utils/on-nuxt-ready"
+  },
+  {
+    "text": "prefetchComponents",
+    "href": "https://nuxt.com/docs/api/utils/prefetch-components"
+  },
+  {
+    "text": "preloadComponents",
+    "href": "https://nuxt.com/docs/api/utils/preload-components"
+  },
+  {
+    "text": "preloadRouteComponents",
+    "href": "https://nuxt.com/docs/api/utils/preload-route-components"
+  },
+  {
+    "text": "prerenderRoutes",
+    "href": "https://nuxt.com/docs/api/utils/prerender-routes"
+  },
+  {
+    "text": "refreshCookieNew",
+    "href": "https://nuxt.com/docs/api/utils/refresh-cookie"
+  },
+  {
+    "text": "refreshNuxtData",
+    "href": "https://nuxt.com/docs/api/utils/refresh-nuxt-data"
+  },
+  {
+    "text": "reloadNuxtApp",
+    "href": "https://nuxt.com/docs/api/utils/reload-nuxt-app"
+  },
+  {
+    "text": "setPageLayout",
+    "href": "https://nuxt.com/docs/api/utils/set-page-layout"
+  },
+  {
+    "text": "setResponseStatus",
+    "href": "https://nuxt.com/docs/api/utils/set-response-status"
+  },
+  {
+    "text": "showError",
+    "href": "https://nuxt.com/docs/api/utils/show-error"
+  },
+  {
+    "text": "updateAppConfig",
+    "href": "https://nuxt.com/docs/api/utils/update-app-config"
+  },
+  {
+    "text": "nuxi add",
+    "href": "https://nuxt.com/docs/api/commands/add"
+  },
+  {
+    "text": "nuxi analyze",
+    "href": "https://nuxt.com/docs/api/commands/analyze"
+  },
+  {
+    "text": "nuxi build",
+    "href": "https://nuxt.com/docs/api/commands/build"
+  },
+  {
+    "text": "nuxi build-module",
+    "href": "https://nuxt.com/docs/api/commands/build-module"
+  },
+  {
+    "text": "nuxi cleanup",
+    "href": "https://nuxt.com/docs/api/commands/cleanup"
+  },
+  {
+    "text": "nuxi dev",
+    "href": "https://nuxt.com/docs/api/commands/dev"
+  },
+  {
+    "text": "nuxi devtools",
+    "href": "https://nuxt.com/docs/api/commands/devtools"
+  },
+  {
+    "text": "nuxi generate",
+    "href": "https://nuxt.com/docs/api/commands/generate"
+  },
+  {
+    "text": "nuxi info",
+    "href": "https://nuxt.com/docs/api/commands/info"
+  },
+  {
+    "text": "nuxi init",
+    "href": "https://nuxt.com/docs/api/commands/init"
+  },
+  {
+    "text": "nuxi module",
+    "href": "https://nuxt.com/docs/api/commands/module"
+  },
+  {
+    "text": "nuxi prepare",
+    "href": "https://nuxt.com/docs/api/commands/prepare"
+  },
+  {
+    "text": "nuxi preview",
+    "href": "https://nuxt.com/docs/api/commands/preview"
+  },
+  {
+    "text": "nuxi typecheck",
+    "href": "https://nuxt.com/docs/api/commands/typecheck"
+  },
+  {
+    "text": "nuxi upgrade",
+    "href": "https://nuxt.com/docs/api/commands/upgrade"
+  },
+  {
+    "text": "Modules",
+    "href": "https://nuxt.com/docs/api/kit/modules"
+  },
+  {
+    "text": "Programmatic Usage",
+    "href": "https://nuxt.com/docs/api/kit/programmatic"
+  },
+  {
+    "text": "Compatibility",
+    "href": "https://nuxt.com/docs/api/kit/compatibility"
+  },
+  {
+    "text": "Auto-imports",
+    "href": "https://nuxt.com/docs/api/kit/autoimports"
+  },
+  {
+    "text": "Components",
+    "href": "https://nuxt.com/docs/api/kit/components"
+  },
+  {
+    "text": "Context",
+    "href": "https://nuxt.com/docs/api/kit/context"
+  },
+  {
+    "text": "Pages",
+    "href": "https://nuxt.com/docs/api/kit/pages"
+  },
+  {
+    "text": "Layout",
+    "href": "https://nuxt.com/docs/api/kit/layout"
+  },
+  {
+    "text": "Plugins",
+    "href": "https://nuxt.com/docs/api/kit/plugins"
+  },
+  {
+    "text": "Runtime Config",
+    "href": "https://nuxt.com/docs/api/kit/runtime-config"
+  },
+  {
+    "text": "Templates",
+    "href": "https://nuxt.com/docs/api/kit/templates"
+  },
+  {
+    "text": "Nitro",
+    "href": "https://nuxt.com/docs/api/kit/nitro"
+  },
+  {
+    "text": "Resolving",
+    "href": "https://nuxt.com/docs/api/kit/resolving"
+  },
+  {
+    "text": "Logging",
+    "href": "https://nuxt.com/docs/api/kit/logging"
+  },
+  {
+    "text": "Builder",
+    "href": "https://nuxt.com/docs/api/kit/builder"
+  },
+  {
+    "text": "Examples",
+    "href": "https://nuxt.com/docs/api/kit/examples"
+  },
+  {
+    "text": "Lifecycle Hooks",
+    "href": "https://nuxt.com/docs/api/advanced/hooks"
+  },
+  {
+    "text": "Import meta",
+    "href": "https://nuxt.com/docs/api/advanced/import-meta"
+  },
+  {
+    "text": "Nuxt Configuration",
+    "href": "https://nuxt.com/docs/api/nuxt-config"
+  },
+  {
+    "text": "Composables",
+    "href": "https://nuxt.com/docs/api/composables"
+  },
+  {
+    "text": "Source",
+    "href": "https://github.com/nuxt/nuxt/blob/main/packages/nuxt/src/app/config.ts"
+  },
+  {
+    "text": "Usage",
+    "href": "https://nuxt.com/docs/api/composables/use-app-config#usage"
+  },
+  {
+    "text": "onPrehydrateUse onPrehydrate to run a callback on the client immediately before Nuxt hydrates the page.",
+    "href": "https://nuxt.com/docs/api/composables/on-prehydrate"
+  },
+  {
+    "text": "useAsyncDatauseAsyncData provides access to data that resolves asynchronously in an SSR-friendly composable.",
+    "href": "https://nuxt.com/docs/api/composables/use-async-data"
+  }
+]

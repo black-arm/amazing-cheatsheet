@@ -1,0 +1,386 @@
+[
+  {
+    "text": "Reference",
+    "href": "https://git-scm.com/docs"
+  },
+  {
+    "text": "Complete list of all commands",
+    "href": "https://git-scm.com/docs/git#_git_commands"
+  },
+  {
+    "text": "git",
+    "href": "https://git-scm.com/docs/git"
+  },
+  {
+    "text": "config",
+    "href": "https://git-scm.com/docs/git-config"
+  },
+  {
+    "text": "help",
+    "href": "https://git-scm.com/docs/git-help"
+  },
+  {
+    "text": "bugreport",
+    "href": "https://git-scm.com/docs/git-bugreport"
+  },
+  {
+    "text": "init",
+    "href": "https://git-scm.com/docs/git-init"
+  },
+  {
+    "text": "clone",
+    "href": "https://git-scm.com/docs/git-clone"
+  },
+  {
+    "text": "add",
+    "href": "https://git-scm.com/docs/git-add"
+  },
+  {
+    "text": "status",
+    "href": "https://git-scm.com/docs/git-status"
+  },
+  {
+    "text": "diff",
+    "href": "https://git-scm.com/docs/git-diff"
+  },
+  {
+    "text": "commit",
+    "href": "https://git-scm.com/docs/git-commit"
+  },
+  {
+    "text": "notes",
+    "href": "https://git-scm.com/docs/git-notes"
+  },
+  {
+    "text": "restore",
+    "href": "https://git-scm.com/docs/git-restore"
+  },
+  {
+    "text": "reset",
+    "href": "https://git-scm.com/docs/git-reset"
+  },
+  {
+    "text": "rm",
+    "href": "https://git-scm.com/docs/git-rm"
+  },
+  {
+    "text": "mv",
+    "href": "https://git-scm.com/docs/git-mv"
+  },
+  {
+    "text": "branch",
+    "href": "https://git-scm.com/docs/git-branch"
+  },
+  {
+    "text": "checkout",
+    "href": "https://git-scm.com/docs/git-checkout"
+  },
+  {
+    "text": "switch",
+    "href": "https://git-scm.com/docs/git-switch"
+  },
+  {
+    "text": "merge",
+    "href": "https://git-scm.com/docs/git-merge"
+  },
+  {
+    "text": "mergetool",
+    "href": "https://git-scm.com/docs/git-mergetool"
+  },
+  {
+    "text": "log",
+    "href": "https://git-scm.com/docs/git-log"
+  },
+  {
+    "text": "stash",
+    "href": "https://git-scm.com/docs/git-stash"
+  },
+  {
+    "text": "tag",
+    "href": "https://git-scm.com/docs/git-tag"
+  },
+  {
+    "text": "worktree",
+    "href": "https://git-scm.com/docs/git-worktree"
+  },
+  {
+    "text": "fetch",
+    "href": "https://git-scm.com/docs/git-fetch"
+  },
+  {
+    "text": "pull",
+    "href": "https://git-scm.com/docs/git-pull"
+  },
+  {
+    "text": "push",
+    "href": "https://git-scm.com/docs/git-push"
+  },
+  {
+    "text": "remote",
+    "href": "https://git-scm.com/docs/git-remote"
+  },
+  {
+    "text": "submodule",
+    "href": "https://git-scm.com/docs/git-submodule"
+  },
+  {
+    "text": "show",
+    "href": "https://git-scm.com/docs/git-show"
+  },
+  {
+    "text": "log",
+    "href": "https://git-scm.com/docs/git-log"
+  },
+  {
+    "text": "diff",
+    "href": "https://git-scm.com/docs/git-diff"
+  },
+  {
+    "text": "difftool",
+    "href": "https://git-scm.com/docs/git-difftool"
+  },
+  {
+    "text": "range-diff",
+    "href": "https://git-scm.com/docs/git-range-diff"
+  },
+  {
+    "text": "shortlog",
+    "href": "https://git-scm.com/docs/git-shortlog"
+  },
+  {
+    "text": "describe",
+    "href": "https://git-scm.com/docs/git-describe"
+  },
+  {
+    "text": "apply",
+    "href": "https://git-scm.com/docs/git-apply"
+  },
+  {
+    "text": "cherry-pick",
+    "href": "https://git-scm.com/docs/git-cherry-pick"
+  },
+  {
+    "text": "diff",
+    "href": "https://git-scm.com/docs/git-diff"
+  },
+  {
+    "text": "rebase",
+    "href": "https://git-scm.com/docs/git-rebase"
+  },
+  {
+    "text": "revert",
+    "href": "https://git-scm.com/docs/git-revert"
+  },
+  {
+    "text": "bisect",
+    "href": "https://git-scm.com/docs/git-bisect"
+  },
+  {
+    "text": "blame",
+    "href": "https://git-scm.com/docs/git-blame"
+  },
+  {
+    "text": "grep",
+    "href": "https://git-scm.com/docs/git-grep"
+  },
+  {
+    "text": "gitattributes",
+    "href": "https://git-scm.com/docs/gitattributes"
+  },
+  {
+    "text": "Command-line interface conventions",
+    "href": "https://git-scm.com/docs/gitcli"
+  },
+  {
+    "text": "Everyday Git",
+    "href": "https://git-scm.com/docs/giteveryday"
+  },
+  {
+    "text": "Frequently Asked Questions (FAQ)",
+    "href": "https://git-scm.com/docs/gitfaq"
+  },
+  {
+    "text": "Glossary",
+    "href": "https://git-scm.com/docs/gitglossary"
+  },
+  {
+    "text": "Hooks",
+    "href": "https://git-scm.com/docs/githooks"
+  },
+  {
+    "text": "gitignore",
+    "href": "https://git-scm.com/docs/gitignore"
+  },
+  {
+    "text": "gitmodules",
+    "href": "https://git-scm.com/docs/gitmodules"
+  },
+  {
+    "text": "Revisions",
+    "href": "https://git-scm.com/docs/gitrevisions"
+  },
+  {
+    "text": "Submodules",
+    "href": "https://git-scm.com/docs/gitsubmodules"
+  },
+  {
+    "text": "Tutorial",
+    "href": "https://git-scm.com/docs/gittutorial"
+  },
+  {
+    "text": "Workflows",
+    "href": "https://git-scm.com/docs/gitworkflows"
+  },
+  {
+    "text": "All guides...",
+    "href": "https://git-scm.com/docs/git#_guides"
+  },
+  {
+    "text": "am",
+    "href": "https://git-scm.com/docs/git-am"
+  },
+  {
+    "text": "apply",
+    "href": "https://git-scm.com/docs/git-apply"
+  },
+  {
+    "text": "format-patch",
+    "href": "https://git-scm.com/docs/git-format-patch"
+  },
+  {
+    "text": "send-email",
+    "href": "https://git-scm.com/docs/git-send-email"
+  },
+  {
+    "text": "request-pull",
+    "href": "https://git-scm.com/docs/git-request-pull"
+  },
+  {
+    "text": "svn",
+    "href": "https://git-scm.com/docs/git-svn"
+  },
+  {
+    "text": "fast-import",
+    "href": "https://git-scm.com/docs/git-fast-import"
+  },
+  {
+    "text": "clean",
+    "href": "https://git-scm.com/docs/git-clean"
+  },
+  {
+    "text": "gc",
+    "href": "https://git-scm.com/docs/git-gc"
+  },
+  {
+    "text": "fsck",
+    "href": "https://git-scm.com/docs/git-fsck"
+  },
+  {
+    "text": "reflog",
+    "href": "https://git-scm.com/docs/git-reflog"
+  },
+  {
+    "text": "filter-branch",
+    "href": "https://git-scm.com/docs/git-filter-branch"
+  },
+  {
+    "text": "instaweb",
+    "href": "https://git-scm.com/docs/git-instaweb"
+  },
+  {
+    "text": "archive",
+    "href": "https://git-scm.com/docs/git-archive"
+  },
+  {
+    "text": "bundle",
+    "href": "https://git-scm.com/docs/git-bundle"
+  },
+  {
+    "text": "daemon",
+    "href": "https://git-scm.com/docs/git-daemon"
+  },
+  {
+    "text": "update-server-info",
+    "href": "https://git-scm.com/docs/git-update-server-info"
+  },
+  {
+    "text": "cat-file",
+    "href": "https://git-scm.com/docs/git-cat-file"
+  },
+  {
+    "text": "check-ignore",
+    "href": "https://git-scm.com/docs/git-check-ignore"
+  },
+  {
+    "text": "checkout-index",
+    "href": "https://git-scm.com/docs/git-checkout-index"
+  },
+  {
+    "text": "commit-tree",
+    "href": "https://git-scm.com/docs/git-commit-tree"
+  },
+  {
+    "text": "count-objects",
+    "href": "https://git-scm.com/docs/git-count-objects"
+  },
+  {
+    "text": "diff-index",
+    "href": "https://git-scm.com/docs/git-diff-index"
+  },
+  {
+    "text": "for-each-ref",
+    "href": "https://git-scm.com/docs/git-for-each-ref"
+  },
+  {
+    "text": "hash-object",
+    "href": "https://git-scm.com/docs/git-hash-object"
+  },
+  {
+    "text": "ls-files",
+    "href": "https://git-scm.com/docs/git-ls-files"
+  },
+  {
+    "text": "ls-tree",
+    "href": "https://git-scm.com/docs/git-ls-tree"
+  },
+  {
+    "text": "merge-base",
+    "href": "https://git-scm.com/docs/git-merge-base"
+  },
+  {
+    "text": "read-tree",
+    "href": "https://git-scm.com/docs/git-read-tree"
+  },
+  {
+    "text": "rev-list",
+    "href": "https://git-scm.com/docs/git-rev-list"
+  },
+  {
+    "text": "rev-parse",
+    "href": "https://git-scm.com/docs/git-rev-parse"
+  },
+  {
+    "text": "show-ref",
+    "href": "https://git-scm.com/docs/git-show-ref"
+  },
+  {
+    "text": "symbolic-ref",
+    "href": "https://git-scm.com/docs/git-symbolic-ref"
+  },
+  {
+    "text": "update-index",
+    "href": "https://git-scm.com/docs/git-update-index"
+  },
+  {
+    "text": "update-ref",
+    "href": "https://git-scm.com/docs/git-update-ref"
+  },
+  {
+    "text": "verify-pack",
+    "href": "https://git-scm.com/docs/git-verify-pack"
+  },
+  {
+    "text": "write-tree",
+    "href": "https://git-scm.com/docs/git-write-tree"
+  }
+]
